@@ -11,3 +11,11 @@ div.navBar {
     font-size: 30px;
     width: 100%
 }
+
+img {
+    display: block;
+    margin: 20px auto; 
+    width: 50%; 
+    height: auto; 
+    opacity: 0.8; 
+}
