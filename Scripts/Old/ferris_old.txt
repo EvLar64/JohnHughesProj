@@ -1,4 +1,19 @@
-"FERRIS BUELLER'S DAY OFF"
+
+<!-- saved from url=(0064)https://www.dailyscript.com/scripts/ferris_bueller_shooting.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script>
+<!--
+if (window!= top)
+top.location.href=location.href
+// -->
+</script>
+<title>"FERRIS BUELLER'S DAY OFF" by John Hughes</title>
+</head>
+<body><pre>
+
+
+
+                         "FERRIS BUELLER'S DAY OFF"
 
                                      by
 
@@ -6859,3 +6874,8 @@
      END TITLES
 
                               THE END
+
+
+
+</pre>
+</body></html>

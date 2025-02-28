@@ -1,4 +1,29 @@
-The Breakfast Club
+
+<!-- saved from url=(0055)https://www.dailyscript.com/scripts/breakfast_club.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>The Breakfast Club script by John Hughes</title>
+<meta name="description" content="The Breakfast Club script by John Hughes">
+<meta name="keywords" content="The Breakfast Club script, The Breakfast Club movie script, The Breakfast Club film script, The Breakfast Club screenplay">
+
+<meta name="robots" content="index,follow">
+<meta http-equiv="Content-Language" content="EN">
+<meta name="objecttype" content="Document">
+<meta name="Subject" content="Movie scripts, Film scripts">
+<meta name="rating" content="General">
+<meta name="distribution" content="GLOBAL">
+<meta name="revisit-after" content="14 days">
+<meta name="AUTHOR" content="Daily Script">
+<meta name="OPERATOR" content="The Daily Script">
+<meta name="intsearch" content="dailyscript.com, daily script, the daily script, dailyscripts.com, daily scripts, movie scipts, movie screenplays">
+
+<script>
+<!--
+if (window!= top)
+top.location.href=location.href
+// -->
+</script>
+</head>
+<body><pre>                      The Breakfast Club
 
                     written and directed by
                          John Hughes
@@ -105,7 +130,7 @@ BLANK SCREEN:
 4. INT. ANDREW'S CAR - DAY
 
      We see ANDREW and his FATHER.  Andrew is clearly a jock;
-     he's wearing a letterman's jacket with lots of patches on it.
+     he�s wearing a letterman�s jacket with lots of patches on it.
 
                        ANDREW'S FATHER
                Hey, I screwed around...guys screw
@@ -347,7 +372,7 @@ BLANK SCREEN:
      Bender.
 
      Bender starts loudly "singing" the musical part of a
-     song.  "Nah, nah, nah, nah, nah, nah...nah, nah, nah..."
+     song.  �Nah, nah, nah, nah, nah, nah...nah, nah, nah...�
 
                             CLAIRE
                     (to herself)
@@ -1157,8 +1182,8 @@ BLANK SCREEN:
                Alright, that's it!  I'm going to
                be right outside those doors.  The
                next time I hafta come in here...I'm
-               cracking skulls!  (Bender mouths "I'm
-               cracking skulls")
+               cracking skulls!  (Bender mouths �I�m
+               cracking skulls�)
 
      Vernon leaves and closes the door.  A musical riff
      builds to a climax as Bender screams.
@@ -2380,8 +2405,8 @@ BLANK SCREEN:
      Bender puts his bag of marijuana into Brian's
      underwear.
 
-     Bender runs away singing loudly.  "I wanna be an
-     airborne ranger..."
+     Bender runs away singing loudly.  �I wanna be an
+     airborne ranger...�
 
      We see Vernon hear Bender.
 
@@ -4357,9 +4382,9 @@ the
 
 39. EXT. PARKING LOT - DAY
 
-     Brian gets into his dad's car and leaves.
+     Brian gets into his dad�s car and leaves.
      Andrew and Allison kiss, Allison rips a patch off
-     Andrew's jacket and gets into the car.
+     Andrew�s jacket and gets into the car.
 
      Andrew's dad arrives and looks at him, then at Allison.
 
@@ -4427,3 +4452,7 @@ the
           John Bender..............Judd Nelson
           Claire Standish..........Molly Ringwald
           Allison Reynolds.........Ally Sheedy
+
+
+</pre>
+</body></html>
