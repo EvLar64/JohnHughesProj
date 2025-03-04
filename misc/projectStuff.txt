@@ -1,0 +1,48 @@
+John Hughes Project
+
+Sixteen Candles - Sean
+Ferris Bueller’s Day Off - Railey
+The Breakfast Club - Evan
+
+- Website additions (project summary w/ res. questions, links to documents, maybe some stylization)
+- Schema
+
+General Markdown Structure: 
+
+	INTRO ELEMENTS:
+	<script> [root]
+	
+	<scriptInfo>
+		<date>
+		<dir>
+		<quote> (?)
+		<title>
+	</scriptInfo>
+
+
+	MAIN SCRIPT ELEMENTS:
+	<scene> : wraps entire scene
+	<narr> : wraps narrator information
+	<d who=“ferris> : wraps dialogue, charts speaker (starting right before capital character name till end of sentence.)
+
+	<char who=“ferris”> : wraps any character mentions in dialogue or narration (outside of capital dialog names) and repeating (to chart character mentions later).
+	If it’s a regular character, they’ll get a character code in the “who” attribute which will later be put in schema; if not regular, who=“side” (sometimes gets muddy, use best discretion).
+	<desc> : wraps any parenthetical descriptors (ex. <desc>(whispers, sadistic)</desc> )
+
+	If labeled V.O. : <d who=“ferris” vo = “true”> (no false, just true if applies)
+	If labeled O.S. : <d who=“ferris” os = “true”>
+
+	<shot type=“pan,slow,close”> : wraps a specific description of a shot or camera movement (those aren’t all types of shots but they should mostly be the basic types)
+
+	<credits> (if applicable)
+
+	(MAYBE: after initial markup go back with regex and wrap capital name in dialog)
+
+	OTHER NOTES
+—	If your script does something like this between pages:
+ Sara Baker, seven, comes out of her room. She's all sweetness and cutes. CONTINUED  CONTINUED 2 SARA You don't have a fever.
+
+The “continues” will be ignored (we’ll use links to page numbers or scenes later), basically just close the previous element at the end of the last line, and open the next one on the new page (even if it splits the same kind of element).
+
+—	If “OMITTED” : wrap the word with <omit></omit> 
+	
