@@ -24,6 +24,8 @@ General Markdown Structure:
 	<scene> : wraps entire scene
 	<narr> : wraps narrator information
 	<d who=“ferris> : wraps dialogue, charts speaker (starting right before capital character name till end of sentence.)
+	
+	<loc int="true" ; ext="true"> : wraps all marked locations, and gives an Interior or Exterior attribute if given (only "true" if given, no false; not always necessary either)
 
 	<char who=“ferris”> : wraps any character mentions in dialogue or narration (outside of capital dialog names) and repeating (to chart character mentions later).
 	If it’s a regular character, they’ll get a character code in the “who” attribute which will later be put in schema; if not regular, who=“side” (sometimes gets muddy, use best discretion).
