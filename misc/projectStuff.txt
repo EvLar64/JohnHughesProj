@@ -4,8 +4,10 @@ Sixteen Candles - Sean
 Ferris Bueller’s Day Off - Railey
 The Breakfast Club - Evan
 
-- Website additions (project summary w/ res. questions, links to documents, maybe some stylization)
-- Schema
+Milestone 3 Tasks:
+Sean - creating iXML in attempts to be able to wrap whole scenes
+Railey - "Team" Page additions on website w/ blurbs on each member, images, and more stylization
+Evan - Updating main project text doc with new markup additions; first schema draft; pipeline description file
 
 General Markdown Structure: 
 
@@ -38,7 +40,10 @@ General Markdown Structure:
 
 	<credits> (if applicable)
 
-	(MAYBE: after initial markup go back with regex and wrap capital name in dialog)
+	(MAYBE: after initial markup go back with regex and wrap capital names in dialog)
+
+	MOVIE-SPECIFIC ELEMENTS:
+	Ferris Bueller - Wrap any 4TH-WALL-BREAKING lines of dialogue in a <4w> tag (moments where Ferris talks to camera, etc.)
 
 	OTHER NOTES
 —	If your script does something like this between pages:
