@@ -43,7 +43,7 @@ General Markdown Structure:
 	(MAYBE: after initial markup go back with regex and wrap capital names in dialog)
 
 	MOVIE-SPECIFIC ELEMENTS:
-	Ferris Bueller - Wrap any 4TH-WALL-BREAKING lines of dialogue in a <4w> tag (moments where Ferris talks to camera, etc.)
+	Ferris Bueller - Wrap any 4TH-WALL-BREAKING lines of dialogue in a <fourthwall> tag (moments where Ferris talks to camera, etc.)
 
 	OTHER NOTES
 —	If your script does something like this between pages:
