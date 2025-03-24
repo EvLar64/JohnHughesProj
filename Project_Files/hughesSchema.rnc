@@ -1,0 +1,38 @@
+# UPDATE AS NEEDED
+
+script = element script {mixed{scene*, narr*, d*, desc*, credits*, omit*}}
+credits = element credits {text}
+
+scriptInfo = element scriptInfo {date, dir, quote?, title}
+title = element title {text}
+
+root = element root {scriptInfo, script}
+omit = element omit {"OMITTED"}
+
+fourthwall = element fourthwall {text}
+
+scene = element scene {(narr | d | loc | char | desc | text)* }
+num = attribute num {xsd:int}
+
+d = element d {(desc | char | vo | os | who | text)*}
+vo = attribute vo {"true"}
+os = attribute os {"true"}
+
+char = element char {text, who}
+who = attribute who { } 
+
+loc = element loc {mixed{ext*, int*, char*}}
+int = attribute int {"true"}
+ext = attribute ext {"true"}
+
+
+desc = element desc {(char | text)*}
+shot = element shot {(tracking | panning | slow | close | overhead | pov | char | loc | text)*}
+tracking = attribute tracking {"true"}
+panning = attribute panning {"true"}
+close = attribute close {"true"}
+pov = attribute pov {"true"}
+slow = attribute slow{"true"}
+overhead = attribute overhead{"true"}
+
+narr = element narr {(char | shot | loc | desc | text)*}
