@@ -1,3 +1,4 @@
+<<<<<<< HEAD:Scripts/sixteen.xml
 <!DOCTYPE html>
 <xml>
 <root><scriptInfo>June 22, 1983
@@ -26,6 +27,30 @@ An alarm clock goes off with a jarring bzzzzz!</narr>
 </scene><scene>
 <loc int="true">INT. HOUSE - SECOND FLOOR HALLWAY</loc>
 <narr>The alarm continues for a beat. It stops and the house
+=======
+June 22, 1983
+EXEC. PRODUCER: Ned Tanen
+PRODUCER: Hilton Green
+SIXTEEN CANDLES
+Final Draft Screenplay
+-by
+JOHN HUGHES
+
+SIXTEEN CANDLES
+FADE IN
+EXT .. SUBURBAN NEIGHBORHOOD - DAWN
+A quiet, upper-middle class, North Shore Chicago suburb. A
+Chevy Blazer cruises slowly down the street. Morning
+papers are pitched out the window. A dog runs between the
+houses. It's early autumn.
+EXT. BAKER HOUSE
+An attractive, old, three-story brick colonial. A news-
+paper flies into frame, strikes the corner of the house and
+drops into the bushes, a good twenty feet from the porch.
+An alarm clock goes off with a jarring bzzzzz!
+INT. HOUSE - SECOND FLOOR HALLWAY
+The alarm continues for a beat. It stops and the house
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 explodes with activity as the Baker family wakes and
 scrambles about their morning activities. There's <char who="jim">Jim
 Baker</char>, midforties, father, insurance executive, tall, lean,
@@ -93,6 +118,7 @@ Later.</d>
 <narr><char who="sara">Sara</char> turns up her nose and goes back down the hall to the
 other bathroom.</narr>
 3
+<<<<<<< HEAD:Scripts/sixteen.xml
 <d who="jim">JIM</d>
 <narr>discovers the bathroom door's locked. He rattles the knob.</narr>
 <d who="jim:">JIM
@@ -107,11 +133,26 @@ the side of her head.</narr>
 <d who="ginny">GINNY·
 I'm the one getting married, Daddy.</d>
 <d who="jim">JIM (O.C.) >
+=======
+JIM
+discovers the bathroom door's locked. He rattles the knob.
+JIM
+I was in there first! Open the door!
+GINNY (O.C.)
+I'm so sure!
+INT. BATHROOM - SHOWER
+Ginny's standing in the shower with the water beating against
+the side of her head.
+GINNY·
+I'm the one getting married, Daddy.
+JIM (O.C.) >
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 Not until tomorrow. Come on! I got
 a mouthful of toothpaste!</d>
 <d who="ginny">GINNY
 <desc>(to herself)</desc>
 What a pest.
+<<<<<<< HEAD:Scripts/sixteen.xml
 <desc>(to Jim)</desc>
 I happen to have a serious problem!</d>
 
@@ -121,6 +162,15 @@ I happen to have a serious problem!</d>
 leaning on the knewl post, eavesdropping.</narr>
 <d who="mike">MIKE
 <desc>(with a chuckle)</desc>
+=======
+(to Jim)
+I happen to have a serious problem!
+INT. HALLWAY
+Jim growls angrily and gives up. He turns to see Mike
+leaning on the knewl post, eavesdropping.
+MIKE
+(with a chuckle)
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 She has her·period, Dad.
 <desc>(raises an
 eyebrow)</desc>
@@ -135,11 +185,17 @@ Where're you getting that mouth?</d>
 factly)</desc>
 School.</d>
 4
+<<<<<<< HEAD:Scripts/sixteen.xml
 
 </scene><scene>
 <loc int="true">INT. KITCHEN</loc>
 <narr><char who="brenda">Brenda</char>'s making coffee, eggs, toast and school lunches all
 at the same time. <char who="mike">Mike</char> wanders in and turns on the TV and
+=======
+INT. KITCHEN
+Brenda's making coffee, eggs, toast and school lunches all
+at the same time. Mike wanders in and turns on the TV and
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 dials in cartoons. A bowl of cereal is waiting for him.
 He starts to eat.</narr>
 <d who="brenda">BRENDA
@@ -153,6 +209,7 @@ Nope</d>.
 over and looks in the sink.</narr>
 <d who="brenda">BRENDA
 Thank you, dear. You just unloaded
+<<<<<<< HEAD:Scripts/sixteen.xml
 all over my luncheon.</d>
 <narr>CLOSEUP - SINK
 A bowl of boiled shrimp covered with toothpaste.</narr>
@@ -170,6 +227,21 @@ A bowl of boiled shrimp covered with toothpaste.</narr>
 </scene><scene>
 <loc int="true">INT. OTHER BATHROOM</loc>
 <narr><char who="sara">Sara</char>'s standing on a stool, bare-chested with an underarm
+=======
+all over my luncheon.
+CLOSEUP - SINK
+A bowl of boiled shrimp covered with toothpaste.
+INT. KITCHEN
+Jim smiles sheepishly at Brenda. to rinse the shrimp.
+BRENDA
+Mike, make sure Sam gets up.
+MIKE
+(shouts)
+Sara! Wake up Sam!
+She turns on the water
+INT. OTHER BATHROOM
+Sara's standing on a stool, bare-chested with an underarm
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 lathered with shave cream. She's shaving her underarms
 with Jim's electric razor. She turns it off, put-out with
 the order to wake <char who="sam">Sam</char>.</narr>
@@ -177,6 +249,7 @@ the order to wake <char who="sam">Sam</char>.</narr>
 Jesus Christ! What am I? A slave?</d>
 <narr>She opens the door.</narr>
 5
+<<<<<<< HEAD:Scripts/sixteen.xml
 
 </scene><scene>
 <loc int="true">INT. HALLWAY</loc>
@@ -188,6 +261,15 @@ Hey, Dorklips! Haul ass!</d>
 </scene><scene>
 <loc int="true">INT. HOUSE - THIRD FLOOR BEDROOM</loc>
 I<narr>t's a girl's bedroom done in antiques and frills. In
+=======
+INT. HALLWAY
+Sara comes out of the bathroom, crosses to a door leading
+to a third floor staircase and yells.
+SARA
+Hey, Dorklips! Haul ass!
+INT. HOUSE - THIRD FLOOR BEDROOM
+It's a girl's bedroom done in antiques and frills. In
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 contrast to the mayhem on the first two floors, the third
 floor is quiet and serene. A brilliant shaft of morning
 sunlight shines down through a skylight above the brass
@@ -252,12 +334,19 @@ I'll see you
 She hangs up the phone.</d>
 <d who="sam">SAM
 I need four inches of bod and a
+<<<<<<< HEAD:Scripts/sixteen.xml
 great birthday.</d>
 <narr>DISSOLVE TO</narr>
 
 </scene><scene>
 <loc int="true">INT. HOUSE - SECOND FLOOR HALL</loc>
 <narr><char who="sam">Sam</char> comes down the hall, buttoning her blouse. <char who="jim">Jim</char> comes
+=======
+great birthday.
+DISSOLVE TO
+INT. HOUSE - SECOND FLOOR HALL
+Sam comes down the hall, buttoning her blouse. Jim comes
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 out of the bedroom, dressed for work. She sees him and
 stops. She smiles, waiting for a "happy birthday" from him.</narr>
 <d who="sam">SAM
@@ -294,12 +383,19 @@ This is such a deluxe bite.</d>
 <desc>(to herself,
 sarcastically)</desc>
 Thank you. Yes, it is my birthday.
+<<<<<<< HEAD:Scripts/sixteen.xml
 How nice of you to remember.</d>
 
 </scene><scene>
 <loc int="true">INT. HOUSE - FOYER</loc>
 <char who="brenda">Brenda</char> herds <char who="mike">Mike</char> and <char who="sara"> Sara</char> through the dining room and into
 the foyer. <char who="jim">Jim</char> comes in from the living room. He's fran-
+=======
+How nice of you to remember.
+INT. HOUSE - FOYER
+Brenda herds Mike and Sara through the dining room and into
+the foyer. Jim comes in from the living room. He's fran-
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 tically searching for his briefcase.
 <d who="jim">JIM
 Where's my briefcase?</d>
@@ -422,12 +518,19 @@ at the ceiling, fighting off her tears.</narr>
 <desc>(to herself,
 incredulous)</desc>
 I can't believe this. They fucking
+<<<<<<< HEAD:Scripts/sixteen.xml
 forgot my birthday.</d>
 <narr>Theme music comes up.</narr>
 
 </scene><scene>
 <loc ext="true">EXT. HIGH SCHOOL - MORNING - ESTABLISHING</loc>
 <narr>A sprawling suburban high school.
+=======
+forgot my birthday.
+Theme music comes up.
+EXT. HIGH SCHOOL - MORNING - ESTABLISHING
+A sprawling suburban high school.
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 Roll credits over:
 HIGH SCHOOL MONTAGE
 A -- Bus doors opening, young faces spilling out.
@@ -442,6 +545,7 @@ F -- A girl's head from the brow up as she furiously fusses
 with her tresses.
 G -- Lips are painted animal pink.
 CONTINUED
+<<<<<<< HEAD:Scripts/sixteen.xml
 14</narr>
 
 </scene><scene>
@@ -456,6 +560,18 @@ yawns. <char who="sam">Sam</char>'s hunched over taking the sex test.</d>
 <loc int="true">INT. ROOM - SENIOR BOY</loc>
 <narr>One seat behind <char who="sam">Sam</char> in the next row of desks is a tall,
 handsome senior, <char who="jake">Jake Ryan</char>. He's an athlete and a
+=======
+14
+INT. INDEPENDENT STUDY ROOM
+A large study hall. A male teacher is at the head of the
+class grading papers. Sam's in the second seat from the
+back. Randy's directly behind her, slumped down in her
+chair with an open book propped up in front of her. She
+yawns. Sam's hunched over taking the sex test.
+INT. ROOM - SENIOR BOY
+One seat behind Sam in the next row of desks is a tall,
+handsome senior, Jake Ryan. He's an athlete and a
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 class officer. The most significant male in the entire
 student body. He's bored with the study hall and is
 staring at <char who="sam">Sam</char>. She's figuring somewhere in his daydream.
@@ -465,15 +581,22 @@ CLOSEUP - TEST
 Her answer, "I DON'T THINK SO".
 8. IF YOU ANSWERED "I DON'T THINK
 SO" WOULD YOU EVER IF YOU
+<<<<<<< HEAD:Scripts/sixteen.xml
 COULD?</narr>
 
 </scene><scene>
 <loc int="true">INT. STUDY HALL</loc>
 <narr><char who="sam">Sam</char> thinks. It's a tough decision. She answers.
+=======
+COULD?
+INT. STUDY HALL
+Sam thinks. It's a tough decision. She answers.
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 CLOSEUP - TEST
 "I GUESS SO"
 9. WITH WHO? (BE HONEST. YOUR
 NAME'S NOT ON THIS SO IT'S
+<<<<<<< HEAD:Scripts/sixteen.xml
 OKAY)</narr>
 
 </scene><scene>
@@ -487,6 +610,17 @@ tion. She lowers her head and peeks under her arm at <char who="jake">Jake</char
 <narr>He's gnawing his thumbnail, still staring at <char who="sam">Sam</char>.
 HIS POINT OF VIEW - <char who="sam">SAM</char>
 She blanches as <char who="jake">Jake</char> catches her looking at him. She clumsily
+=======
+OKAY)
+INT. CLASS ROOM - SAM
+She's worried and nervous about answering the final ques-
+tion. She lowers her head and peeks under her arm at Jake.
+15
+INT. CLASSROOM - JAKE
+He's gnawing his thumbnail, still staring at Sam.
+HIS POINT OF VIEW - SAM
+She blanches as Jake catches her looking at him. She clumsily
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 tries to make it appear as if she's just scratching her chin
 on her shoulder. She turns back to her test.
 CLOSEUP - TEST
@@ -494,11 +628,17 @@ Her hand's trembling as she slowly writes "<char who="jake">JAKE RYAN</char>"
 on question #9. Her hand glides down to the last question.
 10. DOES WHOEVER YOU NAMED ABOVE
 KNOW THAT YOU WANT TO WITH HIM?
+<<<<<<< HEAD:Scripts/sixteen.xml
 <char who="sam">Sam</char> writes a very definite, "NO!" and underlines it.</narr>
 
 </scene><scene>
 <loc int="true">INT. CLASSROOM - <char who="sam">SAM</char></loc>
 <narr>She carefully folds the test into a tiny square, palms it
+=======
+Sam writes a very definite, "NO!" and underlines it.
+INT. CLASSROOM - SAM
+She carefully folds the test into a tiny square, palms it
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 and pretending to yawn, puts her arms behind her head and
 drops the folded note on <char who="randy">Randy</char>'s desk.</narr>
 <d who="randy">RANDY</d>
@@ -513,6 +653,7 @@ top of the note and slides it away.</narr>
 <narr>He reaches down and retrieves the note. He holds it in his
 palm and slips it in his pocket, keeping his eyes on <char who="sam">Sam</char>
 all the while.
+<<<<<<< HEAD:Scripts/sixteen.xml
 16</narr>
 
 </scene><scene>
@@ -523,6 +664,16 @@ You swear to God you don't have it?</d>
 <d who="randy">RANDY
 I don't know anything about it.</d>
 <d who="sam">SAM
+=======
+16
+INT. SCHOOL - HALLWAY - LATER
+Sam and Randy are walking down the hall. Sam's upset.
+SAM
+You swear to God you don't have it?
+RANDY
+I don't know anything about it.
+SAM
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 Nancy Ludwig gave me a sex test during
 Child Development and I was supposed to
 do it and pass it to you in independent
@@ -564,6 +715,7 @@ He's ideal for sure but forget it.</d>
 <d who="sam">SAM
 God, I hope whoever got the note
 doesn't know it was me that wrote
+<<<<<<< HEAD:Scripts/sixteen.xml
 it. I'd shit twice and die.</d>
 <narr>They continue down the hall.</narr>
 
@@ -583,6 +735,21 @@ sure no one's seen the note or suspects him of anything.</narr>
 </scene><scene>
 <loc int="true">INT. CAFETERIA - FOOD LINE</loc>
 <char who="randy">Randy</char> and <char who="sam">Sam</char> move their trays along the line. <char who="sam"> Sam</char>'s
+=======
+it. I'd shit twice and die.
+They continue down the hall.
+INT. CAFETERIA - JAKE
+It's loud and crowded. Jake's sitting on a window ·ledge.
+He takes Sam's note out of his pocket and reads it. He's
+obviously very interested. He turns the page.
+CLOSEUP - TEST
+Jake reads his name in Sam's hand.
+INT. CAFETERIA - JAKE
+He sits bolt upright. He looks left, then right, to make
+sure no one's seen the note or suspects him of anything.
+INT. CAFETERIA - FOOD LINE
+Randy and Sam move their trays along the line. Sam's
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 looking at her tray with revulsion.
 <d who="sam">SAM
 I can't believe I'm actually going
@@ -703,6 +870,7 @@ I don't know but I hope you're not
 turning gay.</d>
 <narr><char who="jake">Jake</char> grimaces. He lets go of the bar and walks away. We
 widen to reveal that the boys have been doing cheater's
+<<<<<<< HEAD:Scripts/sixteen.xml
 chin-ups on a five foot bar. <char who="rock">Rock</char>'s puzzled and disturbed
 by <char who="jake">Jake</char>'s conversation.</narr>
 
@@ -710,6 +878,13 @@ by <char who="jake">Jake</char>'s conversation.</narr>
 <loc int="true">INT. GIRL'S SHOWER ROOM</loc>
 <narr>Girls are showering and dressing after gym. We see <char who="sam">Sam</char> and
 <char who="randy">Randy</char> standing in the doorway of the shower room with their
+=======
+chin-ups on a five foot bar. Rock's puzzled and disturbed
+by Jake's conversation.
+INT. GIRL'S SHOWER ROOM
+Girls are showering and dressing after gym. We see Sam and
+Randy standing in the doorway of the shower room with their
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 arms folded across their chests to conceal their modest
 charms. <char who="sam">Sam</char>'s shaking her head as she studies the mature
 physiques of the senior girls. <char who="randy">Randy</char> clucks her tongue.</narr>
@@ -742,6 +917,7 @@ And she's going with <char who="jake">Jake</char>.</d>
 <narr>Randy looks at Sam sympathetically.</narr>
 <d who="sam">SAM
 Figures, huh? Does she have a pink.
+<<<<<<< HEAD:Scripts/sixteen.xml
 Trans Am?</d>
 <d who="randy">RANDY
 Black.</d>
@@ -766,6 +942,26 @@ I loathe the bus.</d>
 </scene><scene>
 <loc int="true">INT. BUS</loc>
 <narr><char who="sam">Sam</char> and <char who="randy">Randy</char> board the bus. <char who="driver">The Bus Driver</char>, who is dressed
+=======
+Trans Am?
+RANDY
+Black.
+SAM
+(with an
+exagerrated sigh)
+I'm gonna kill myself.
+A cloud of steam rolls across them and they disappear.
+DISSOLVE TO
+EXT. SCHOOL - AFTERNOON - ESTABLISHING
+EXT. SCHOOL - SCHOOL BUS
+Freshmen boys are climbing on board. They're silly and
+rowdy, pushing and shoving. Sam and Randy move in the
+crowd of boys, all of them a good head shorter.
+SAM
+I loathe the bus.
+INT. BUS
+Sam and Randy board the bus. The Bus Driver, who is dressed
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 like the weenie boys and wears a Walkman around his neck,
 is giving the high five to the boys boarding the bus.</narr>
 <d who="driver">BUS DRIVER
@@ -796,6 +992,7 @@ THEIR POINT OF VIEW - THREE FRESHMEN BOYS
 in the seat in front of them are turned around to face them.
 They're smiling with disgusting mouthsful of braces and jock
 straps on their heads. They raise electronic ray guns and
+<<<<<<< HEAD:Scripts/sixteen.xml
 fire at <char who="sam">Sam</char> and <char who="randy">Randy</char>.</narr>
 
 </scene><scene>
@@ -810,16 +1007,34 @@ opened her gifts and is sitting with a wok in her lap.</narr>
 <desc>(phoney)</desc>
 <char who="grace">Aunt Grace</char>, <char who="rudy">Rudy</char> and I are just going
 to adore and enjoy the wok. <char who="rudy">Rudy</char>'s a
+=======
+fire at Sam and Randy.
+EXT. BAKER HOUSE - AFTERNOON
+Cars are parked in the driveway and on the street.
+INT. HOUSE
+Brenda and Ginny are hosting their luncheon. Ginny has
+opened her gifts and is sitting with a wok in her lap.
+GINNY
+(phoney)
+Aunt Grace, Rudy and I are just going
+to adore and enjoy the wok. Rudy's a
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 freak for stir-fry stuff. It was a
 really neat thought. All of you,
 really.</d>
 <narr>She sets the wok down along with ten other gift woks.
 She's received one from every luncheon guest.
+<<<<<<< HEAD:Scripts/sixteen.xml
 24</narr>
 
 </scene><scene>
 <loc ext="true">EXT. NEIGHBORHOOD STREET</loc>
 <narr>The school bus pulls up and stops. <char who="randy">Randy</char> climbs down. <char who="sam">Sam</char>
+=======
+24
+EXT. NEIGHBORHOOD STREET
+The school bus pulls up and stops. Randy climbs down. Sam
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 speaks to her out the window.
 49</narr>
 <d who="sam">SAM
@@ -831,6 +1046,7 @@ happened at home.</d>
 I'll tell you right now. Nothing.</d>
 <d who="randy">RANDY
 Quit feeling sorry for yourself.
+<<<<<<< HEAD:Scripts/sixteen.xml
 It's bad for your complexion.</d>
 <narr>The bus pulls out.</narr>
 
@@ -838,6 +1054,13 @@ It's bad for your complexion.</d>
 <loc int="true">INT. BUS</loc>
 <narr>It's just <char who="sam">Sam</char> the neck brace girl and one freshman weenie,
 the <char who="geek">Geek</char>. He's skinny and small with a cheap haircut, an
+=======
+It's bad for your complexion.
+The bus pulls out.
+INT. BUS
+It's just Sam the neck brace girl and one freshman weenie,
+the Geek. He's skinny and small with a cheap haircut, an
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 imitation LaCoste shirt, baggy Levi cords, tennis shoes with
 dark socks and a nylon backpack filled with books. He strolls
 down the aisle and sits next to <char who="sam">Sam</char>. .He gives her his sexiest
@@ -897,6 +1120,7 @@ an eyebrow)</desc>
 Am I turning you on?</d>
 <narr><char who="sam">Sam</char> stares at the <char who="geek">Geek</char> for a moment, then hurries down the
 aisle of the bus and exits. He's confident that because
+<<<<<<< HEAD:Scripts/sixteen.xml
 she actually conversed with him, she likes him.</narr>
 <d who="geek">GEEK
 Encouraging, very encouraging.</d>
@@ -911,6 +1135,18 @@ the bride-to-be good luck.</narr>
 <loc ext="house">EXT. HOUSE</loc>
 <narr><char who="sam">Sam</char> shuffles up the walk to the porch. The door opens and
 the ladies stream out. A couple smile at <char who="sam">Sam</char>, most don't
+=======
+she actually conversed with him, she likes him.
+GEEK
+Encouraging, very encouraging.
+26
+INT. HOUSE - FOYER
+The luncheon guests are saying their farewells and wishing
+the bride-to-be good luck.
+EXT. HOUSE
+Sam shuffles up the walk to the porch. The door opens and
+the ladies stream out. A couple smile at Sam, most don't
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 recognize her. She stands to the side and plasters a
 polite grin on her face as she waits patiently for them to
 clear the door. <char who="brenda">Brenda</char> and <char who="ginny">Ginny</char> stand in the door and
@@ -942,6 +1178,7 @@ Don't be smart.</d>
 <char who="sam">Sam</char> shakes her head in</narr>
 <d who="sam">SAM
 I have entered a dimension beyond
+<<<<<<< HEAD:Scripts/sixteen.xml
 all time and space ....</d>
 <narr>27</narr>
 
@@ -954,10 +1191,21 @@ he~ free hand in dismay.</narr>
 </scene><scene>
 <loc int="true">INT. SAM'S ROOM</loc>
 <narr><char who="sam">Sam</char>'s grandparents, <char who="jim">Jim</char>'s parents, <char who="howard">Howard</char> and <char who="dorothy">Dorothy</char>
+=======
+all time and space ....
+27
+INT. HOUSE - THIRD FLOOR STAIRWELL
+Sam trudges up the stairs anxious for the solitude of her
+bedroom. She reaches the top of the stairs and throws up
+he~ free hand in dismay.
+INT. SAM'S ROOM
+Sam's grandparents, Jim's parents, Howard and Dorothy
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 are changing out of their travel clothes. They're in
 early seventies. They're sweet and kind but pampered
 particular. <char who="dorothy">Dorothy</char>'s in her gigantic bra and slip.
 in his undershorts, undershirt, socks and garters.
+<<<<<<< HEAD:Scripts/sixteen.xml
 puttering around unpacking.</narr>
 <d who="sam">SAM</d>
 <narr>She turns slowly to try and sneak back down without getting
@@ -982,6 +1230,30 @@ mother's arms.</desc>
 <d who="sam">SAM
 You're sleeping up here?</d>
 <d who="howard">HOWARD
+=======
+puttering around unpacking.
+SAM
+She turns slowly to try and sneak back down without getting
+nabbed by the grandparents. A creaky stair gives her away.
+INT. BEDROOM
+Dorothy and Howard turn around. They're startled until
+they recognize Sam. Howard reaches for his pants.
+DOROTHY
+Sam!
+SAM
+(to herself)
+Samantha ....
+HOWARD
+How's my little pumpkin?
+SAM
+Fine, Grandpa. How are you guys?
+Howard gives her a hug and passes her to Dorothy who bear
+hugs her. Sam grimaces as she's engulfed in her grand-
+mother's arms.
+SAM
+You're sleeping up here?
+HOWARD
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 (irritated)
 Your grandpa Fred jumped our claim
 on Sara's room.</d>
@@ -1012,6 +1284,7 @@ room.</d>
 <d who="dorothy">DOROTHY
 Okay, sweetie. Grandpa and I look
 forward to a long, long visit with
+<<<<<<< HEAD:Scripts/sixteen.xml
 you.</d>
 <d who="sam">SAM
 <desc>(forces
@@ -1022,6 +1295,16 @@ Aces.</d>
 <loc int="true">INT. HOUSE - SECOND FLOOR HALLWAY</loc>
 <narr><char who="sam">Sam</char> comes down from the third floor.</narr>
 <d who="sam">SAM
+=======
+you.
+SAM
+(forces
+a smile)
+Aces.
+INT. HOUSE - SECOND FLOOR HALLWAY
+Sam comes down from the third floor.
+SAM
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 This has to be a joke. I swear to
 God.</d>
 <narr>CONTINUED
@@ -1071,6 +1354,7 @@ She pushes <char who="sam">Sam</char> back and examines her at arm's length.</na
 <desc>(clicks
 her tongue)</desc>
 Oh, my.
+<<<<<<< HEAD:Scripts/sixteen.xml
 <desc>{to Fred)</desc>
 Her little breasts have come in.</d>
 <narr>Sam blanches with horror. Fred makes another limp joke.</narr>
@@ -1080,6 +1364,15 @@ I better go get my magnifying glass!</d>
 </scene><scene>
 <loc int="true">INT. MIKE'S ROOM</loc>
 <narr>A typical boy's room with posters and sports equipment and
+=======
+{to Fred)
+Her little breasts have come in.
+Sam blanches with horror. Fred makes another limp joke.
+FRED
+I better go get my magnifying glass!
+INT. MIKE'S ROOM
+A typical boy's room with posters and sports equipment and
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 bunk beds. Sam walks in, closes the door, walks over to
 the bed and flops down on the bottom bunk in exaggerated
 despair.</narr>
@@ -1094,6 +1387,7 @@ open. We hear a Chinese gong.
 HER POINT OF VIEW - THE HEAD OF A TEENAGE ORIENTAL BOY
 is hanging over the top bunk, looking at her upside down.
 He's dopey-looking with big black rim glasses, and long,
+<<<<<<< HEAD:Scripts/sixteen.xml
 straight hair. His name is <char who="dong">Long Duk Dong</char>.</nar>
 <d who="dong">DONG
 <desc>(thick
@@ -1103,6 +1397,15 @@ What's happening, hot stuff?</d>
 </scene><scene>
 <loc int="true">INT. KITCHEN</loc>
 <narr><char who="brenda">Brenda</char>'s dressed for the dinner at the club. She's
+=======
+straight hair. His name is Long Duk Dong.
+DONG
+(thick
+accent)
+What's happening, hot stuff?
+INT. KITCHEN
+Brenda's dressed for the dinner at the club. She's
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 puttering around the kitchen, cleaning up, checking the
 dinner in the oven. <char who="mike">Mike</char>'s sitting at the kitchen table
 watching television.
@@ -1170,6 +1473,7 @@ entire life.</d>
 <d who="mike">MIKE
 What are you bitching about? I have
 to sleep underneath a Chinaman named
+<<<<<<< HEAD:Scripts/sixteen.xml
 after a duck's dork.</d>
 <d who="sam">SAM
 <desc>(suspicious)</desc>
@@ -1185,6 +1489,21 @@ DISSOLVE TO</narr>
 <loc int="true">INT. GINNY'S ROOM</loc>
 <narr><char who="ginny">Ginny</char>'s getting dressed for the dinner at the club. She's
 in her panties and bra. <char who="sam">Sam</char>'s laying on the bed looking at
+=======
+after a duck's dork.
+SAM
+(suspicious)
+Where am 1 sleeping?
+MIKE
+(with sadistic
+glee)
+Sofa City, sweetheart.
+Sam drops her head to the table.
+DISSOLVE TO
+INT. GINNY'S ROOM
+Ginny's getting dressed for the dinner at the club. She's
+in her panties and bra. Sam's laying on the bed looking at
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 the wedding dress hanging on the open closet door. She
 toys with the lace.</narr>
 <d who="ginny">GINNY
@@ -1279,16 +1598,23 @@ No.</d>
 Well, are you doing anything?</d>
 <narr>Sam shakes her head.
 CONTINUED
+<<<<<<< HEAD:Scripts/sixteen.xml
 36</narr>
 
 </scene><scene>
 <loc int="true">INT. DINING ROOM - LATER - CLOSEUP - DINNER PLATE</loc>
 <narr>steaming hot quiche. Pull back to reveal <char who="dong">Dong</char> bent over the
+=======
+36
+INT. DINING ROOM - LATER - CLOSEUP - DINNER PLATE
+steaming hot quiche. Pull back to reveal Dong bent over the
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 food, studying it. He looks up, his glasses steamed over.
 He's amazed and impressed by the quiche.</narr>
 <d who="dong">DONG
 Very clever dinner. Appetizing
 food fit neatly into interesting
+<<<<<<< HEAD:Scripts/sixteen.xml
 round pie.</d>
 
 </scene><scene>
@@ -1309,6 +1635,26 @@ polite smile.</narr>
 <d who="dorothy">DOROTHY
 <desc>(to Sam)</desc>
 <char who="dong">Long Duk Dong</char>'s about your age, <char who="sam">Sam</char>.
+=======
+round pie.
+INT. DINING ROOM
+The grandparents, Mike, Sara, Sam and Dong are sitting at
+the dining room table with their TV dinners.
+MIKE
+It's quiche.
+DONG
+(puzzled)
+How you spell?
+FRED
+You don't spell it, son, you eat it.
+He looks at Sam and rattles his dentures for her amusement.
+She's hardly amused. Dorothy doesn't take kindly to Fred's
+treatment of Dong. Dong smiles at Sam. She returns a
+polite smile.
+DOROTHY
+(to Sam)
+Long Duk Dong's about your age, Sam.
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 You two should have lots to chat
 about.</d>
 <d who="dong">DONG
@@ -1356,6 +1702,7 @@ wonderful idea!
 <desc>(to Dong,
 excited)</desc>
 Would you like to go to the dance
+<<<<<<< HEAD:Scripts/sixteen.xml
 with <char who="sam">Sam</char>?</d>
 <narr><char who="sam">Sam</char>'s eyes bulge in horror. <char who="dong">Dong</char> snaps his fingers.</narr>
 <d who="dong">DONG
@@ -1365,6 +1712,15 @@ Super!</d>
 </scene><scene>
 <loc int="true">INT. HOWARD'S OLDS</loc>
 <narr><char who="dong">Dong</char>'s at the wheel. <char who="sam">Sam</char>'s slumped down as far as she can
+=======
+with Sam?
+Sam's eyes bulge in horror. Dong snaps his fingers.
+DONG
+Super!
+Sam mouths a distraught "Oh, my God." Music comes up.
+INT. HOWARD'S OLDS
+Dong's at the wheel. Sam's slumped down as far as she can
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 get in the seat. She's wearing a skirt and blouse.
 Dentist office music is blasting and the windows are wide
 open.
@@ -1380,6 +1736,7 @@ out the door and die on the pavement.</narr>
 <d who="dong">DONG
 I got a driver's license for United
 States two weeks ago.
+<<<<<<< HEAD:Scripts/sixteen.xml
 <desc>(holds up
 three fingers)</desc>
 First time I drive alone!</d>
@@ -1394,10 +1751,23 @@ and bottoms out in a shower of sparks.</narr>
 <narr><char who="dong">Dong</char> puts his arm up on the seat, revealing a heavily stained
 underarm.</narr>
 <d who="dong">DONG
+=======
+(holds up
+three fingers)
+First time I drive alone!
+EXT. STREET
+The Olds flies through a red light, jumps the intersection
+and bottoms out in a shower of sparks.
+INT. CAR
+Dong puts his arm up on the seat, revealing a heavily stained
+underarm.
+DONG
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 Yep. America's a moving, exciting
 locale. Speeding along. Fifty-five
 miles per hour. On my way to a hot
 teenage dance party. I love to be
+<<<<<<< HEAD:Scripts/sixteen.xml
 excited. How about you?</d>
 <narr><char who="sam">Sam</char> shakes her head, no.</narr>
 <d who="sam">SAM
@@ -1421,6 +1791,25 @@ DISSOLVE TO</narr>
 <loc int="true">INT. SCHOOL - GIRL'S LOCKER ROOM</loc>
 <narr><char who="sam">Sam</char>'s sitting on a sink as depressed as anyone can get.
 <char who="randy">Randy</char>'s fixing her face and trying to console <char who="sam">Sam</char>. She has
+=======
+excited. How about you?
+Sam shakes her head, no.
+SAM
+(suspicious)
+I hate excitement.
+DONG
+(lecherous)
+You like the kinky stuff?
+EXT. STREET
+The Olds fishtails around a corner and howls down a side
+street.
+DISSOLVE TO
+EXT. SCHOOL - NIGHT - ESTABLISHING
+39
+INT. SCHOOL - GIRL'S LOCKER ROOM
+Sam's sitting on a sink as depressed as anyone can get.
+Randy's fixing her face and trying to console Sam. She has
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 an outrageous amount of makeup supplies spread out on the
 sink.</narr>
 <d who="randy">RANDY
@@ -1436,6 +1825,7 @@ I'm such a loser.·
 <char who="randy">Randy</char> sweeps her makeup into a big shoulder bag.</d>
 <d who="randy">RANDY
 No, you're not. Let's go. Maybe
+<<<<<<< HEAD:Scripts/sixteen.xml
 Dim Dumb Duck Dick'll get lost.</d>
 <d who="sam">SAM
 I'm not that lucky.</d>
@@ -1448,6 +1838,18 @@ Dong make plenty sure he get lucky!</d>
 </scene><scene>
 <loc int="true">INT. GYM</loc>
 I<narr>t's the first big dance of the school year. A female DJ
+=======
+Dim Dumb Duck Dick'll get lost.
+SAM
+I'm not that lucky.
+She and Randy exit. A beat and a toilet flushes. A stall
+door opens. Dong peeks out with a mischievous smile on
+his face.
+DONG
+Dong make plenty sure he get lucky!
+INT. GYM
+It's the first big dance of the school year. A female DJ
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 is spinning records and rapping between songs. She's
 brought a huge sound system and light show. <char who="jake">Jake</char>, with
 <char who="caroline">Caroline</char> on his arm, is talking with the hulking brute, <char who="rock">Rock</char>,
@@ -1459,6 +1861,7 @@ people who are seemingly immune to the sorts of humiliations
 that beset people like <char who="sam">Sam</char>. <char who="caroline">Caroline</char> takes <char who="jake">Jake</char>'s arm and
 pulls him to the dance floor. It's a slow song. She rests
 her head on his shoulder and they dance.
+<<<<<<< HEAD:Scripts/sixteen.xml
 40</narr>
 
 </scene><scene>
@@ -1467,6 +1870,14 @@ her head on his shoulder and they dance.
 <d who="sam">SAM
 I wonder if <char who="jake">Jake</char>'s here?</d>
 <d who="randy">RANDY
+=======
+40
+INT. GYM - DOOR
+Sam and Randy walk in.
+SAM
+I wonder if Jake's here?
+RANDY
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 It isn't healthy to get too jacked-
 up about a guy who isn't even a thing
 yet.</d>
@@ -1475,6 +1886,7 @@ When you don't have anything, you
 don't have anything to lose, right?</d>
 <d who="randy">RANDY
 That's a cheerful thought. Let's go
+<<<<<<< HEAD:Scripts/sixteen.xml
 make ourselves available.</d>
 <narr><char who="randy">Randy</char> winks and heads into the crush of bodies in the gym.
 <char who="sam">Sam</char> sighs and follows.</narr>
@@ -1489,6 +1901,18 @@ That's the one, dude.</d>
 </scene><scene>
 <loc int="true">INT. GYM - WEENIE WALL - <char who="geek">GEEK</char> AND HIS BUDDY</loc>
 <narr>The freshman boy's section of the gym. The guys who don't
+=======
+make ourselves available.
+Randy winks and heads into the crush of bodies in the gym.
+Sam sighs and follows.
+INT. GYM - ANOTHER ANGLE - SAM - INFRARED SIGHT
+We see Sam moving through the gym through an infrared
+scope. A little spook music accompanies.
+GEEK (V.O.)
+That's the one, dude.
+INT. GYM - WEENIE WALL - GEEK AND HIS BUDDY
+The freshman boy's section of the gym. The guys who don't
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 date yet. Weenies in their party finest. Among them is
 the <char who="geek">Geek</char> and his buddies <char who="cliff">Cliff</char> and <char who="bryce">Bryce</char>. We recognize the
 source of the infrared light in the previous scene as we
@@ -1528,6 +1952,7 @@ Check it out.</d>
 <narr>The <char who="geek">Geek</char> cools up his hair and heads for <char who="sam">Sam</char>. <char who="cliff">Cliff</char> and
 <char who="bryce">Bryce</char> watch for a moment, then slip on a personal radio
 communicator of the variety SWAT teams and football coaches
+<<<<<<< HEAD:Scripts/sixteen.xml
 use.</narr>
 <d who="cliff">CLIFF
 Pretty intense, huh? Over.</d>
@@ -1538,6 +1963,16 @@ Whacked to the max. Over.</d>
 <loc int="true">INT. GYM - SAM AND RANDY</loc>
 <narr><char who="sam">Sam</char>'s watching <char who="jake">Jake</char> and <char who="caroline">Caroline</char> slow dancing. <char who="randy">Randy</char>'s
 talking with friends. <char who="sam">Sam</char>'s imagining herself in <char who="caroline">Caroline</char>'s
+=======
+use.
+CLIFF
+Pretty intense, huh? Over.
+BRYCE
+Whacked to the max. Over.
+INT. GYM - SAM AND RANDY
+Sam's watching Jake and Caroline slow dancing. Randy's
+talking with friends. Sam's imagining herself in Caroline's
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 place.
 HER POINT OF VIEW - <char who="jake">JAKE</char>
 turns to camera and looks directly at <char who="sam">Sam</char>.</narr>
@@ -1588,6 +2023,7 @@ And I'm just getting warmed up!</d>
 <narr>He steps back, hurls himself in the air and lands on the
 floor on his back.
 43
+<<<<<<< HEAD:Scripts/sixteen.xml
 CLOSEUP - <char who="geek">GEEK</char>
 He's in terrible pain, laying on the floor.</narr>
 <d who="geek">GEEK
@@ -1618,6 +2054,32 @@ chide him about losing <char who="sam">Sam</char>.</narr>
 Way to go, dickface. She took off.</d>
 <narr>The <char who="geek">Geek</char> improvises an excuse.</narr>
 <d who="geek">GEEK
+=======
+CLOSEUP - GEEK
+He's in terrible pain, laying on the floor.
+GEEK
+I'm ... okay, babe.
+INT. GYM LOBBY
+Sam bursts out of the gym in tears and runs across the
+lobby and down a dark hallway.
+INT. HALLWAY
+Sam slows down and stops. She rests her head against a
+locker. She's sobbing with tears of hurt and anger. She
+slams her fist against the locker.
+SAM
+Damn!
+She turns around and slides down the locker.
+SAM
+I hate myself.
+INT. GYM - REFRESHMENT TABLE
+The Geek limps back to the Weenie Wall. Cliff and Bryce
+chide him about losing Sam.
+CLIFF
+(with a laugh)
+Way to go, dickface. She took off.
+The Geek improvises an excuse.
+GEEK
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 Don't you know anything about girls?
 They get hyper when you come on hard.
 I told you I'd interface with her and
@@ -1676,11 +2138,17 @@ painter's pants, a flannel shirt and black hightops. <char who="dong">Dong</char
 lovingly rests his head on her huge breast as they dance.
 He reaches-his hand out of the neck of her shirt and pushes
 his glasses up on his nose.
+<<<<<<< HEAD:Scripts/sixteen.xml
 46</narr>
 
 </scene><scene>
 <loc int="true">INT. HALLWAY</loc>
 <narr><char who="sam">Sam</char>'s sitting on the floor with her back against the
+=======
+46
+INT. HALLWAY
+Sam's sitting on the floor with her back against the
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 lockers. She hears footsteps and looks down the hall.
 HER POINT OF VIEW - <char who="caroline">CAROLINE</char> AND TWO OF HER FRIENDS
 are walking down the hall, passing a joint between them.
@@ -1697,6 +2165,7 @@ do his house.</d>
 <d who="sam">SAM</d>
 <narr>She watches and listens, pained by their boundless good
 fortune. The girl with everything approaches the girl with
+<<<<<<< HEAD:Scripts/sixteen.xml
 nothing.</narr>
 
 </scene><scene>
@@ -1715,6 +2184,24 @@ Good.</d>
 <narr>The girls continue down the hall. <char who="sam">Sam</char> watches.</narr>
 <d who="caroline">CAROLINE
 Let's party light though. <char who="jake">Jake</char>'s
+=======
+nothing.
+INT. HALLWAY
+Caroline notices Sam sitting on the floor. Sam ducks her
+head.
+CAROLINE
+(pleasant)
+How's it goin'?
+Sam looks up. She shrugs her shoulders and rubs her damp
+nose.
+SAM
+(clears her
+throat)
+Good.
+The girls continue down the hall. Sam watches.
+CAROLINE
+Let's party light though. Jake's
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 a paranoid about his parents' house
 getting trashed.</d>
 <narr>The girls giggle.</narr>
@@ -1724,6 +2211,7 @@ Again!</d>
 <d who="sam">SAM</d>
 <narr>She shakes her head realizing haw far her dreams are from
 reality. She pulls herself up and wipes the tears from her
+<<<<<<< HEAD:Scripts/sixteen.xml
 cheeks. She heads back to the gym.</narr>
 
 </scene><scene>
@@ -1754,6 +2242,28 @@ couple stare in frozen horror at what's become of the dance.</narr>
 </scene><scene>
 <loc int="true">INT. GYM - <char who="sam">SAM</char> AND <char who="randy">RANDY</char></loc>
 <narr><char who="randy">Randy</char>'s found a guy, <char who="jimmy">Jimmy Montrose</char>. He's a semipopular,
+=======
+cheeks. She heads back to the gym.
+INT. GYM - BAND
+Long Duk Dong has taken over the DJ's mike and is doing an
+Oriental rap. The crowd is going crazy for him. He's
+such a total asshole, they love him. He feeds on their
+cruel adoration.
+INT. GYM - WEENIE WALL
+The freshman boys, the Geek's gang, are breaking. Real
+bad, white suburban breaking. They're spinning around on
+their backs, banging into the wall, chairs, tables, other
+people.
+INT. GYM - DONG
+He throws his head back and shrieks.
+DONG
+God bless America!
+INT. GYM - CHAPERONES
+A couple of spinster teachers and a middle-aged parent
+couple stare in frozen horror at what's become of the dance.
+INT. GYM - SAM AND RANDY
+Randy's found a guy, Jimmy Montrose. He's a semipopular,
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 semihandsome guy. He's holding her hand as they sit on the
 gym bleachers watching <char who="dong">Dong</char>. <char who="sam">Sam</char>'s with them, resting her
 chin on her knees. Her eyes are red from crying and she
@@ -1829,6 +2339,7 @@ with his
 eye on his
 buddies
 across
+<<<<<<< HEAD:Scripts/sixteen.xml
 the gym)</desc>
 You wanna split with me?</d>
 <d who="sam">SAM
@@ -1850,6 +2361,27 @@ This is so sad.</d>
 </scene><scene>
 <loc int="true">INT. GYM - <char who="jake">JAKE</char></loc>
 <narr>He watches <char who="sam">Sam</char> and the <char who="geek">Geek</char> exit. He's curious and a
+=======
+the gym)
+You wanna split with me?
+SAM
+Okay.
+The Geek is expecting rejection. He misunderstands her.
+GEEK
+I just thought I'd ... Huh?!
+Sam stands. The Geek rises slowly.
+SAM
+(to Randy
+and Jimmy)
+I'll catch you guys later.
+The Geek's dumbfounded. So is Randy. Sam heads for the
+door. The Geek stumbles after her. Randy's disturbed by
+the action.
+RANDY
+This is so sad.
+INT. GYM - JAKE
+He watches Sam and the Geek exit. He's curious and a
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 little confused.
 51
 CONTINUED
@@ -2131,12 +2663,19 @@ How?</d>
 cracking
 voice)</desc>
 Could I borrow your underpants for
+<<<<<<< HEAD:Scripts/sixteen.xml
 about ten minutes?</d>
 <narr>Sam's eyes open in shock.</narr>
 <d who="sam">SAM
 What?!</d>
 
 </scene><scene>
+=======
+about ten minutes?
+Sam's eyes open in shock.
+SAM
+What?!
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt
 INT. GYM
 It's slow dance time. Randy is snuggled comfortably in
 the crook of Jimmy's shoulder. As they dance past she
@@ -2221,8 +2760,6 @@ CAROLINE
 conciliatory)
 Before we get into a big ugly fight,
 let's take off.
-
-</scene><scene>
 INT. GYM LOBBY
 Sam's practicing her moves and trying out ploys to speak to
 Jake.
@@ -2252,12 +2789,8 @@ dream and you were in it.
 She decides on the last remark. She likes it. She feels
 confident. She pats her hair, takes a deep breath, musters
 her courage and walks back into the gym.
-
-</scene><scene>
 INT. GYM - JAKE
 He's at a clothes rack looking for Caroline's coat.
-
-</scene><scene>
 INT. GYM - SAM
 She spies Jake and nervously moves toward him. She
 rehearses in her head what she's going to say. She raises
@@ -2283,8 +2816,6 @@ I'm totally retarded! He smiles and
 I spaz. I'm blitzed! I don't
 deserve him.
 61
-
-</scene><scene>
 INT. GYM - JAKE
 He helps Caroline on with her blazer. He's still cursing
 himself. He looks down the bleachers to try and catch a
@@ -2305,8 +2836,6 @@ back for one last look at the gym.
 JAKE
 (sighs)
 I want that girl ....
-
-</scene><scene>
 INT. GYM - BLEACHERS
 Sam peeks around the bleachers and sees Jake and Caroline
 leaving.
@@ -2317,8 +2846,6 @@ She rests her chin on the bleachers and closes her eyes.
 SAM
 And I can't believe I gave my panties
 to a geek.
-
-</scene><scene>
 INT. HALLWAY - BOY'S BATHROOM DOOR
 A Freshman sneaks up to the door and knocks softly. The
 door opens and Cliff looks out.
@@ -2333,8 +2860,6 @@ CLIFF
 Gimme a buck.
 The Freshman hands Cliff a five. Cliff takes a fat wad of
 singles from his pocket and counts out four in change.
-
-</scene><scene>
 INT. BATHROOM
 The bathroom is jammed with shrimpy freshman boys. They're
 all talking excitedly. Bryce flashes the lights.
@@ -2347,8 +2872,6 @@ A stall door slowly opens and the Geek steps out. Heraldic
 music comes up. With great drama and showmanship, the Geek
 holds up Sam's tiny, baby blue Garfield the cat panties.
 The freshmen gasp in awe and drop to their knees.
-
-</scene><scene>
 INT. GYM - SAM
 She's putting on her coat. She's had enough. Randy's
 hanging on Jimmy. She feels for Sam and is trying to
@@ -2365,8 +2888,6 @@ No. I gotta get outta here before
 anything else terrible happens ..
 RANDY
 No offense, but what more could happen?
-
-</scene><scene>
 INT. SCHOOL - DARK HALLWAY
 It's dark and spooky. We hear the chilling, ominous
 opening bars of the Jaws Theme. A beat and Grandpa Fred
@@ -2374,8 +2895,6 @@ peeks around the corner. Then Dorothy, Howard and Helen.
 The grandparents are invading the dance!
 DISSOLVE TO
 63
-
-</scene><scene>
 INT. OLDSMOBILE
 Dong's driving, Sam's in the passenger seat and the
 Lumberjack's in the middle, tucked up tight against her new-
@@ -2406,8 +2925,6 @@ DON
 I have now a place to put my hands!
 Sam rolls her eyes and slumps further down in the seat.
 The Lunberjack lets out an earthy yelp, as Dong gooses her.
-
-</scene><scene>
 EXT. DRIVE-IN - NIGHT
 The Oldsmobile screams into the drive-in at fifty-five mph,
 loc~s up the brakes and skids into a tight spot between two
@@ -2420,8 +2937,6 @@ Kawasaki.
 DONG
 You're welcome.
 64
-
-</scene><scene>
 EXT. CAR
 Jimmy Montrose's car pulls in behind the Olds. Randy gets
 out and hurries to Sam's window. Sam looks up. Randy leans
@@ -2434,8 +2949,6 @@ I don't want to depress you.
 Sam covers her head and slumps down in the seat.
 SAM
 What now?
-
-</scene><scene>
 INT. DRIVE-IN RESTAURANT BATHROOM - LATER
 Sam's mouth is wide open. She's stunned. Randy feels
 terrible about having to be the bearer of bad news.
@@ -2527,20 +3040,14 @@ over and look under the stall.
 THEIR POINT OF VIEW - THE LUMBERJACK'S HIGHTOPS
 are in front of the toilet, pointing in. She's going
 standing up.
-
-</scene><scene>
 EXT. DRIVE-IN
 Dong is still looking at the bike. He climbs on it. Pre-
 tends to drive it. As he dismounts, he kicks the engine
 over. The bike flies into the parking lot.
-
-</scene><scene>
 EXT. DRIVE-IN - DOOR
 The meanest-looking biker in the world comes out with his
 old lady on his arm. He sees his bike in a heap in the
 parking lot.
-
-</scene><scene>
 INT. COUNTRY CLUB DINING ROOM - SAME TIME
 It's very stately and sedate. Jim and Brenda, Ginny and
 her fiance, Rudy and his parents, Bruno and Irene have
@@ -2582,16 +3089,12 @@ I can still look, I just can't touch.
 (to Ginny)
 Right?
 She forces a smile.
-
-</scene><scene>
 EXT. JAKE'S HOUSE
 A million dollars of contemporary field stone and glass on a
 wooded. acre. Cars are jammed up in the driveway, on the
 lawn, in the woods. Elegant streams of toilet paper hang
 from the trees. Every light in the house is on. Windows
 are open, music is blasting.
-
-</scene><scene>
 INT. KITCHEN
 A magnificent cook's kitchen. A thoroughly raped refrigerator/
 freezer is empty and open. There are bottles and cans covering
@@ -2610,8 +3113,6 @@ KID
 Who's Jake?
 CAROLINE
 This is his house, asshole!
-
-</scene><scene>
 INT. LIVING ROOM
 Jake's parent's vacation videos are playing on the giant
 screen. Kids are howling at the home movies. The room's a
@@ -2626,8 +3127,6 @@ what you've done to Jake's house!
 She steps up on a coffee table and looks around for Jake.
 CAROLINE
 Jakey!
-
-</scene><scene>
 INT. INDOOR POOL AREA
 All the pool furniture is in the pool along with a bunch of
 rude, wild kids, clothed, semiclothed and nude. They're
@@ -2639,8 +3138,6 @@ Jake!
 (sees the
 bubbles)
 Outrageous! I love bubble baths!
-
-</scene><scene>
 INT. BEDROOM WING
 A drunk Girl in panties and bra is talking to a drunk guy.
 GIRL
@@ -2682,8 +3179,6 @@ Tell me truthfully. Is he with somebody?
 CLOSEUP - SAMANTHA'S YEARBOOK PICTURE
 A typical sweet-smile pose. A boy's finger traces down the
 page to her name.
-
-</scene><scene>
 INT. JAKE'S ROOM
 In contrast to his guests, Jake's sober. He closes the
 yearbook and tosses it on his bed. He picks up the phone
@@ -2704,31 +3199,21 @@ the operator)
 He hangs up and writes the number down. He picks up the
 phone and dials. He unconsciously fixes his hair. He
 clears his throat.
-
-</scene><scene>
 INT. SAM'S HOUSE - THIRD FLOOR BEDROOM
 Sam's phone rings in the darkened bedroom. It rings and
 rings. Finally Dorothy stirs.
-
-</scene><scene>
 INT. JAKE'S ROOM
 He's growing impatient.
 JAKE
 Damn! Come on, answer.
-
-</scene><scene>
 INT. SAM'S BEDROOM
 Dorothy feels around for the phone. It rings a couple more
 times before she picks it up.
-
-</scene><scene>
 INT. JAKE'S ROOM
 He gives up.
 JAKE
 Aw, fuck me!
 He slams the phone down.
-
-</scene><scene>
 INT. SAM'S ROOM
 Dorothy sits up in bed with the phone to her ear, staring
 quizzically. Howard sits up.
@@ -2744,8 +3229,6 @@ DOROTHY
 (looks at
 Howard)
 Sex.
-
-</scene><scene>
 INT. JAKE'S ROOM
 He puts the phone back and curses.
 JAKE
@@ -2783,8 +3266,6 @@ CAROLINE
 He's grounded for the next twenty-
 five thousand years.
 She collapses with laughter.
-
-</scene><scene>
 EXT. SAM'S HOUSE - NIGHT
 The Oldsmobile races up, locks brakes and skids into the curb.
 The passenger door opens and Sam gets out. The Olds squeals
@@ -2793,21 +3274,15 @@ SAM
 The Donger's in town five hours and
 he's got somebody. I live here all
 my life and I'm like a disease.
-
-</scene><scene>
 EXT. HOUSE - FRONT DOOR
 Sam reaches into the mailbox for the house key. As she
 opens the door it occurs to her, that the family may be
 planning to surprise her.
 She opens the door quietly and slips in.
-
-</scene><scene>
 INT. FOYER
 Sam closes the door softly. She's smiling, thinking she
 has it all figured out. She takes off her jacket and
 tiptoes into the living room.
-
-</scene><scene>
 INT. LIVING ROOM
 Sam looks around the dark room. She turns on a light and
 braces herself for the big surprise. Nothing. Sitting
@@ -2822,8 +3297,6 @@ SAM
 This is just excellent.
 She walks to the couch and knocks over the pile of bedding.
 She grabs a sheet and throws it open.
-
-</scene><scene>
 INT. JAKE'S HOUSE - LIVING ROOM
 Jake stands in the midst of the riot going on in his parent's
 house. He's resigned to it and the consequences he knows
@@ -2838,20 +3311,14 @@ He looks at her passively.
 He plants his hand squarely on her face and gives her a
 gentle shove. She keels over and crashes to the floor.
 OMITTED
-
-</scene><scene>
 EXT. JAKE'S HOUSE'
 The Oldsmobile roars up the.driveway with a flat tire. It
 rams straight into a parked car. Dong and the Lumberjack
 climb out. The drive-in tray is still attached to the car
 window. A beat and the back door opens and the biker and
 his old lady get out and saunter up to the house.
-
-</scene><scene>
 INT. HOUSE - JAKE'S ROOM
 He's dialing Sam's number again. He waits as it rings.
-
-</scene><scene>
 INT. HALLWAY OUTSIDE HIS ROOM
 Caroline crawls up the hall.
 CAROLINE
@@ -2860,13 +3327,9 @@ Where are you, Jake?
 She stops at his door and looks in.
 CAROLINE
 Jakey? Have you stopped loving me?
-
-</scene><scene>
 INT. JAKE'S ROOM
 He angrily kicks his door shut.
 74
-
-</scene><scene>
 INT. HALLWAY - CLOSEUP - CAROLINE
 Caroline's nose is half an inch from the closed door. She
 sighs and turns to crawl back to the party. She discovers
@@ -2884,14 +3347,10 @@ What's wrong?
 CAROLINE
 Several things.
 OMITTED
-
-</scene><scene>
 INT. SAM'S ROOM
 Dorothy and Howard sit up again. Howard grabs the phone.
 HOWARD
 Hello!
-
-</scene><scene>
 INT. JAKE'S ROOM
 He's shocked at the angry greeting. He looks at the number
 he's written down. We can hear Howard yelling over the
@@ -2899,8 +3358,6 @@ phone.
 HOWARD'S VOICE
 Who is this?! I know you're there!
 I can hear you breathing!
-
-</scene><scene>
 INT. JAKE'S ROOM
 Jake swallows hard, summons his courage and speaks to
 Howard.
@@ -2926,8 +3383,6 @@ HOWARD'S VOICE
 Yes it is and no you may not.
 JAKE
 Might I leave a message?
-
-</scene><scene>
 INT. SAM'S ROOM
 Howard covers the phone.
 HOWARD
@@ -2954,8 +3409,6 @@ Dorothy gives Howard a peck on the cheek. He turns off the
 light.
 OMITTED
 76
-
-</scene><scene>
 EXT. STREET
 The Geek, Bryce and Cliff are walking up Jake's driveway.
 Bryce's beeper goes off.
@@ -2980,8 +3433,6 @@ Flock of Seagulls and I got grounded
 for a month.
 A car load of kids flies by.
 OMITTED
-
-</scene><scene>
 EXT. JAKE'S HOUSE - FRONT DOOR
 The Geek, Bryce and Cliff reach the front door. They're
 bubbling with excitement at being moments from an out of
@@ -2999,8 +3450,6 @@ Come on in and party hearty dude
 persons.
 77
 OMITTED
-
-</scene><scene>
 INT. JAKE'S HOUSE - DINING ROOM - WINDOW SEAT
 The biker is sitting on the window seat with his thirty-
 fifth beer in his paw. He's drunk and sullen. A bombed
@@ -3042,16 +3491,12 @@ to meet her. The biker's old lady bites the end off the
 bottle and chews the glass. The jock's face register's
 total fear. He backs away.
 78
-
-</scene><scene>
 INT. JAKE'S HOUSE - LIVING ROOM
 The light are low, make-out time. Bodies are spread
 across the furniture and the floor. A soft core porno
 picture is playing on the big screen TV. A piece of hurled
 pizza slaps the screen and sticks on the image of a naked
 female rump.
-
-</scene><scene>
 INT. LIVING ROOM - COUCH
 The Geek, Cliff and Bryce sit on either side of Rock. All
 three are bombed. Rock motions to the screen with his huge
@@ -3109,8 +3554,6 @@ clenched in his teeth and tobacco sprinkles and ash on his
 lips.
 ROCK
 Sap.
-
-</scene><scene>
 INT. HALLWAY OUTSIDE JAKE'S ROOM
 The crowd has decided on a course of action to free
 Caroline.
@@ -3136,12 +3579,8 @@ damage. One side of her head is long, blonde hair, the
 other is clipped to the ear. The crowd in the hallway lets
 out a spirited cheer.
 DISSOLVE TO
-
-</scene><scene>
 INT. SAM'S HOUSE - LIVING ROOM
 She's sound asleep. Like an angel.
-
-</scene><scene>
 INT. PARENT'S ROOM
 Brenda's asleep. There's an empty spot next to her in the
 bed. Jim's sitting in the window, staring at a family
@@ -3155,27 +3594,19 @@ slowly opens his eyes. He looks at the picture again. He's
 suddenly very troubled. He looks at the dial of his watch.
 JIM
 Oh, Jesus! It's Sam's birthday.
-
-</scene><scene>
 EXT. JAKE'S HOUSE
 The few cars remaining pull out, leaving a trashed lawn and
 an even more trashed house.
-
-</scene><scene>
 INT. JAKE'S HOUSE - KITCHEN
 A mournful blues number plays as we begin a sad tour of the
 revaged house in the kitchen where we see that every edible
 item has been consumed. The cupboards are bare. The
 refrigerator is open and empty. There are cartons, cans
 and rubbish everywhere.
-
-</scene><scene>
 INT. DINING ROOM
 The dining room table is completely covered by a pyramid of
 beer cans. The pyramid collapses.
 81
-
-</scene><scene>
 INT. LIVING ROOM
 We move around the room to see that a painting that featured
 a face without eyes or a mouth has had eyes and mouth drawn
@@ -3201,8 +3632,6 @@ is a heavy glass cube. Jake clears aside the rubbish on
 the table top to reveal the Geek's desperate, exasperated
 face. He's trapped inside the cube. He's frantic, pounding
 noiselessly on the glass.
-
-</scene><scene>
 INT. LIVING ROOM
 Jake struggles and grunts to overturn the coffee table .. It
 rolls over on one side and the Geek takes a deep breath of
@@ -3244,8 +3673,6 @@ I'll help you clean up.
 JAKE
 Don't worry about it. We've got a
 housekeeper.
-
-</scene><scene>
 INT. HOUSEKEEPER'S ROOM
 The frail, young Spanish housekeeper is smoking dope in bed
 with Dong and the Lumberjack.
@@ -3259,12 +3686,8 @@ Hai!
 LUMBERJACK
 Very!
 83
-
-</scene><scene>
 INT. SAM'S HOUSE - FOYER
 Jim creeps quietly down the stairs.
-
-</scene><scene>
 INT. LIVING ROOM
 Sam's asleep. Jim walks into the living room. He stops
 and looks at Sam on the couch. He smiles as he watches her
@@ -3483,8 +3906,6 @@ Where in the hell are your under-
 shorts?
 CLOSEUP - SAM'S PANTIES
 A boy's hand carefully examines Sam's panties.
-
-</scene><scene>
 INT. JAKE'S LIVING ROOM
 The Geek i- sharing his treasure with Jake. Jake regards
 the panties with an almost religious reverence.
@@ -3625,8 +4046,6 @@ JAKE
 You're sure?
 GEEK
 Yeah. I'm sure.
-
-</scene><scene>
 INT. JAKE'S GARAGE
 Jake and the Geek carry Caroline out of the house. Jake
 has her under the arms. The Geek has her feet. She giggles
@@ -3695,14 +4114,10 @@ Jake leans in and gives the Geek the okay sign.
 JAKE
 She's totally gone. Have fun.
 He backs away from the car as the Geek puts it in reverse.
-
-</scene><scene>
 EXT. JAKE'S HOUSE
 The Rolls crawls out of the garage. The radio goes on.
 The Rolls pulls ahead making a broad, graceless circle and
 heads slowly down the driveway.
-
-</scene><scene>
 EXT. JAKE'S HOUSE
 He walks out of the garage and watches the Rolls head down
 the drive. he breaths a weary sigh and heads back to the
@@ -3720,12 +4135,8 @@ DONG
 Banzai!
 94
 OMITTED
-
-</scene><scene>
 EXT. ROLLS
 It cruises slowly down a residential street.
-
-</scene><scene>
 INT. ROLLS
 The Geek's driving with both hands firmly on the wheel.
 He's as nervous as a cat in a hailstorm. Caroline is next
@@ -3790,15 +4201,11 @@ It makes it okay to be really super
 careless.
 Caroline throws a huge kiss on the Geek, completely
 obliterating his view of the road.
-
-</scene><scene>
 EXT. ROLLS
 It jumps a curb and rides twenty feet with two wheels on
 the grass. It rams a big plastic garbage can and jerks back
 into the street. The can sticks under the car, making a
 terrible racket.
-
-</scene><scene>
 INT. CAR
 Caroline drops her head in the Geek's lap. His eyes dart
 back and forth between the road and his lap and Caroline.
@@ -3814,18 +4221,12 @@ Jakey, you've been so cold to me.
 GEEK
 (firmly, manly)
 Not anymore, woman.
-
-</scene><scene>
 EXT. STREET
 The Rolls peels away into the night.
 OMITTED
-
-</scene><scene>
 EXT. HOUSE - FRONT BEDROOM WINDOW
 The Geek creeps through the bushes to the window. He looks
 around and knocks on the glass.
-
-</scene><scene>
 INT. CLIFF'S BEDROOM
 The bedroom is jammed with computer hardware. A monitor is
 glowing with a three-dimensional representation of a pair
@@ -3842,8 +4243,6 @@ computer and to his friend, Bryce, who is similarly out-
 fitted and is asleep on the floor next to Cliff's bed in
 a sleeping bag. Cliff and Bryce hear the Geek's insistant
 raps on the window. They both sit up.
-
-</scene><scene>
 EXT. HOUSE - WINDOW
 The Geek knocks again. The window opens and Bryce and
 Cliff look out. They're still wearing their head gear.
@@ -3880,8 +4279,6 @@ Better!
 Cliff and Bryce look at each other.
 CLIFF AND BRYCE
 Female extra-terrestrial!
-
-</scene><scene>
 EXT. CLIFF'S HOUSE - FRONT PORCH - LATER
 The front door opens and Cliff and Bryce come out in
 their underwear and at-shirts. Cliff's carrying a
@@ -3892,8 +4289,6 @@ drop open.
 HIS POINT OF VIEW - THE ROLLS
 is parked in front of his house with the top down. The
 Geek waves him on.
-
-</scene><scene>
 EXT. STREET
 The Geek directs Cliff around to the front of the car.
 Cliff's dumbfounded.
@@ -3924,8 +4319,6 @@ She lifts her head and offers a drunken smile. Flash!
 CLOSEUP - PHOTOGRAPH
 The fully developed Polaroid picture of the Geek and
 Caroline. His eyes are closed. She's smiling and waving.
-
-</scene><scene>
 EXT. SAM'S HOUSE
 A Jeep CJ roars up to the house and stops. Dong flies out
 of the door and lands with a thud! on the lawn. His pants
@@ -3942,15 +4335,11 @@ DONG
 What an exciting country!
 He passes out on the lawn.
 DISSOLVE TO
-
-</scene><scene>
 EXT. SAM'S HOUSE - MORNING
 The sun's coming up behind the house. An alarm clock goes
 off. Ginny shrieks.
 GINNY
 Mother!
-
-</scene><scene>
 INT. HOUSE - SECOND FLOOR HALLWAY
 Brenda hurries out of her room. Jim comes out after her.
 JIM
@@ -3970,8 +4359,6 @@ It's your nose.
 Mike closes his door. Jim opens the bathroom door. A beat
 and he slams it shut.
 100
-
-</scene><scene>
 INT. GINNY'S ROOM
 She's laying on her bed. Brenda's sitting next to her.
 BRENDA
@@ -3995,8 +4382,6 @@ It was yesterday. We all forgot.
 GINNY
 189
 For Christ's sake. It's not fatal.
-
-</scene><scene>
 INT. HOUSE - KITCHEN
 The two grandmothers are trying to make breakfast together.
 They're as crabby as everyone else. They're in their house-
@@ -4019,8 +4404,6 @@ Maybe he drove back to Korea. Your
 car's not here either.
 Howard chokes. Dorothy drops an egg.
 OMITTED
-
-</scene><scene>
 INT. LIVING ROOM
 Sam walks out of the living room and into the foyer with
 the blanket draped over her shoulders. She starts up the
@@ -4080,8 +4463,6 @@ SARA
 Classic!
 She continues up the stairs.
 OMITTED
-
-</scene><scene>
 INT. SAM'S ROOM
 She climbs the stairs to her room. She reaches the top and
 drops her blanket. She groans and covers her face.
@@ -4104,8 +4485,6 @@ real live beaver flesh!
 Sam looks down the stairs in horror.
 SAM
 You asshole!
-
-</scene><scene>
 INT. SECOND FLOOR HALLWAY
 Mike turns from the door to the third floor stairs.
 MIKE
@@ -4125,8 +4504,6 @@ MIKE
 (shrugs in
 agreement)
 Good point.
-
-</scene><scene>
 INT. SAM'S ROOM
 She's curled up on her bed, talking on the phone.
 SAM
@@ -4139,8 +4516,6 @@ one-tenth the bod to fill the stupid
 bust up. Should I just waste myself
 and spare the agony?
 104
-
-</scene><scene>
 INT. RANDY'S BEDROOM
 She's sitting on her bed in T-shirt and panties listening
 sympathetically.
@@ -4149,22 +4524,16 @@ I'm so bummed out to hear all this.
 I was going to tell you something
 but maybe I shouldn't. It's pretty
 bad.
-
-</scene><scene>
 INT. SAM'S ROOM
 SAM
 You may as well. Nothing could
 shock me anymore.
-
-</scene><scene>
 INT. RANDY'S ROOM
 RANDY
 Last night at the dance my little
 brother paid a buck to see your
 underwear.
 She pulls the phone from her ear as Sam screams.
-
-</scene><scene>
 INT. SAM'S HOUSE - KITCHEN
 The grandparents are eating. From the third floor we hear
 Sam shriek. The grandparents look up from the breakfasts.
@@ -4172,8 +4541,6 @@ HOWARD
 Jesus, I hate that rock'n roll crap!
 FRED
 I'm afraid it's here to stay, Howie.
-
-</scene><scene>
 EXT. SAM'S HOUSE - BACK DOOR - LATER
 The family comes out dressed for the wedding. The men are
 wearing morning coats. The only one who's rented clothes
@@ -4217,8 +4584,6 @@ You, Fred!
 Brenda and the girls hurry to the garage and Brenda's car.
 Jim shuffles along with the old people.
 OMITTED
-
-</scene><scene>
 EXT. PARKWAY
 Dong's laying in a heap on the grass. A dog is sniffing
 his head. It makes a circle and raises its leg. Brenda's
@@ -4226,20 +4591,14 @@ car pulls out and speeds away. The dog pulls a large bra
 out of Dong's hip pocket and runs off with it.
 OMITTED
 106
-
-</scene><scene>
 EXT. HOUSE
 Jim's Buick shoots out the drive.
-
-</scene><scene>
 INT. CAR
 Fred notices Dong out the window. He points and laughs.
 FRED
 Hey, Howard! There's your Chinaman!
 Howard and Dorothy crane their necks. Dorothy screams.
 Mike laughs.
-
-</scene><scene>
 EXT. STREET
 Jim slams on the brakes. The car doors open and everybody
 piles out. They run to Dong and shoo the dogs away.
@@ -4286,8 +4645,6 @@ DOROTHY
 Why, you little scuz bag!
 Sweet, kind Dorothy draws her leg back and kicks Dong in the
 groin.
-
-</scene><scene>
 EXT. CHURCH
 Brenda helps Ginny down the church steps. Sam and Sara
 trail behind. The church Organist comes out the door to
@@ -4317,14 +4674,10 @@ GINNY
 Mother, I'm not in pain. I'm in
 hell.
 The Organist's eyes open wide at the mention of hell.
-
-</scene><scene>
 EXT. PARKING LOT ACROSS FROM THE CHURCH - SAME TIME
 Jim's car pulls up alongside the Rolls Royce. The grand-
 parents, Jim and Mike get out. Fred's still chuckling.
 Howard helps Dorothy. She's limping. We hold on the Rolls.
-
-</scene><scene>
 INT. ROLLS - BACKSEAT
 The top's down and Caroline is asleep in the Geek's arms.
 Somehow, during his night of wild fun, he's remembered to
@@ -4359,8 +4712,6 @@ CLOSEUP - GINNY
 She looks gorgeous. The prettiest bride in the world. A
 beat and a silly, stoned smile breaks across her face. Her
 eyes slowly cross.
-
-</scene><scene>
 INT. CHURCH - ANTEROOM
 Brenda's holding Ginny up as Sam puts shoes on her. The
 painkiller's have kicked in.
@@ -4386,8 +4737,6 @@ GINNY
 Cruise the bars. That's where I
 found him.
 OMITTED
-
-</scene><scene>
 INT. ROLLS - BACKSEAT
 The Geek's still sleeping. Caroline gently slaps his face.
 CAROLINE
@@ -4436,8 +4785,6 @@ CAROLINE
 You know, I have this weird feeling
 I did.
 111
-
-</scene><scene>
 INT. CHURCH - ANTEROOM
 Brenda's walking Ginny up and down, trying to get her to
 drink coffee.
@@ -4466,20 +4813,14 @@ cup caves in.
 SAM
 Excellent, huh? Nothing ever goes
 right for me. I'm cursed.
-
-</scene><scene>
 EXT. SAM'S HOUSE
 Jake's Porsche is parked out in front. He's at the front
 door.
-
-</scene><scene>
 EXT. HOUSE - FRONT PORCH
 Jake rings the bell. Inside we hear horrible moaning and
 groaning and animal-like bellowing. Jake peeks in the side
 door windows.
 112
-
-</scene><scene>
 INT. FOYER
 Dong limps in wearing Brenda's pink bathrobe and boxer
 shorts. He's holding two cold cans of Coke to his
@@ -4488,8 +4829,6 @@ DONG
 Mwaaa. Let me die. Mwaaaa.
 He moves the cans to the groin injury he sustained when
 Dorothy kicked him.
-
-</scene><scene>
 EXT. PORCH
 Dong opens the door. Jake is startled to see him. Dong is
 even more startled. He screams and slams the door closed.
@@ -4530,8 +4869,6 @@ oily Bohunk.
 Jake turns from the door, puzzled and bewildered.
 JAKE
 Married?
-
-</scene><scene>
 INT. CHURCH - LOBBY
 Guests are filing in. Mike is an usher. A conservatively
 dressed couple walks in.
@@ -4547,8 +4884,6 @@ down and deduces from their clothing that they're guests of
 the groom.
 MIKE
 Friends of the groom, right?
-
-</scene><scene>
 INT. CHURCH - ANTEROOM
 Brenda's straightening Ginny's dress. She has her propped
 against the wall. Sam and Sara are waiting patiently with
@@ -4575,16 +4910,12 @@ SAM
 I know you'll have a great marriage.
 She leans over and kisses Ginny. Ginny smiles and keels
 over backwards.
-
-</scene><scene>
 INT. CHURCH - LOBBY
 Jim waits nervously for the music cue and the bride. In
 the adjacent room, we hear a loud thud! The organ comes up
 with the first bars of "The Wedding March." Jim rushes to
 the door of the anteroom and opens it. Inside we see
 Brenda helping a dazed Ginny to her feet.
-
-</scene><scene>
 INT. CHURCH
 The Organist stops playing and listens, along with everyone
 else, to Jim and Brenda.
@@ -4595,8 +4926,6 @@ BRENDA
 Would you please be quiet?! We
 don't have to announce to everybody
 that she has her period!
-
-</scene><scene>
 INT. CHURCH - REVEREND AND RUDY
 They exchange embarrassed smiles. Behind them, the
 organist pokes her head out of the organ chamber window.
@@ -4606,15 +4935,11 @@ to get married feel pretty stupid
 right about now, huh, padre?
 The Reverend nods politely.
 115
-
-</scene><scene>
 INT. CHURCH - LOBBY
 Brenda helps Ginny onto Jim's arm. He supports her.
 Brenda hurries down the aisle, apologizing as she runs.
 She takes her seat. Sam and Sara pick up Ginny's train.
 Jim starts down the aisle with Ginny.
-
-</scene><scene>
 INT. CHURCH
 Ginny flashes stoned smiles as she shuffles down the aisle.
 GINNY
@@ -4623,8 +4948,6 @@ How's it goin'? I hope none of
 you guys got me woks.
 Jim squeezes her arm. She shuts up. They pass a woman with
 a feathered hat and Ginny can't resist batting the feather.
-
-</scene><scene>
 EXT. PARKING LOT - ROLLS
 Caroline and the Geek are chatting amicably. There's a
 hint of tenderness in the conversation.
@@ -4661,8 +4984,6 @@ Waking up in your arms.
 The Geek is flabbergasted. He looks at his arms.
 GEEK
 These things?
-
-</scene><scene>
 EXT. CHURCH
 Jake's car pulls up in front of the church. A rented
 limousine is waiting. The Driver is leaning on the fender
@@ -4690,15 +5011,11 @@ chance to take her out, you know?
 So ... thanks.
 He revs his engine and whips around into the parking lot.
 117
-
-</scene><scene>
 EXT. PARKING LOT
 Jake pulls up alongside the Rolls. He stands up and looks
 out his sunroof into the Rolls.
 JAKE
 Holy shit!
-
-</scene><scene>
 EXT. ROLLS
 Caroline and the Geek are locked in a passionate kiss.
 Through half-closed eyes, Caroline sees Jake.
@@ -4726,8 +5043,6 @@ GEEK
 You wanna learn what happened? Buy
 the book.
 He hangs up.
-
-</scene><scene>
 INT. JAKE'S CAR
 Caroline gets in the passenger side. She's nervous and
 unsure of how's she's going to explain herself. He's just
@@ -4786,13 +5101,9 @@ I'll leave it up to you.
 Jake looks over at Caroline. It's his decision. The
 situation is of his making and he accepts that it's also
 his to resolve. He nods his agreement.
-
-</scene><scene>
 INT. CHURCH
 Sunlight streams in the windows, the stained glass glows.
 It's peaceful and serene as the ceremony is underway.
-
-</scene><scene>
 INT. CHURCH - SAM
 Tears well up in her eyes as she watches her big sister
 take the vows. She looks like an angel and even the yellow
@@ -4803,24 +5114,16 @@ not to cry. Something distracts her. She looks down at
 her chest.
 CLOSEUP - SAM'S CHEST
 The caved-in cup slowly pops out.
-
-</scene><scene>
 INT. CHURCH - GRANDPARENTS
 The grandmothers are crying. Howard sniffles. Fred blows
 his nose with a loud honk!
-
-</scene><scene>
 INT. CHURCH - MIKE AND SARA
 Mike's eyes are wandering across the ceiling. Sara's
 picking her seat.
-
-</scene><scene>
 INT. CHURCH - BRENDA AND JIM
 They watch with pride. Brenda's crying. Jim lifts his
 glasses and dries his eyes.
 120
-
-</scene><scene>
 INT. CHURCH - ALTAR
 Rudy and Ginny exchange their vows. The Reverend speaks in
 hushed and pensive tones.
@@ -4829,17 +5132,11 @@ Do you, Virginia, take this ....
 Ginny interrupts him in a casual, slurry voice.
 GINNY
 You bet, bub.
-
-</scene><scene>
 INT. CHURCH - JIM AND BRENDA
 They exchange troubled glances. Brenda looks past Jim to
 Rudy's parents and apologizes with a weak smile.
-
-</scene><scene>
 INT. CHURCH - BRUNO AND IRENE
 Their mouths are open in alarm.
-
-</scene><scene>
 INT. CHURCH - ALTAR
 Ginny peels off her veil and tosses it onto a floral
 arrangement.
@@ -4856,18 +5153,12 @@ GINNY
 (looking
 at Rudy)
 Oh, for sure. He's hot.
-
-</scene><scene>
 INT. CHURCH - SAM
 She winces at the mess Ginny's making of her wedding.
-
-</scene><scene>
 INT. CHURCH - MIKE AND SARA
 Sara rolls her eyes. Mike shakes his head and covers his
 face with his hands.
 121
-
-</scene><scene>
 INT. CHURCH - REVEREND
 He repeats the vow for Rudy.
 REVEREND
@@ -4894,13 +5185,9 @@ Sam turns Ginny around to face Rudy. Ginny drops the ring.
 GINNY
 Oh, crap!
 She gets down on all fours and picks it up.
-
-</scene><scene>
 INT. CHURCH GRANDPARENTS
 All four lean forward at the same time, hardly believing
 what they're seeing.
-
-</scene><scene>
 INT. CHURCH - ALTAR
 The Reverend races through the rest of the ceremony to get
 it over with before anything else happens.
@@ -4915,8 +5202,6 @@ You may now kiss the bride.
 Rudy puts his arms on Ginny's waist. He leans forward and
 puckers. Ginny keels over backwards, leaving Rudy kissing
 air. Organ music surges in.
-
-</scene><scene>
 EXT. CHURCH
 Both families stream out of the church and gather around
 the door. The photographer sets himself up at the bottom
@@ -4924,22 +5209,16 @@ of the stairs. Ginny and Rudy come out and everybody
 tosses rice. Ginny tries to catch some in her mouth. Rudy
 quickly hustles her to the waiting limousine. The crowd
 begins to head toward the parking lot.
-
-</scene><scene>
 EXT. CHURCH - SAM
 She remembers that Ginny's left her veil inside.
 SAM
 She forgot her veil!
 She turns and goes back into the church.
-
-</scene><scene>
 INT. CHURCH - SAM
 She heads back up the aisle for the altar. She wipes her
 tears away as she walks. She reaches the altar and retrieves
 the veil from the floral arrangement. She straightens it out
 and very carefully and reverently folds it.
-
-</scene><scene>
 EXT. CHURCH - GRANDPARENTS
 The four of them head across the lawn.
 HELEN
@@ -4987,8 +5266,6 @@ JIM
 Okay, let's move it out!
 Jim and the old folks cross the street between the traffic
 jam of horn honking cars.
-
-</scene><scene>
 EXT. CHURCH
 Sam comes out of the church to find that her thoughfulness
 in retrieving Ginny's veil has been rewarded by her being
@@ -5013,8 +5290,6 @@ CLOSEUP - SAM
 For a moment, she doesn't think he's talking to her. She
 glances over her shoulder to make sure he's looking at her
 and not someone behind her.
-
-</scene><scene>
 EXT. STREET - JAKE
 His smile fades. He interprets her hesitation in returning
 his greeting as rejection. He feels like a fool.
@@ -5027,8 +5302,6 @@ Her eyes open wide in horror. She screams.
 SAM
 Jake!
 She takes off down the steps.
-
-</scene><scene>
 EXT. STREET
 Jake slams on the brakes. He sees Sam running. He throws
 the car in reverse and backs up to the church. He jumps
@@ -5061,8 +5334,6 @@ JAKE
 Can I call you later?
 SAM
 Yeah.
-
-</scene><scene>
 EXT. STREET
 Jake gets back in the car. He puts it in gear and starts
 to pull away.
@@ -5076,8 +5347,6 @@ I mean no, I'm not going to the
 reception.
 Jake grins from ear to ear.
 126
-
-</scene><scene>
 EXT. PARKING LOT
 Jim is helping the old people into the car. Something
 catches his eye. He watches curiously.
@@ -5098,8 +5367,6 @@ through the backseat window, we see that Jim has closed the
 door on her hat.
 SAM
 She throws Jim a big kiss and gets in the car.
-
-</scene><scene>
 EXT. COUNTRY CLUB - PORTICO - EVENING
 Brenda, Jim, Mike and Sara are under the portico. Brenda's
 worried, Jim is smug and coy. He knows where Sam is. He
@@ -5140,8 +5407,6 @@ stand the thought of her sitting by
 herself alone in a dark house.
 The family heads back into the club. Jim hangs back smiling
 knowingly.
-
-</scene><scene>
 INT. JAKE'S HOUSE - INDOOR POOL
 The room is dark except for a fragile glow of yellow in the
 center of the pool.
@@ -5174,7 +5439,11 @@ out the candles.
 BLACK SCREEN
 Music up. "Sixteen Candles." Big, loud and bright as
 we begin:
+<<<<<<< HEAD:Scripts/sixteen.xml
 THE END
 </scene>
 </root>
 </xml>
+=======
+THE END
+>>>>>>> origin/main:Screenplays/Text/sixteen.txt

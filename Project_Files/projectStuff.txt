@@ -4,11 +4,31 @@ Sixteen Candles - Sean
 Ferris Bueller’s Day Off - Railey
 The Breakfast Club - Evan
 
-Milestone 3 Tasks:
-Sean - creating iXML in attempts to be able to wrap whole scenes
-Railey - "Team" Page additions on website w/ blurbs on each member, images, and more stylization
-Evan - Updating main project text doc with new markup additions; first schema draft; pipeline description file
+-----------------------------
+Tasks:
+- Finish markup/make schema changes/validate w/ schema/etc.
+- Website Stylization, with new pages: 
+    -- Home (project overview, Github link at bottom of this page); Script View (one page for each script reading view); Original Text File/PDF Links + Schema (readable code view); Visualizations + Statistics Page; Python Word stuff Page; Team Page
+- Visualizations:
+    -- pie chart of dialog percentages between 6 leads in breakfast club
+    -- bar graph showing lengths of each script in words
+    -- visual of percentage of the time that Ferris Bueller's lines are directed to the audience (4th wall)
+    -- something for 16 candles (?)
+ - Python word stuff
+-----------------------------
+Helpful Regex Expressions:
 
+** in order for these to work the same way they worked on mine, 
+each line of dialogue MUST have a blank line before and after itself **
+
+Find: (^\s*)(BRIAN$)(\n)(.+?)(\n)(^s*$)
+Replace: \1<d who="brian">\2\3\4</d>\5\5\6
+
+- Once each instance of dialogue is isolated as mentioned, this expression should wrap d tags around every time a certain character speaks,
+check beforehand using Find and make tweaks as needed though
+(don't forget to change character name in both Find and Replace {"who" attribute for Replace})
+
+-----------------------------
 General Markdown Structure: 
 
 	INTRO ELEMENTS:
@@ -25,13 +45,13 @@ General Markdown Structure:
 	MAIN SCRIPT ELEMENTS:
 	<scene> : wraps entire scene
 	<narr> : wraps narrator information
-	<d who=“ferris> : wraps dialogue, charts speaker (starting right before capital character name till end of sentence.)
+	<d who=“ferris"> : wraps dialogue, charts speaker (starting right before capital character name till end of sentence.)
 	
 	<loc int="true" ; ext="true"> : wraps all marked locations, and gives an Interior or Exterior attribute if given (only "true" if given, no false; not always necessary either)
 
-	<char who=“ferris”> : wraps any character mentions in dialogue or narration (outside of capital dialog names) and repeating (to chart character mentions later).
-	If it’s a regular character, they’ll get a character code in the “who” attribute which will later be put in schema; if not regular, who=“side” (sometimes gets muddy, use best discretion).
-	<desc> : wraps any parenthetical descriptors (ex. <desc>(whispers, sadistic)</desc> )
+	<char who=“ferris”> : wraps any character mentions in dialogue or narration (outside of capital dialog names and locations) and repeating (to chart character mentions later).
+	If it’s a regular character, they’ll get a character code in the “who” attribute which will later be put in schema; if not regular, who=“side/misc/etc.” (sometimes gets muddy, use best discretion).
+	<desc> : wraps any parenthetical descriptors { ex. <desc>(whispers, sadistic)</desc> }
 
 	If labeled V.O. : <d who=“ferris” vo = “true”> (no false, just true if applies)
 	If labeled O.S. : <d who=“ferris” os = “true”>
@@ -47,9 +67,11 @@ General Markdown Structure:
 
 	OTHER NOTES
 —	If your script does something like this between pages:
- Sara Baker, seven, comes out of her room. She's all sweetness and cutes. CONTINUED  CONTINUED 2 SARA You don't have a fever.
+ 
+    Sara Baker, seven, comes out of her room. She's all sweetness and cutes.  CONTINUED   CONTINUED  2  SARA  You don't have a fever.  ;
 
-The “continues” will be ignored (we’ll use links to page numbers or scenes later), basically just close the previous element at the end of the last line, and open the next one on the new page (even if it splits the same kind of element).
+    The “continues” will be ignored (we’ll use links to page numbers or scenes later), basically just close the previous element at the end of the last line, and open the next one on the new page (even if it splits the same kind of element).
 
 —	If “OMITTED” : wrap the word with <omit></omit> 
-	
+
+-----------------------------

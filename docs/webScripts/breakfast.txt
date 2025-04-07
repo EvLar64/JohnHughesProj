@@ -1,13 +1,11 @@
-<!DOCTYPE html>
-<xml>
-<head>The Breakfast Club
+The Breakfast Club
 
                     written and directed by
                          John Hughes
 
 
-</head>
-<body>BLANK SCREEN:
+
+BLANK SCREEN:
      Against Black, TITLE CARD:
 
            "...and these children that you spit on,
@@ -18,7 +16,6 @@
 
      The Blank Screen and Title Card SHATTER to reveal...
 
-<scene>
 1. EXT. SHERMER HIGH SCHOOL - DAY
 
      During Brian's monologue, we see various views of things
@@ -45,8 +42,6 @@
                We were brainwashed...
                                                   CUT TO:
 
-</scene>
-<scene>
 2. INT. CLAIRE'S CAR - DAY
 
      We see CLAIRE and her FATHER sitting in their car in the
@@ -71,8 +66,6 @@
      up the school front steps
                                                   CUT TO:
 
-</scene>
-<scene>
 3. INT. BRIAN'S CAR - DAY
 
      We are in BRIAN's car.  His MOTHER is there and so is
@@ -109,8 +102,6 @@
      Brian gets out of the car and walks towards the school.
                                                   CUT TO:
 
-</scene>
-<scene>
 4. INT. ANDREW'S CAR - DAY
 
      We see ANDREW and his FATHER.  Andrew is clearly a jock;
@@ -134,8 +125,6 @@
      Andrew gets out of the car and walks into the school.
                                                   CUT TO:
 
-</scene>
-<scene>
 5. EXT. SHERMER PARKING LOT - DAY
 
      We see JOHN BENDER walking towards us.  He is wearing
@@ -150,8 +139,6 @@
      drives away.
                                                  CUT TO:
 
-</scene>
-<scene>
 6. INT. LIBRARY - DAY
 
      There are six tables in two rows of three.
@@ -512,8 +499,6 @@
 
                                                   CUT TO:
 
-</scene>
-<scene>
 7. INT. VERNON'S OFFICE - DAY
 
      We see Vernon in his office.
@@ -525,8 +510,6 @@
                Smug little pricks!
                                                   CUT TO:
 
-</scene>
-<scene>
 8. INT. LIBRARY - DAY
 
      They all look at each other.  Andrew turns away from
@@ -823,8 +806,6 @@
                Drop dead, I hope!
                                                   CUT TO:
 
-</scene>
-<scene>
 9. INT. HALLWAY - DAY
 
      We see Vernon getting a drink at the fountain. He stands
@@ -832,8 +813,6 @@
      muscular pose and utters some manly jibberish �Cobadonga!�
                                                   CUT TO:
 
-</scene>
-<scene>
 10. INT. LIBRARY - DAY
 
      Brian looks up.  Bender is messing with the door to the
@@ -869,8 +848,6 @@
                Everyone just shhh!
                                                   CUT TO:
 
-</scene>
-<scene>
 11. INT. HALLWAY - DAY
 
      We see Vernon walking back to his office.  He stops and
@@ -889,8 +866,6 @@
                Shut up!
                                                   CUT TO:
 
-</scene>
-<scene>
 12. INT. LIBRARY - DAY
 
      We see Brian as we hear Vernon in the hall.
@@ -1219,8 +1194,6 @@
      We see everyone fall asleep.
                                                   CUT TO:
 
-</scene>
-<scene>
 13. INT. LIBRARY - DAY
 
      Later.
@@ -1234,8 +1207,6 @@
      Everyone raises their hands.
                                                   CUT TO:
 
-</scene>
-<scene>
 14. INT. LIBRARY - DAY
 
      Later.
@@ -1675,15 +1646,11 @@
                Shit!
                                                   CUT TO:
 
-</scene>
-<scene>
 15. INT. VERNON'S OFFICE - DAY
 
      The clock says 11:30.  Vernon gets up and leaves.
                                                   CUT TO:
 
-</scene>
-<scene>
 16. INT. LIBRARY - DAY
 
      Bender starts to whistle a marching tune and everybody
@@ -1763,8 +1730,6 @@
 
                                                   CUT TO:
 
-</scene>
-<scene>
 16. INT. HALLWAY - DAY
 
      Andrew and Allison are walking in the hall.
@@ -1838,8 +1803,6 @@
                Forget it!
                                                   CUT TO:
 
-</scene>
-<scene>
 17. INT. LIBRARY - DAY
 
      Claire and Bender and Brian are all sitting around
@@ -2002,8 +1965,6 @@
      Claire smiles and nods.
                                                   CUT TO:
 
-</scene>
-<scene>
 18.  INT. LIBRARY - DAY
 
      Later.
@@ -2242,8 +2203,6 @@
                about everything anyway!
                                                  CUT TO:
 
-</scene>
-<scene>
 19. INT. VERNON'S OFFICE - DAY
 
      Vernon puts an orange in his mouth and then attempts to
@@ -2254,8 +2213,6 @@
                Oh, shit!
                                                   CUT TO:
 
-</scene>
-<scene>
 20. INT. HALLWAY - DAY
 
      Vernon walks into the hallway, talking to himself.
@@ -2474,8 +2431,6 @@
      They leave.
                                                   CUT TO:
 
-</scene>
-<scene>
 21. INT. LIBRARY - DAY
 
      The rest of the kids are all sitting back in their
@@ -2542,8 +2497,6 @@
      way.
                                                   CUT TO:
 
-</scene>
-<scene>
 21. INT. CLOSET - DAY
 
      Vernon has put Bender in a closet and is in there
@@ -2601,8 +2554,6 @@
      disappears.
                                                  CUT TO:
 
-</scene>
-<scene>
 22. INT. HEATING DUCT - DAY
 
      Bender is slowly crawling through a heating duct.
@@ -2624,8 +2575,6 @@
                Oh shit!!!!
                                                   CUT TO:
 
-</scene>
-<scene>
 23. INT. FACILTY BATHROOM - DAY
 
      We see the door to the bathroom.  We hear Vernon
@@ -2635,8 +2584,6 @@
                Jesus Christ, allmighty!
                                                   CUT TO
 
-</scene>
-<scene>
 24. INT. LIBRARY - DAY
 
      Bender walks down the stairs.
@@ -2749,15 +2696,11 @@
      Andrew goes.
                                                   CUT TO:
 
-</scene>
-<scene>
 25. INT. STAIRS - DAY
 
      We see Vernon go down the stairs.
                                                   CUT TO:
 
-</scene>
-<scene>
 26. INT. LIBRARY - DAY
 
      Brian, Bender and Claire are sitting in a circle and
@@ -2789,8 +2732,6 @@
      shatters the glass in the door.
                                                   CUT TO:
 
-</scene>
-<scene>
 27. INT. BASEMENT - DAY
 
      Vernon is glancing through the confidential files in
@@ -2862,8 +2803,6 @@ the
                Fifty bucks...
                                                   CUT TO:
 
-</scene>
-<scene>
 28. INT. LIBRARY - DAY
 
      We see Andrew and Brian laughing.  Allison is hanging
@@ -3201,8 +3140,6 @@ the
      They both are crying silently.
                                                   CUT TO:
 
-</scene>
-<scene>
 29. INT. BASEMENT - DAY
 
      Vernon and Carl are sitting talking.
@@ -3269,8 +3206,6 @@ the
      Vernon ponders that statement for a moment.
                                                   CUT TO:
 
-</scene>
-<scene>
 30. INT. LIBRARY - DAY
 
      They are sitting on the floor in a circle.
@@ -4172,8 +4107,6 @@ the
                Yeah you are!
                                                   CUT TO:
 
-</scene>
-<scene>
 31. INT. LIBRARY - DAY
 
      Later.
@@ -4184,15 +4117,11 @@ the
      of the song.
                                                   CUT TO:
 
-</scene>
-<scene>
 32. INT. HEATING DUCT - DAY
 
      We see Bender crawling back through the heating duct.
                                                   CUT TO:
 
-</scene>
-<scene>
 33. INT. LIBRARY - DAY
 
      Andrew, Allison, Claire and Brian are sitting, in that
@@ -4311,8 +4240,6 @@ the
      We see Andrew, still deep in thought.
                                                   CUT TO:
 
-</scene>
-<scene>
 34. INT. CLOSET - DAY
 
      We see Bender, in the closet once again.  Claire opens
@@ -4328,8 +4255,6 @@ the
      Claire smiles.
                                                   CUT TO:
 
-</scene>
-<scene>
 35. INT. LIBRARY - DAY
 
      Brian is busily preparing the essay.
@@ -4350,8 +4275,6 @@ the
                Thank you!
                                                   CUT TO:
 
-</scene>
-<scene>
 36. INT. CLOSET - DAY
 
      Claire kisses Bender, then she breaks the kiss.
@@ -4384,8 +4307,6 @@ the
                No...
                                                   CUT TO:
 
-</scene>
-<scene>
 37. INT. LIBRARY - DAY
 
      We see Brian lift up his paper and kiss it.
@@ -4415,8 +4336,6 @@ the
      punch in the arm.
                                                   CUT TO:
 
-</scene>
-<scene>
 38. INT. HALLWAY - DAY
 
      The five are walking down the hall where they are met
@@ -4436,8 +4355,6 @@ the
                You bet!
                                                   CUT TO:
 
-</scene>
-<scene>
 39. EXT. PARKING LOT - DAY
 
      Brian gets into his dad's car and leaves.
@@ -4455,8 +4372,6 @@ the
      We see Bender put the earring in his ear.
                                                   CUT TO:
 
-</scene>
-<scene>
 40. INT. LIBRARY - DAY
 
      We see Vernon pick up Brian's essay and begin to read.
@@ -4473,8 +4388,6 @@ the
                convenient definitions.
                                                   CUT TO:
 
-</scene>
-<scene>
 41. EXT. FOOTBALL FIELD - DAY
 
      We see Bender walking towards us as Brian's monologue
@@ -4514,6 +4427,3 @@ the
           John Bender..............Judd Nelson
           Claire Standish..........Molly Ringwald
           Allison Reynolds.........Ally Sheedy
-</scene>
-</body>
-</xml>

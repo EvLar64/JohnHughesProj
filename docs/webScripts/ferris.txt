@@ -1,15 +1,13 @@
-<!DOCTYPE html>
-<xml>
-<head><title>FERRIS BUELLER'S DAY OFF"
+"FERRIS BUELLER'S DAY OFF"
 
                                      by
 
-                                John Hughes</title>
+                                John Hughes
 
 						SHOOTING SCRIPT
 						July 24, 1985
-</head>
-<body>
+
+
                          "FERRIS BUELLER'S DAY OFF"
 
   1  BLACK SCREEN                                                  1
@@ -6861,5 +6859,3 @@
      END TITLES
 
                               THE END
-</body>
-</xml>
