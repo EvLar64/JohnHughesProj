@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../GitStuff/JohnHughesProj/Project_Files/hughesSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../../../../GitStuff/JohnHughesProj/Project_Files/hughesSchema.rnc" type="application/relax-ng-compact-syntax"?>
 <root>
 <scriptInfo>
         <title>The Breakfast Club</title>
@@ -11,8 +11,8 @@ BLANK SCREEN:
            <quote>"...and these children that you spit on,
             as they try to change their worlds are
            immune to your consultations.  They're
-         quite aware of what they're going through...
-                                        - David Bowie"</quote>
+         quite aware of what they're going through..."
+                                        - David Bowie</quote>
 
      The Blank Screen and Title Card SHATTER to reveal...
 </scriptInfo>
@@ -2966,7 +2966,7 @@ BLANK SCREEN:
                are you doing in the basement files?</d>
 
                             <d who="vernon">VERNON
-               Oh, nothin' nothin' here.  I'm just
+               Oh, nothin' here.  I'm just
                doin' a little homework here...</d>
 
                              <d who="carl">CARL
