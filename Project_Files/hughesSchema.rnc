@@ -20,17 +20,17 @@ date = element date {text}
 # omit wraps the omitted text where labeled in screenplay
 omit = element omit {"OMITTED"}
 
-# SPECIFIC TO FERRIS BUELLER, 4th-wall breaking lines of dialoge (talking to camera, etc.) 
-# are to be specially marked (in addition to normal dialoge marks; 
-# maybe can just be an attribute for those particular lines instead)
-fourthwall = element fourthwall {text}
-
 scene = element scene {(narr | d | loc | char | desc | text)* }
 num = attribute num {xsd:int}
 
-d = element d {(desc | char | vo | os | who | text)*}
+d = element d {(desc | char | vo | os | who | wall | text)*}
 vo = attribute vo {"true"}
 os = attribute os {"true"}
+
+# SPECIFIC TO FERRIS BUELLER, 4th-wall breaking lines of dialoge (talking to camera, etc.) 
+# are to be specially marked (in addition to normal dialoge marks; 
+# maybe can just be an attribute for those particular lines instead)
+wall = attribute wall {"true"}
 
 # every character mention in dialog and narration gets wrapped
 char = element char {text, who}
@@ -40,7 +40,17 @@ who = attribute who {
 # combinations of characters get their own, combined character designation, ex. "andrew, brian")
 "brian" | "vernon" | "claire" | 
 "bender" | "andrew" | "carl" | 
-"allison" | "andrew, brian" | "misc"} 
+"allison" | "andrew, brian" | 
+
+# characters that rarely appear or are unnamed
+"misc" |
+# characters that were cut
+"cut" |
+
+# Ferris Bueller's Day Off characters
+"ferris" | "cameron" | "sloane" |
+"rooney" | "katie" | "jeanie" |
+"tom" | "ferris, sloane"}
 
 loc = element loc {mixed{ext*, int*, char*}}
 int = attribute int {"true"}
