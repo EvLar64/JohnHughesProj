@@ -10,10 +10,11 @@
 <!--  Breakfast Club Output XSLT - EL -->
         <html>
             <head>
+                
                 <title><xsl:value-of select="root/scriptInfo/title"/></title>
                 <style>
                     body {
-                    font-family: "Garamond";
+                    font-family: 'Tahoma', serif;
                     margin: 20px;
                     line-height: 1.5;
                     background-color: #89CFF0;
