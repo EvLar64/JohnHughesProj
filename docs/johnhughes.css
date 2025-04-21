@@ -25,7 +25,7 @@ hr {
     margin-right: auto;
     padding: 30px 0;
     background-color: #d9d7d7;
-    box-shadow: 0 5px 10px;
+    box-shadow: 0 5px 10px 3px;
 }
 .container {
     max-width: 1080px;
@@ -48,7 +48,7 @@ nav {
         margin-right: -8px;
         margin-top: -11px;
         margin-bottom: 5px;
-        box-shadow: 0 4px 4px;
+        box-shadow: 0 4px 4px black;
       }
 .nav-title {
         position: absolute;
@@ -59,14 +59,14 @@ nav {
       }
 .dropbtn {
   background-color: #333;
+  font-family: 'Roboto', sans-serif;
   color: white;
-  padding-left: 49px;
+  padding-left: 40px;
   padding-right: 49px;
   padding-top: 20px;
   padding-bottom: 20px;
   max-width: 1080px;
-  font-size: 20px;
-  margin-left: 486%;
+  font-size: 22px;
   border: none;
   cursor: pointer;
 }
@@ -77,13 +77,14 @@ nav {
 }
 
 .dropdown-content {
+  font-size: 24px;
+  font-family: 'Roboto', sans-serif;
   display: none;
   position: absolute;
   background-color: black;
-  min-width: 80px;
+  min-width: 10px;
   box-shadow: 2px 2px 2px black;
   z-index: 1;
-  margin-left: 486%;
 }
 
 .dropdown-content a {
