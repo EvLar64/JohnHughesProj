@@ -7,25 +7,25 @@
     version="3.0">
     <xsl:template match="/">
         
-<!--  Breakfast Club Output XSLT - EL -->
+<!--  Ferris Bueller Output XSLT - EL -->
         <html>
             <head>
                 <title><xsl:value-of select="root/scriptInfo/title"/></title>
                 <style>
                     body {
-                    font-family: "Garamond";
+                    font-family: Consolas, monospace;
                     margin: 20px;
                     line-height: 1.5;
-                    background-color: #89CFF0;
+                    background-color: #fa69c5;
                     }
                     h1, h2 {
                     text-align: center;
-                    color: #B7410E;
+                    color: #fcec61;
                     }
                     
                     .narration {
                     font-style: italic;
-                    color: 	purple;
+                    color: #94f5b1;
                     margin: 20px 20px;
                     }
                     
@@ -42,21 +42,19 @@
                     }
                     
                     hr {
-                    border-top: 2px solid gold;
+                    border-top: 2px solid #D3D3D3;
                     margin: 20px;
                     }
                     
                     .toc {
-                    font-size: 14px;
-                    color: #B7410E;
+                    font-size: 10.5px;
+                    color: black;
                     }
-                    .quote {
-                    font-size: 18px;
-                    color: #B7410E;
-                    margin-left: 15em;
-                    margin-right: 15em;
+                    .note{
+                    font-style: italic;
+                    color: #94f5b1;
+                    margin: 20px 20px;
                     }
-                    
 
                 </style>
             </head>
@@ -64,7 +62,7 @@
                 
             </nav>
             <body>
-                <h1><u><xsl:value-of select="root/scriptInfo/title"/> (1985)</u></h1>
+                <h1><u><xsl:value-of select="root/scriptInfo/title"/> (1986)</u></h1>
                 <h2>Written and Directed by <a href="https://www.imdb.com/name/nm0000455/?ref_=nv_sr_srsg_0_tt_0_nm_8_in_0_q_john%2520hughes"><xsl:value-of select="root/scriptInfo/dir" /></a></h2>
                 
                 <div class="toc">
@@ -76,23 +74,21 @@
                     </div></strong>
                 </div>
                 
+                <div class="note">
+                    <h5><strong>Editor's Note: "Katie Bueller" was originally named "Joyce" in the script</strong></h5>
+                </div>
+                
                 <div class="cast-list">
                     <h4><i>Cast List (and links to first scenes)</i>:</h4>
                     <ul>
-                        <li>Emilio Estevez as <a href="#scene4">Andrew Clark</a></li>
-                        <li>Paul Gleason as <a href="#scene6">Richard Vernon</a></li>
-                        <li>Anthony Michael Hall as <a href="#scene1">Brian Johnson</a></li>
-                        <li>John Kapelos as <a href="#scene13">Carl</a></li>
-                        <li>Judd Nelson as <a href="#scene6">John Bender</a></li>
-                        <li>Molly Ringwald as <a href="#scene2">Claire Standish</a></li>
-                        <li>Ally Sheedy as a <a href="#scene13">Allison Reynolds</a></li>
+                        <li>Matthew Broderick as <a href="#scene5">Ferris Bueller</a></li>
+                        <li>Alan Ruck as <a href="#scene23">Cameron Frye</a></li>
+                        <li>Mia Sara as <a href="#scene72">Sloane Peterson</a></li>
+                        <li>Jennifer Grey as <a href="#scene1">Jeanie Bueller</a></li>
+                        <li>Cindy Picket as <a href="#scene1">Katie Bueller</a></li>
+                        <li>Lyman Ward as <a href="#scene1">Tom Bueller</a></li>
                     </ul>
                 </div>
-                
-                <strong><div class="quote">
-                    <xsl:apply-templates select="root/scriptInfo/quote"/>
-                </div></strong>
-                
                 <div>
                     <xsl:apply-templates select="root/script/scene"/>
                 </div>

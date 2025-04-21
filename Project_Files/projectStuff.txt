@@ -8,13 +8,14 @@ The Breakfast Club - Evan
 Tasks:
 - Finish markup/make schema changes/validate w/ schema/etc.
 - Website Stylization, with new pages: 
-    -- Home (project overview, Github link at bottom of this page); Script View (one page for each script reading view); Original Text File/PDF Links + Schema (readable code view); Visualizations + Statistics Page; Python Word stuff Page; Team Page
+    -- (outlined in WEBSITE TXT file)
 - Visualizations:
-    -- pie chart of dialog percentages between 6 leads in breakfast club
-    -- bar graph showing lengths of each script in words
-    -- visual of percentage of the time that Ferris Bueller's lines are directed to the audience (4th wall)
-    -- something for 16 candles (?)
+    -- PRODUCTION BUDGETS VS. GROSS graph
+    -- LEXICAL DISPERSION plots of different 80s words/phrases (ideas of words/phrases to use?)
+    -- CYTOSCAPE NETWORK of parenthetical DESCRIPTORS in the scripts (<desc> elements)
+    -- more(?)
  - Python word stuff
+ - Also: check website as updated and report any issues with files/site view/etc. that might be visible from a different screen
 -----------------------------
 Helpful Regex Expressions:
 
@@ -27,6 +28,7 @@ Replace: \1<d who="brian">\2\3\4</d>\5\5\6
 - Once each instance of dialogue is isolated as mentioned, this expression should wrap d tags around every time a certain character speaks,
 check beforehand using Find and make tweaks as needed though
 (don't forget to change character name in both Find and Replace {"who" attribute for Replace})
+- Railey reported minor tweak was needed (another backslash)
 
 -----------------------------
 General Markdown Structure: 
@@ -60,10 +62,8 @@ General Markdown Structure:
 
 	<credits> (if applicable)
 
-	(MAYBE: after initial markup go back with regex and wrap capital names in dialog)
-
 	MOVIE-SPECIFIC ELEMENTS:
-	Ferris Bueller - Wrap any 4TH-WALL-BREAKING lines of dialogue in a <fourthwall> tag (moments where Ferris talks to camera, etc.)
+	Ferris Bueller - fourht-wall breaking lines of dialogue given "wall="true" attribute
 
 	OTHER NOTES
 —	If your script does something like this between pages:

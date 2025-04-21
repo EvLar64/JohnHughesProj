@@ -1,0 +1,107 @@
+Website Layout
+
+(9 photos located in 'hughesPhotos' folder of repo, but use others if/as needed)
+
+NAV BAR:
+
+1.) Home
+
+2.) Screenplays (Drop-down menu with all three script HTML pages; labeled “Sixteen Candles”, 
+                “The Breakfast Club”, and “Ferris Bueller’s Day Off”, respectively)
+
+3.) Schema
+
+4.) Data
+
+5.) Visualizations
+
+6.) Network
+
+7.) Team
+
+8.) GitHub
+
+- - - - -
+
+* Besides layout, any stylistic choices are yours to make *
+
+PAGES:
+
+1.) 
+
+Header Line: “Welcome to the website for Evan, Railey, and Sean’s John Hughes text analysis project.”
+
+(John Hughes picture)
+
+Lower Blurb: “John Hughes (1950 - 2009) was one of the most influential filmmakers of the 1980’s, 
+             with many of his works still standing the test of time. This project is focused on 
+             analyzing the screenplays for three of his most famous movies: Sixteen Candles (1984), 
+             The Breakfast Club (1985), and Ferris Bueller’s Day Off (1986). We are interested in 
+             seeing how the scripts hold up after nearly forty years, while also extracting certain 
+             data from them (including things like word tracking, dialogue frequencies, and various 
+             comparisons between the three). Each screenplay’s original .txt source file can be found in the links below.
+
+            (Embed the three links below into labels that are just the movie’s titles, same order as listed above.)
+
+2.) 
+
+Should just be the three html output pages of each script (Nav bars will have to be added to connect all the pages together)
+
+3.) 
+
+Just a simple one of those “code block” views that shows the schema (similar to how the original .txt files were in there)
+
+ * Underneath the schema throw in two photos next to each other (set photos of any of the movies) and give them brief captions *
+
+4.) 
+
+(Data will be made, collected, and sent in repo later for easy addition to the site, but just for layout purposes: )
+
+Screenplay Data: 
+- Sixteen Candles Average Scene Length
+- BC Average Scene Length
+- FB Average Scene Length
+- SC Average Dialogue Length
+- BC Average Dialogue Length
+- FB Average Dialogue Length
+- [MADE] SC Number of Locations
+- [MADE] BC Number of Locations
+- [MADE] FB Number of Locations
+- Frequencies of Character Mentions
+
+ * Underneath Screenplay Data, two more photos of the movies and/or set photos (w/ brief captions) *
+
+Word Data: 
+- [MADE] Concordance examples of different words for each movie
+- [MADE] Lexical Richness of all three scripts
+- [MADE] 20 instances of "unique" words in EACH script (excluding script words like CUT TO or CONTINUED, etc.)
+- [MADE] 10 Most Common Verbs, Adjectives, and Prepositions within each script
+
+- “Code View” of PYTHON DATA FILE 1 showing all of these different processes (will be consolidated and shared to repo)
+
+  * Underneath code view of python, two more photos (w/ brief captions) *
+
+5.) 
+
+- [MADE x 3] Pie Chart Comparing number of INT vs EXT locations in all three movies 
+- [MADE] Frequency of character mentions in Breakfast Club bar graph
+- [MADE] Visual depicting how many of Ferris’ lines are directed to the camera (or perhaps a “timeline’ with dots showing all the times where he does)
+- [MADE x 3] Bar Graphs showing frequencies of different parts of speech (verb, adjective, preposition) for all three movies
+- Production Budget vs. Gross Graph (one graph showing both for all movies; double bar graph/circles)
+- Lexical Dispersion Plots of “80s words” for each movie (phrase, word ideas?)
+
+- Underneath the graphs, ANOTHER “code view” of PYTHON DATA FILE 2 that will display all of these visualization functions.
+
+ * Two more photos underneath code view of Visualization python file (PYTHON DATA FILE 2) *
+
+6.)
+
+- Network of all parenthetical descriptors and the movie(s) or characters they connect to (<desc> elements in xml)
+
+7.)
+
+- Team member blurbs (later)
+
+8.)
+
+- Just links to project repo 
