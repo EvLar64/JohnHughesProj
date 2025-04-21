@@ -50,7 +50,25 @@ who = attribute who {
 # Ferris Bueller's Day Off characters
 "ferris" | "cameron" | "sloane" |
 "rooney" | "katie" | "jeanie" |
-"tom" | "ferris, sloane"}
+"tom" | "ferris, sloane" |
+
+# Sixteen Candles characters
+"jim" | "brenda" | "mike" |
+"ginny" | "sara" | "sam" |
+"randy" | "jake" | "rock" |
+"caroline" | "driver" | "grace" |
+"rudy"| "geek" | "howard" | 
+"dorothy" | "fred" | "helen" |
+"dong" | "patty" | "cliff" |
+"bryce" | "dj" | "lumebrjack" |
+"tracy" | "robin" | "both" |
+"jimmy" | "ted" | "freshman" |
+"biker" | "bruno" | "irene" |
+"girl" | "guy" | "biker" |
+"megan" | "housekeeper" | "organist" |
+"man" | "reverend" | "driver" |
+"photographer" 
+}
 
 loc = element loc {mixed{ext*, int*, char*}}
 int = attribute int {"true"}
@@ -65,5 +83,6 @@ close = attribute close {"true"}
 pov = attribute pov {"true"}
 slow = attribute slow{"true"}
 overhead = attribute overhead{"true"}
+dissolve = attribute dissolve{"true"}
 
 narr = element narr {(char | shot | loc | desc | text)*}

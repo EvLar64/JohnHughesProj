@@ -728,7 +728,7 @@ That's unbelievable. I swear to God,
 <char who="caroline">Caroline Mulford</char> had to flunk about
 nine grades.</d>
 <narr><shot close="true">CLOSEUP</shot> - THE WORLD'S MOST PERFECT BREASTS
-<char who="sam">SAM</char>  <char who="randy">RANDY</char>
+<d who="sam">SAM</d>  <d who="randy">RANDY</d>
 They hold their intense stares.</narr>
 <d who="randy">RANDY
 It truly makes me ill.</d>
@@ -2342,7 +2342,7 @@ Ted? Go for it, man.</d>
 <narr>A stall door slowly opens and the <char who="geek">Geek</char> steps out. Heraldic
 music comes up. With great drama and showmanship, the <char who="geek">Geek</char>
 holds up <char who="sam">Sam</char>'s tiny, baby blue Garfield the cat panties.
-The freshmen gasp in awe and drop to their knees.</narr></scene><scene?
+The freshmen gasp in awe and drop to their knees.</narr></scene><scene>
 <loc int="true">INT. GYM - SAM</loc>
 <narr>She's putting on her coat. She's had enough. <char who="randy">Randy</char>'s
 hanging on <char who="jimmy">Jimmy</char>. She feels for <char who="sam">Sam</char> and is trying to
@@ -2969,7 +2969,7 @@ picture is playing on the big screen TV. A piece of hurled
 pizza slaps the screen and sticks on the image of a naked
 female rump.</narr></scene><scene>
 <loc int="true">INT. LIVING ROOM - COUCH</loc>
-<narr>The <char who="geek">Geek</char>, <char who="cliff">Cliff</char> and <char who="cliff">Bryce</char> sit on either side of <char who="rock">Rock</char>. All
+<narr>The <char who="geek">Geek</char>, <char who="cliff">Cliff</char> and <char who="bryce">Bryce</char> sit on either side of <char who="rock">Rock</char>. All
 three are bombed. <char who="rock">Rock</char> motions to the screen with his huge
 hand.</narr>
 <d who="rock">ROCK
@@ -3748,7 +3748,7 @@ Extra-terrestrial?</d>
 <d who="geek">GEEK
 Better!</d>
 <narr><char who="cliff">Cliff</char> and <char who="bryce">Bryce</char> look at each other.</narr>
-<d who="cliff">CLIFF</char>  <d who="bryce">BRYCE</char>
+<d who="cliff">CLIFF</d>  <d who="bryce">BRYCE</d>
 Female extra-terrestrial!</scene><scene>
 <loc ext="true">EXT. <char who="cliff">CLIFF</char>'S HOUSE - FRONT PORCH - LATER</loc>
 <narr>The front door opens and <char who="cliff">Cliff</char> and <char who="bryce">Bryce</char> come out in
@@ -3922,7 +3922,7 @@ Who died?</d>
 <d who="brenda">BRENDA
 Do you have something you want to
 say to your sister?</d>
-<d who="sarah">SARAH
+<d who="sara">SARAH
 What? Are you kidding?</d>
 <narr><char who="brenda">Brenda</char>'s annoyed at <char>Sara</char>'s wise-ass misinterpretation of
 what she means.</narr>
@@ -4113,7 +4113,7 @@ car into a
 lake)</desc>
 Lake!</d>
 <d who="dorothy">DOROTHY
-Why, you little scuz bag!<d>
+Why, you little scuz bag!</d>
 <narr>Sweet, kind <char who="dorothy">Dorothy</char> draws her leg back and kicks <char who="dong">Dong</char> in the
 groin.</narr></scene><scene>
 <loc ext="true">EXT. CHURCH</loc>
