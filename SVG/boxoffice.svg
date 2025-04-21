@@ -1,16 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"> 
-        <g alignment-baseline="baseline">
-            <svg height="1000" width="1000">
-                <text x="100" y="530" fill="black" font-size="15">Ferris Bueller's Day Off - $70,722,176</text>
-                <text x="600" y="530" fill="black" font-size="15">Sixteen Candles - $23,686,027</text>
-                <text x="350" y="530" fill="black" font-size="15">The Breakfast Club - $45,878,037</text>
-                <line x1="100" y1="500" x2="650" y2="500" style="stroke:black;stroke-width:10"/>
-                <line x1="100" y1="100" x2="100" y2="500" style="stroke:black;stroke-width:10"/>
-                <rect width="50" height="300" x="100" y="200" style="fill:rgb(0,0,255);stroke-width:5;stroke:black"/>
-                <rect width="50" height="200" x="350" y="300" style="fill:rgb(0,0,255);stroke-width:5;stroke:black"/>
-                <rect width="50" height="100" x="600" y="400" style="fill:rgb(0,0,255);stroke-width:5;stroke:black"/>
-            </svg>
-        </g>
-    </svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="600">
+    <line x1="50" y1="500" x2="400" y2="500" style="stroke:black;stroke-width:10"/>
+    <line x1="50" y1="130" x2="50" y2="505" style="stroke:black;stroke-width:10"/>
+    
+    <rect width="40" height="300" x="90" y="200" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
+    <rect width="40" height="200" x="190" y="300" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
+    <rect width="40" height="100" x="290" y="400" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
+    
+    <text x="90" y="520" transform="rotate(30 90,520)" font-size="12" fill="black">
+        Ferris Bueller's Day Off - $70M
+    </text>
+    <text x="190" y="520" transform="rotate(30 190,520)" font-size="12" fill="black">
+        The Breakfast Club - $46M
+    </text>
+    <text x="290" y="520" transform="rotate(30 290,520)" font-size="12" fill="black">
+        Sixteen Candles - $24M
+    </text>
+</svg>
