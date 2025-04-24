@@ -1,0 +1,5018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="../../Project_Files/hughesSchema.rnc" type="application/relax-ng-compact-syntax"?>
+<root><scriptInfo><date>June 22, 1983</date>
+EXEC. PRODUCER: Ned Tanen
+PRODUCER: Hilton Green
+<title>Sixteen Candles</title>
+Final Draft Screenplay
+-by
+<dir>JOHN HUGHES</dir>
+SIXTEEN CANDLES
+</scriptInfo>
+
+<script>
+<scene>
+FADE IN
+<loc ext="true">EXT . SUBURBAN NEIGHBORHOOD - DAWN</loc>
+<narr>A quiet, upper-middle class, North Shore Chicago suburb. A
+Chevy Blazer cruises slowly down the street. Morning
+papers are pitched out the window. A dog runs between the
+houses. It's early autumn.</narr>
+</scene>
+<scene>
+<loc ext="true">EXT. BAKER HOUSE</loc>
+<narr>An attractive, old, three-story brick colonial. A news-
+paper flies into frame, strikes the corner of the house and
+drops into the bushes, a good twenty feet from the porch.
+An alarm clock goes off with a jarring bzzzzz!</narr>
+</scene>
+    <scene>
+<loc int="true">INT. HOUSE - SECOND FLOOR HALLWAY</loc>
+<narr> The alarm continues for a beat. It stops and the house
+explodes with activity as the Baker family wakes and
+scrambles about their morning activities. There's <char who="jim">Jim
+Baker</char>, midforties, father, insurance executive, tall, lean,
+somewhat meek-looking, in his suit pants and handlebar
+undershirt scurrying to the bathroom.</narr>
+<d who="jim">JIM
+Let's go! Chop, chop! We've got
+relatives invading this afternoon!</d>
+<narr>He slams the bathroom door. His wife, <char who="brenda">Brenda</char>, whips out of
+the bedroom in her housecoat and heads down the stairs.
+She's also in her midforties, strong, attractive and
+dominant. <char who="mike">Mike Baker</char>, ten, wanders out of his bedroom,
+scratching his rear end, yawning. He's young trouble,
+preteen maniac boy.</narr>
+<d who="brenda"> BRENDA
+<desc>(as she descends)</desc>
+<char who="ginny">Ginny</char>! <char who="mike">Mike</char>! <char who="sara">Sara</char>! <char who="sam">Sam</char>!</d>
+<d who="mike">MIKE
+<desc>(phoney, pained)</desc>
+Oh, God. I think I have a fever.</d>
+<narr><char who="sara">Sara Baker</char>, seven, comes out of her room. She's all
+sweetness and cutes.</narr>
+CONTINUED
+
+CONTINUED
+2
+<d who="sara">SARA
+You don't have a fever.</d>
+<d who="mike">MIKE
+Why don't you shut your face?</d>
+<d who="sara">SARA
+Make me.</d>
+<narr><char who="mike">Mike</char> raises a fist. <char who="sara">Sara</char> shrieks.</narr>
+<d who="sara">SARA
+Dad! <char who="mike">Mike</char> hit me!</d>
+<d who="mike">MIKE
+You liar!</d>
+<narr>The bathroom door opens and <char who="jim">Jim</char> comes out with a toothbrush in his mouth.</narr>
+<d who="jim">JIM
+<desc>(talks with the
+toothbrush in
+his mouth)</desc>
+<char who="mike">Mike</char>! Come on, pal, we're having a
+wedding tomorrow. Why can't you
+cooperate?</d>
+<narr><char who="ginny">Ginny Baker</char>, twenty-one, comes out of her room in panties and a sweatshirt. She's very pretty, very pampered and very sloppy. She slips past <char who="jim">Jim</char> as he scolds <char who="mike">Mike</char>, goes
+into the bathroom and locks the door. <char who="sara">Sara</char> turns and marches into the bathroom at the other end of the hall.</narr>
+<d who="mike">MIKE
+Dad, I didn't hit her. I'd like to
+very much and I probably will later,
+but give me a bi:eak, you know my
+method. I don't hit her when you're
+just down the hall.</d>
+<d who="jim">JIM
+Pick on somebody your own size.</d>
+<narr>He turns back to the bathroom.</narr>
+<narr><char who="mike">MIKE</char> AND <char who="sara">SARA</char>
+She gives Mike a smug, snotty face. He squints angrily.</narr>
+<d who="mike">MIKE
+Later.</d>
+<narr><char who="sara">Sara</char> turns up her nose and goes back down the hall to the
+other bathroom.</narr>
+3
+<narr><char who="jim">JIM</char>
+discovers the bathroom door's locked. He rattles the knob.</narr>
+<d who="jim">JIM
+I was in there first! Open the door!</d>
+<d who="ginny" os="true">GINNY (O.C.)
+I'm so sure!</d>
+</scene>
+    <scene>
+<loc int="true">INT. BATHROOM - SHOWER</loc>
+<narr><char who="ginny">Ginny</char>'s standing in the shower with the water beating against
+the side of her head.</narr>
+<d who="ginny">GINNY·
+I'm the one getting married, Daddy.</d>
+<d who="jim" os="true">JIM (O.C.)
+Not until tomorrow. Come on! I got
+a mouthful of toothpaste!</d>
+<d who="ginny">GINNY
+<desc>(to herself)</desc>
+What a pest.
+<desc>(to Jim)</desc>
+I happen to have a serious problem!</d>
+</scene>
+    <scene>
+<loc int="true">INT. HALLWAY</loc>
+<narr><char who="jim">Jim</char> growls angrily and gives up. He turns to see <char who="mike">Mike</char>
+leaning on the knewl post, eavesdropping.</narr>
+<d who="mike">MIKE
+<desc>(with a chuckle)</desc>
+She has her·period, Dad.
+<desc>(raises an
+eyebrow)</desc>
+Should make for an interesting
+honeymoon, huh?</d>
+<narr><char who="jim">Jim</char> looks at <char who="mike">Mike</char>, startled by the brash maturity of his
+remark. <char who="mike">Mike</char> trots down the stairs.</narr>
+<d who="jim">JIM
+Where're you getting that mouth?</d>
+<d who="mike" os="true">MIKE (O.C.)
+<desc>(matter-of-
+factly)</desc>
+School.</d>
+    </scene>
+4
+<scene>
+<loc int="true">INT. KITCHEN</loc>
+<narr><char who="brenda">Brenda</char>'s making coffee, eggs, toast and school lunches all
+at the same time. <char who="mike">Mike</char> wanders in and turns on the TV and
+dials in cartoons. A bowl of cereal is waiting for him.
+He starts to eat.</narr>
+<d who="brenda">BRENDA
+Is everybody up?</d>
+<d who="mike">MIKE
+Yep.</d>
+<narr><char who="jim">Jim</char> walks in and crosses to the sink.</narr>
+<d who="jim">JIM
+Nope</d>.
+<narr>He spits in the sink. <char who="brenda">Brenda</char> stares at him. She leans
+over and looks in the sink.</narr>
+<d who="brenda">BRENDA
+Thank you, dear. You just unloaded
+all over my luncheon.</d>
+</scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - SINK</shot>
+A bowl of boiled shrimp covered with toothpaste.</narr>
+    </scene>
+
+<scene>
+<loc int="true">INT. KITCHEN</loc>
+<narr><char who="jim">Jim</char> smiles sheepishly at <char who="brenda">Brenda</char>. She turns on the water to rinse the shrimp.</narr>
+<d who="brenda">BRENDA
+<char who="mike">Mike</char>, make sure <char who="sam">Sam</char> gets up.</d>
+<d who="mike">MIKE
+<desc>(shouts)</desc>
+<char who="sam">Sara</char>! Wake up <char who="sam">Sam</char>!</d>
+</scene>
+    <scene>
+<loc int="true">INT. OTHER BATHROOM</loc>
+<narr><char who="sara">Sara</char>'s standing on a stool, bare-chested with an underarm
+lathered with shave cream. She's shaving her underarms
+with Jim's electric razor. She turns it off, put-out with
+the order to wake <char who="sam">Sam</char>.</narr>
+<d who="sara">SARA
+Jesus Christ! What am I? A slave?</d>
+<narr>She opens the door.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. HALLWAY</loc>
+<narr><char who="sara">Sara</char> comes out of the bathroom, crosses to a door leading
+to a third floor staircase and yells.</narr>
+<d who="sara">SARA
+Hey, Dorklips! Haul ass!</d>
+</scene>
+    <scene>
+<loc int="true">INT. HOUSE - THIRD FLOOR BEDROOM</loc>
+<narr>It's a girl's bedroom done in antiques and frills. In
+contrast to the mayhem on the first two floors, the third
+floor is quiet and serene. A brilliant shaft of morning
+sunlight shines down through a skylight above the brass
+bed. The sheets and blankets are rumpled and kicked aside.
+<char who="sam">Samantha Baker</char> stands before a floor mirror in the corner
+of the room. Her back is to camera. A bath towel is
+wrapped around her waist. She's staring at her body in the
+mirror. She was up long before anyone else in the house
+and has already showered. She puts a hand on her hip and
+strikes a pose. She doesn't like it. She tries the other
+hand. Both hands. She cocks her hip. Finally, she raises
+both arms and strikes a Charles Atlas pose. She holds it
+for a moment, then drops her arms. She groans.</narr>
+</scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - <char who="sam">SAMANTHA</char>'S FACE</shot>
+She's young and pretty. No seething, precocious sexuality.
+Just a pretty, young girl. She's frowning. Obviously dis-
+pleased with her looks.</narr>
+<d who="sam">SAM
+Chronologically, you're sixteen
+today. Physically, you're still
+fifteen.</d>
+<narr>She lifts her damp hair off her face and neck and examines
+the effect. She's not pleased.</narr>
+<d who="sam">SAM
+<desc>(drops
+the hair)</desc>
+Worthless.</d>
+<narr>She reaches down, out of frame, and comes up with a
+telephone.</narr>
+<d who="sam">SAM
+<desc>(to the
+phone)</desc>
+I look exactly the same as I have
+since summer.
+Utterly forgettable.</d>
+CONTINUED
+6
+CONTINUED
+<narr>She walks to a window seat and sits down. She pulls her
+knees up under her chin.</narr>
+<d who="sam">SAM
+<desc>(pause, still
+looking in
+the mirror)</desc>
+No, I didn't expect to wake up trans-
+formed. I just thought that turning
+sixteen is so major I'd wake up with
+an improved mental state that would
+show on my face. All that shows is
+the fact that I don't have any tan
+left.
+<desc>(with a closing
+sigh)</desc>
+My family's probably pissed that I
+haven't come down to let them wish
+me 'Happy Birthday'. I'll see you
+at school.</d>
+<narr>She hangs up the phone.</narr>
+<d who="sam">SAM
+I need four inches of bod and a
+great birthday.</d>
+<narr><shot dissolve="true">DISSOLVE TO</shot></narr>
+</scene>
+    <scene>
+<loc int="true">INT. HOUSE - SECOND FLOOR HALL</loc>
+<narr><char who="sam">Sam</char> comes down the hall, buttoning her blouse. <char who="jim">Jim</char> comes
+out of the bedroom, dressed for work. She sees him and
+stops. She smiles, waiting for a "happy birthday" from him.</narr>
+<d who="sam">SAM
+<desc>(bright,
+cheerful)</desc>
+Hi, Dad.</d>
+<d who="jim">JIM
+Hi, <char who="sam">Sam</char>. Better hurry.</d>
+<narr>And that's it. No happy birthday. <char who="sam">Sam</char> is stunned. She
+watches him hurry down the stairs. The bathroom door opens
+and <char who="ginny">Ginny</char> comes out swaddled in bath towels. She sees <char who="sam">Sam</char>
+and sighs dramatically.</narr>
+<d who="ginny">GINNY
+You know what today is?</d>
+CONTINUED
+7
+CONTINUED
+<narr><char who="sam">Sam</char> smiles and nods, expecting a birthday greeting from <char who="ginny">Ginny</char>.</narr>
+<d who="ginny">GINNY
+The first day of my all-new com-
+pletely screwed-up period. Are you
+on the pill?</d>
+<narr><char who="sam">Sam</char>'s smile fades. She shakes her head slowly.</narr>
+<d who="ginny">GINNY
+Then you'll probably have a great
+honeymoon.
+<desc>(to herself)</desc>
+This is such a deluxe bite.</d>
+<narr><char who="ginny">Ginny</char> goes back into the bathroom and locks the door.</narr>
+<d who="sam">SAM
+<desc>(to herself,
+sarcastically)</desc>
+Thank you. Yes, it is my birthday.
+How nice of you to remember.</d>
+</scene>
+    <scene>
+<loc int="true">INT. HOUSE - FOYER</loc>
+<narr><char who="brenda">Brenda</char> herds <char who="mike">Mike</char> and <char who="sara"> Sara</char> through the dining room and into
+the foyer. <char who="jim">Jim</char> comes in from the living room. He's frantically searching for his briefcase.</narr>
+<d who="jim">JIM
+Where's my briefcase?</d>
+<narr>He opens the closet and rummages around for the briefcase.</narr>
+<d who="mike">MIKE
+Where'd you leave it?</d>
+<d who="brenda">BRENDA
+Don't be a smart ass!</d>
+<d who="mike">MIKE
+Okay, I'll be a dumb ass.</d>
+<d who="sara">SARA
+You already are.</d>
+<d who="brenda">BRENDA
+<desc></desc>(to Sara)
+Touche!</d>
+CONTINUED
+8
+CONTINUED
+<d who="brenda">BRENDA (Cont'd)
+<desc>(to Jim)</desc>
+Where's <char who="sam">Sam</char>?</d>
+<d who="jim">JIM
+Where's my briefcase?</d>
+<narr>He pulls out hockey sticks, coats, hats, boots, toys, but
+no briefcase.</narr>
+<d who="brenda">BRENDA
+<desc>(yells up
+the stairs)</desc>
+<char who="sam">Sam</char>!</d>
+<d who="mike">MIKE
+<desc>(to Brenda)</desc>
+Allow me, <char who="brenda">Brenda</char>.
+<desc>(yells)</desc>
+Hey! Birth defect!</d>
+<narr><char who="sam">Sam</char> comes down the stairs, dressed, with her books under her arm. She scowls at <char who="mike">Mike</char> and smiles at <char who="brenda">Brenda</char>. Again,
+she's expecting a birthday greeting.</narr>
+<d who="brenda">BRENDA
+<desc>(to Sam)</desc>
+You missed breakfast again.</d>
+<d who="jim">JIM
+It wasn't my idea to give her her
+own phone line. I don't have my
+own phone line.</d>
+<d who="brenda">BRENDA
+<desc>(to Sam)</desc>
+Grab a doughnut.</d>
+<d who="sara">SARA
+I wouldn't if I were you. <char who="mike">Mike</char>
+tongued all the powdered sugar
+off. They're totally infected.</d>
+<narr><char who="jim">Jim</char> kisses <char who="brenda">Brenda</char>.</narr>
+<d who="brenda">BRENDA
+<desc>(to Jim)</desc>
+The grandparents'll be here this
+afternoon.</d>
+<d who="jim">JIM
+We're still going out tonight with
+the Rice Chex?</d>
+CONTINUED
+9
+CONTINUED
+<d who="brenda">BRENDA
+<desc>(corrects him)</desc>
+Rizczechs. Eight, at the club.
+And you;d better learn their names.
+As of tomorrow, they're family.</d>
+<narr><char who="jim">Jim</char> crosses to the door.</narr>
+<d who="jim">JIM
+Lovely thought.
+<desc>(to <char who="sam">Sam</char>)</desc>
+When it comes time for you to get
+married, do us a favor, elope.</d>
+<narr><char who="jim">Jim</char> exits.</narr>
+<d who="mike"> MIKE
+Who'd marry her?</d>
+<d who="sara">SARA
+Mr. T.</d>
+<d who="brenda">BRENDA
+<desc>(kisses
+Sam's cheek)</desc>
+You'll have to buy lunch today. I
+didn't have time to do your carrots.</d>
+<d who="mike">MIKE
+<desc>(laughs)</desc>
+She's eating carrots to increase the
+size of her breasts.</d>
+<narr><char who="sam">Sam</char> raises her fist. 
+<char who="brenda">Brenda</char> beats her to him and gives him a solid shake.</narr>
+<d who="brenda">BRENDA
+You shape up, mister, or I swear to
+God you won't go to your sister's
+wedding!</d>
+<d who="mike">MIKE
+Promise?</d>
+<narr><char who="brenda">Brenda</char> draws back to hit him. He races out the door.
+<char who="brenda">Brenda</char> kisses <char who="sam">Sara</char> and scoots her on her way. <char who="sam">Sam</char> stares
+at <char who="brenda">Brenda</char>, giving her one last chance to mention her birthday.</narr>
+<d who="brenda">BRENDA
+Don't give me that pouty look of
+yours. You can eat your carrots
+when you get home.</d>
+CONTINUED
+10
+CONTINUED
+<d who="sam">SAM
+That's it? You don't have anything
+else to say to me, today?</d>
+<d who="brenda">BRENDA
+<desc>(weary)</desc>
+What would you like me to say, <char who="sam">Sam</char>?
+Come on, you'll miss the bus.</d>
+<narr><char who="sam">Sam</char> sighs and looks away.</narr>
+<d who="brenda">BRENDA
+Have a good day.</d>
+<narr><char who="brenda">Brenda</char> exits. <char who="sam">Sam</char> stands alone in the foyer. She looks up
+at the ceiling, fighting off her tears.</narr>
+<d who="sam">SAM
+<desc>(to herself,
+incredulous)</desc>
+I can't believe this. They fucking
+forgot my birthday.</d>
+<narr>Theme music comes up.</narr>
+</scene>
+    <scene>
+<loc ext="true">EXT. HIGH SCHOOL - MORNING - ESTABLISHING</loc>
+<narr>A sprawling suburban high school.
+Roll credits over:</narr>
+    </scene>
+    <scene>
+        <narr>
+HIGH SCHOOL MONTAGE
+A -- Bus doors opening, young faces spilling out.
+B -- Every imaginable form of footwear scurrying past camera.
+C -- Nervous fingers twirling a padlock combination and
+yanking on the stubborn lock. It doesn't open.
+D -- A pair of rumps, male and female. A male hand on the
+female rear, a female hand on the male.
+E -- The tops of a lot of boys' heads shrouded in cigarette
+smoke.
+F -- A girl's head from the brow up as she furiously fusses
+with her tresses.
+G -- Lips are painted animal pink.</narr></scene>
+CONTINUED
+14
+
+<scene>
+<loc int="true">INT. INDEPENDENT STUDY ROOM</loc>
+<narr>A large study hall. A male teacher is at the head of the
+class grading papers. <char who="sam">Sam</char>'s in the second seat from the back. <char who="randy">Randy</char>'s directly behind her, slumped down in her chair with an open book propped up in front of her. She yawns. <char who="sam">Sam</char>'s hunched over taking the sex test.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. ROOM - SENIOR BOY</loc>
+<narr>One seat behind <char who="sam">Sam</char> in the next row of desks is a tall, handsome senior, <char who="jake">Jake Ryan</char>. He's an athlete and a class officer. The most significant male in the entire student body. He's bored with the study hall and is
+staring at <char who="sam">Sam</char>. She's figuring somewhere in his daydream.</narr>
+    </scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - TEST</shot>
+<char who="sam">Sam</char> turns the test sheet over and continues.
+7. HAVE YOU EVER DONE IT?
+Her answer, "I DON'T THINK SO".
+8. IF YOU ANSWERED "I DON'T THINK
+SO" WOULD YOU EVER IF YOU
+COULD?</narr>
+</scene>
+    <scene>
+<loc int="true">INT. STUDY HALL</loc>
+<narr><char who="sam">Sam</char> thinks. It's a tough decision. She answers.
+<shot close="true">CLOSEUP</shot> - TEST
+"I GUESS SO"
+9. WITH WHO? (BE HONEST. YOUR
+NAME'S NOT ON THIS SO IT'S
+OKAY)</narr>
+</scene>
+    <scene>
+<loc int="true">INT. CLASS ROOM - SAM</loc>
+<narr>She's worried and nervous about answering the final ques-
+tion. She lowers her head and peeks under her arm at <char who="jake">Jake</char>.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. CLASSROOM - JAKE</loc>
+<narr>He's gnawing his thumbnail, still staring at <char who="sam">Sam</char>.</narr></scene>
+    <scene>
+<narr>HIS <shot pov="true">POINT OF VIEW - <char who="sam">SAM</char></shot>
+She blanches as <char who="jake">Jake</char> catches her looking at him. She clumsily
+tries to make it appear as if she's just scratching her chin
+on her shoulder. She turns back to her test.</narr>
+    </scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - TEST</shot>
+Her hand's trembling as she slowly writes "<char who="jake">JAKE RYAN</char>"
+on question #9. Her hand glides down to the last question.
+10. DOES WHOEVER YOU NAMED ABOVE
+KNOW THAT YOU WANT TO WITH HIM?
+<char who="sam">Sam</char> writes a very definite, "NO!" and underlines it.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. CLASSROOM - <char who="sam">SAM</char></loc>
+<narr>She carefully folds the test into a tiny square, palms it
+and pretending to yawn, puts her arms behind her head and
+drops the folded note on <char who="randy">Randy</char>'s desk.</narr>
+    </scene>
+    <scene>
+<narr><char who="randy">RANDY</char>
+She's sound asleep in her seat, head back, mouth open. She
+doesn't see the note drop on her desk. <char who="jake">Jake</char> does.</narr>
+    </scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - DESK</shot>
+The note slides down the sloped writing desk and off.</narr>
+    </scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - FLOOR</shot>
+The note falls on the floor. <char who="jake">Jake</char>'s hightop comes down on top of the note and slides it away.</narr></scene>
+    <scene>
+<narr><char who="jake">JAKE</char>
+He reaches down and retrieves the note. He holds it in his
+palm and slips it in his pocket, keeping his eyes on <char who="sam">Sam</char> all the while.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. SCHOOL - HALLWAY - LATER</loc>
+<narr><char who="sam">Sam</char> and <char who="randy">Randy</char> are walking down the hall. <char who="sam">Sam</char>'s upset.</narr>
+<d who="sam">SAM
+You swear to God you don't have it?</d>
+<d who="randy">RANDY
+I don't know anything about it.</d>
+<d who="sam">SAM
+Nancy Ludwig gave me a sex test during
+Child Development and I was supposed to
+do it and pass it to you in independent
+study.</d>
+<narr><char who="randy">Randy</char> shrugs her shoulders. It's news to her.</narr>
+<d who="sam">SAM
+<desc>(devastated)</desc>
+I'm totally screwed.</d>
+<d who="randy">RANDY
+Did you put your name on it?</d>
+<d who="sam">SAM
+No, but it's really embarrassing.
+I had to name who I'd do it with
+if I ever did it.</d>
+<narr><char who="randy">Randy</char> can't wait to hear who <char who="sam">Sam's</char> dream lover is.</narr>
+<d who="randy">RANDY
+Who'd you name?</d>
+<d who="sam">SAM
+<desc>(hesitant)</desc>
+<char who="jake">Jake Ryan</char>.</d>
+<d who="randy">RANDY
+<desc>(incredulous)</desc>
+<char who="jake">Jake Ryan</char>?! He doesn't even know
+you exist.</d>
+<d who="sam">SAM
+<desc>(hurt)</desc>
+That's a real nice thing to say.</d>
+<d who="randy">RANDY
+Sorry. But <char who="jake">Jake Ryan</char>? He's a senior
+and he's taken. I mean really taken.</d>
+<d who="sam">SAM
+<desc>(agrees)</desc>
+I know. It was supposed to be my ideal.</d>
+CONTINUED
+17
+CONTINUED
+<d who="randy">RANDY
+He's ideal for sure but forget it.</d>
+<d who="sam">SAM
+God, I hope whoever got the note
+doesn't know it was me that wrote
+it. I'd shit twice and die.</d>
+<narr>They continue down the hall.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. CAFETERIA - <char who="jake">JAKE</char></loc>
+<narr>It's loud and crowded. <char who="jake">Jake</char>'s sitting on a window ·ledge. He takes <char who="sam">Sam</char>'s note out of his pocket and reads it. He's obviously very interested. He turns the page.</narr>
+    </scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - TEST</shot>
+<char who="jake">Jake</char> reads his name in <char who="sam">Sam</char>'s hand.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. CAFETERIA - <char who="jake">JAKE</char></loc>
+<narr>He sits bolt upright. He looks left, then right, to make
+sure no one's seen the note or suspects him of anything.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. CAFETERIA - FOOD LINE</loc>
+<narr><char who="randy">Randy</char> and <char who="sam">Sam</char> move their trays along the line. <char who="sam"> Sam</char>'s
+looking at her tray with revulsion.</narr>
+<d who="sam">SAM
+I can't believe I'm actually going
+to consume a school hamburger.</d>
+<d who="randy">RANDY
+They're not too terrible since they
+started using meat. What happened
+to your carrots?</d>
+<d who="sam"> SAM
+<char who="brenda">Brenda</char> was too busy today. If she
+can't remember my birthday, I can't
+expect her to remember my carrots.</d>
+<d who="randy">RANDY
+Are they working?</d>
+CONTINUED
+19
+CONTINUED
+<narr>tests his buddy's reaction to his developing feelings for
+<char who="sam">Sam</char>. The note and its intimate revelations have set off a
+fury of emotions in <char who="jake"> Jake</char> and it's almost as though he's
+seeking approval for the way he feels. <char who="rock">Rock</char> is decidedly
+unromantic. Girls are sex, sex is sport, sport is life.
+One at a time, the boys rise up into frame, deliver their
+lines and drop. Until noted, only one boy is on screen at
+a time.</narr>
+<d who="jake">JAKE
+<desc>(cautiously)</desc>
+Do you know Samantha Baker?</d>
+<d who="rock">ROCK
+Sophomore, right?</d>
+<d who="jake">JAKE
+What do you think of her?</d>
+<d who="rock">ROCK
+I don't.</d>
+<d who="jake">JAKE
+Would you ever go out with her?</d>
+<d who="rock">ROCK
+Depends on how much you paid me.</d>
+<d who="jake">JAKE
+<desc>(takes offense)</desc>
+She's not ugly.</d>
+<d who="rock">ROCK
+There's nothing there, man. It's
+not ugly. It's just ... void, you
+know.</d>
+<narr><char who="jake">Jake</char> holds himself up and rests his chin on the bar. <char who="rock">Rock</char>
+pulls himself and holds alongside <char who="jake">Jake</char>.</narr>
+<d who="jake">JAKE
+There's something about her. I do
+Independant Study with her and I
+catch her looking at me a lot. It's
+kind of cool the way she's always
+looking at me.</d>
+<d who="rock"> ROCK
+Maybe she's retarded.</d>
+<d who="jake">JAKE
+I'm being serious, okay? She looks
+at me like she's in love with me.</d>
+CONTINUED
+20
+CONTINUED
+<narr><char who="rock">Rock</char> stares at <char who="jake">Jake</char> like he's lost his mind. Tenderness is
+not <char who="rock">Rock</char>'s forte.</narr>
+<d who="rock">ROCK
+<char who="jake">Jake</char>, she's a child.</d>
+<d who="jake">JAKE
+So?</d>
+<d who="rock">ROCK
+So, what are you going to do with
+her? She's too young to party
+serious.</d>
+<d who="jake">JAKE
+Maybe I'm interested in more than a
+party.</d>
+<d who="rock">ROCK
+You talk like you're hard-up. You
+got <char who="caroline">Caroline</char>. She's a woman.</d>
+<d who="jake">JAKE
+I been going with her for like a
+year and you know what? I don't
+think she loves me. And I don't
+think I love her.</d>
+<d who="rock">ROCK
+<desc>(puzzled)</desc>
+What the hell does that have to do
+with anything?</d>
+<d who="jake">JAKE
+I think about <char who="caroline">Caroline</char>, you know,
+and I realize that I never think
+about her unless I'm with her and
+then all I'm thinking is how I never
+think about her. I look in her eyes
+and I see tits. I look at this other
+girl and I don't care about tits.</d>
+<d who="rock">ROCK
+She doesn't have any.</d>
+<d who="jake">JAKE
+<desc>(frustrated)</desc>
+Don't you understand what I'm
+saying?</d>
+CONTINUED
+21
+CONTINUED
+<d who="rock">ROCK
+I don't think you understand what
+you're saying. I mean, you can
+park your pecker wherever you want
+but I think you're nuts to eighty-six
+<char who="caroline">Caroline</char> for some sophomore wimp
+that looks at yoµ weird.</d>
+<d who="jake">JAKE
+I'm all fucked-up about this, <char who="rock">Rock</char>.
+<desc>(sighs)</desc>
+What's happening to me?</d>
+<d who="rock">ROCK,
+<desc>(worried)</desc>
+I don't know but I hope you're not
+turning gay.</d>
+<narr><char who="jake">Jake</char> grimaces. He lets go of the bar and walks away. We
+widen to reveal that the boys have been doing cheater's
+chin-ups on a five foot bar. <char who="rock">Rock</char>'s puzzled and disturbed
+by <char who="jake">Jake</char>'s conversation.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. GIRL'S SHOWER ROOM</loc>
+<narr>Girls are showering and dressing after gym. We see <char who="sam">Sam</char> and
+<char who="randy">Randy</char> standing in the doorway of the shower room with their
+arms folded across their chests to conceal their modest
+charms. <char who="sam">Sam</char>'s shaking her head as she studies the mature
+physiques of the senior girls. <char who="randy">Randy</char> clucks her tongue.</narr>
+<d who="sam">SAM
+That's unbelievable. I swear to God,
+<char who="caroline">Caroline Mulford</char> had to flunk about
+nine grades.</d>
+<narr><shot close="true">CLOSEUP - THE WORLD'S MOST PERFECT BREASTS</shot>
+<char who="sam">SAM</char> and <char who="randy">RANDY</char>
+They hold their intense stares.</narr>
+<d who="randy">RANDY
+It truly makes me ill.</d>
+    </scene>
+    <scene>
+        <narr><shot pov="true">THEIR POINT OF VIEW</shot> - <char who="caroline">CAROLINE MULFORD</char>
+is showering in front of them. She looks about twenty-three
+with a fully and perfectly developed body. Pin-up time.
+Her face is in the water spray and she doesn't realize she's
+being scrutinized.</narr>
+    </scene>
+    <scene>
+<narr><char who="sam">SAM</char> and <char who="randy">RANDY</char>
+<char who="sam">Sam</char> looks up from her chest. <char who="randy">Randy</char> breathes a pained sigh.</narr>
+<d who="sam">SAM
+She's perfect.</d>
+<d who="randy">RANDY
+And practically impossible to cut
+up. She's supposedly real sweet,
+her brother's deaf and everybody in
+the world worships her.</d>
+<d who="sam">SAM
+And she's going with <char who="jake">Jake</char>.</d>
+<narr>Randy looks at Sam sympathetically.</narr>
+<d who="sam">SAM
+Figures, huh? Does she have a pink.
+Trans Am?</d>
+<d who="randy">RANDY
+Black.</d>
+<d who="sam">SAM
+<desc>(with an
+exagerrated sigh)</desc>
+I'm gonna kill myself.</d>
+<narr>A cloud of steam rolls across them and they disappear.
+<shot dissolve="true">DISSOLVE TO</shot></narr>
+</scene>
+    <scene>
+<loc ext="true">EXT. SCHOOL - AFTERNOON - ESTABLISHING</loc>
+</scene>
+    <scene>
+<loc ext="true">EXT. SCHOOL - SCHOOL BUS</loc>
+<narr>Freshmen boys are climbing on board. They're silly and
+rowdy, pushing and shoving. <char who="sam">Sam</char> and <char who="randy">Randy</char> move in the
+crowd of boys, all of them a good head shorter.</narr>
+<d who="sam">SAM
+I loathe the bus.</d>
+</scene>
+    <scene>
+<loc int="true">INT. BUS</loc>
+<narr><char who="sam">Sam</char> and <char who="randy">Randy</char> board the bus. <char who="driver">The Bus Driver</char>, who is dressed
+like the weenie boys and wears a Walkman around his neck,
+is giving the high five to the boys boarding the bus.</narr>
+<d who="driver">BUS DRIVER
+Mah, man! Square it off.</d>
+    
+CONTINUED
+23
+CONTINUED
+<narr>He offers his hand to <char who="sam">Sam</char>. She regards it with a sneer.
+She and <char who="randy">Randy</char> take their seats. They're surrounded by
+dopey Freshmen boys in ugly sweaters and parkas. The
+dregs of school society. The only other girl on the bus
+is a weird introvert with a spinal correction neck brace.
+A couple of band members are practicing in the back. We
+hear hand-held computer games.</narr>
+<d who="sam">SAM
+There has to be a more dignified mode
+of transportation.</d>
+<d who="randy">RANDY
+I hope you get a car for your birthday.
+And a driver's license.</d>
+<d who="sam">SAM
+Let's not hold our breath.</d>
+<narr>Sam and Randy focus on the seat in front of them.</narr>
+<d who="sam">SAM
+On second thought ....</d>
+<narr>They take deep breaths and hold their noses.</narr></scene>
+    <scene>
+<narr>THEIR <shot pov="true">POINT OF VIEW - THREE FRESHMEN BOYS</shot>
+in the seat in front of them are turned around to face them.
+They're smiling with disgusting mouthsful of braces and jock
+straps on their heads. They raise electronic ray guns and
+fire at <char who="sam">Sam</char> and <char who="randy">Randy</char>.</narr>
+</scene>
+    <scene>
+<loc ext="true">EXT. BAKER HOUSE - AFTERNOON</loc>
+<narr>Cars are parked in the driveway and on the street.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. HOUSE</loc>
+<narr><char who="brenda">Brenda</char> and <char who="ginny">Ginny</char> are hosting their luncheon. <char who="ginny">Ginny</char> has
+opened her gifts and is sitting with a wok in her lap.</narr>
+<d who="ginny">GINNY
+<desc>(phoney)</desc>
+<char who="grace">Aunt Grace</char>, <char who="rudy">Rudy</char> and I are just going
+to adore and enjoy the wok. <char who="rudy">Rudy</char>'s a
+freak for stir-fry stuff. It was a
+really neat thought. All of you,
+really.</d>
+<narr>She sets the wok down along with ten other gift woks.
+She's received one from every luncheon guest.
+</narr>
+</scene>
+    <scene>
+<loc ext="true">EXT. NEIGHBORHOOD STREET</loc>
+<narr>The school bus pulls up and stops. <char who="randy">Randy</char> climbs down. <char who="sam">Sam</char>
+speaks to her out the window.</narr>
+<d who="sam">SAM
+Call me, okay?</d>
+<d who="randy">RANDY
+You call me first and tell me what
+happened at home.</d>
+<d who="sam">SAM
+I'll tell you right now. Nothing.</d>
+<d who="randy">RANDY
+Quit feeling sorry for yourself.
+It's bad for your complexion.</d>
+<narr>The bus pulls out.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. BUS</loc>
+<narr>It's just <char who="sam">Sam</char> the neck brace girl and one freshman weenie,
+the <char who="geek">Geek</char>. He's skinny and small with a cheap haircut, an
+imitation LaCoste shirt, baggy Levi cords, tennis shoes with
+dark socks and a nylon backpack filled with books. He strolls
+down the aisle and sits next to <char who="sam">Sam</char>. He gives her his sexiest
+look -- calves' eyes and a metal-mouth smile.</narr>
+<d who="geek">GEEK
+How's it goin'?</d>
+<d who="sam">SAM
+<desc>(annoyed)</desc>
+How's what going?</d>
+<d who="geek">GEEK
+You know, things. Life and whatnot.</d>
+<d who="sam">SAM
+Life is not whatnot and it's none of
+your business.</d>
+<d who="geek">GEEK
+Are you going to the New Faces dance
+tonight?</d>
+<d who="sam">SAM
+That's also none of your business.</d>
+<narr>The Geek puts his arm up on the back of the bus seat.</narr>
+CONTINUED
+25 ·
+CONTINUED
+<d who="geek">GEEK
+What's the story? You got a guy?</d>
+<narr><char who="sam">Sam</char> looks at the <char who="geek">Geek</char> with an angry, threatening squint.</narr>
+<d who="sam">SAM
+Three big ones and they lust for
+wimp blood. So, quit bugging me or
+I'll sic them all over your weenie
+ass.</d>
+<d who="geek">GEEK
+I'm getting input from you that I'm
+reading as relatively hostile.</d>
+<d who="sam">SAM
+Fuck off!</d>
+<d who="geek">GEEK
+Woo! Definitely hostile. What's
+the problem? I'm a he, you're a she.
+I'm attracted to you. I see you
+everyday. I think about you fre-
+quently. Is there something wrong
+with my trying to put together some
+kind of relationship?</d>
+<narr>The bus stops. <char who="sam">Sam</char> gathers up her things. The <char who="geek">Geek</char>
+reaches out and takes her arm.</narr>
+<d who="geek">GEEK
+Just answer me one question.</d>
+<d who="sam">SAM
+Yes. You're a total fag.</d>
+<d who="geek">GEEK
+That's not the question.</d>
+<narr>Sam jerks her arm away.</narr>
+<d who="geek">GEEK
+<desc>(raises
+an eyebrow)</desc>
+Am I turning you on?</d>
+<narr><char who="sam">Sam</char> stares at the <char who="geek">Geek</char> for a moment, then hurries down the
+aisle of the bus and exits. He's confident that because
+she actually conversed with him, she likes him.</narr>
+<d who="geek">GEEK
+Encouraging, very encouraging.</d>
+</scene>
+    <scene>
+<loc int="true">INT. HOUSE - FOYER</loc>
+<narr>The luncheon guests are saying their farewells and wishing
+the bride-to-be good luck.</narr>
+</scene>
+    <scene>
+<loc ext="true">EXT. HOUSE</loc>
+<narr><char who="sam">Sam</char> shuffles up the walk to the porch. The door opens and
+the ladies stream out. A couple smile at <char who="sam">Sam</char>, most don't
+recognize her. She stands to the side and plasters a
+polite grin on her face as she waits patiently for them to
+clear the door. <char who="brenda">Brenda</char> and <char who="ginny">Ginny</char> stand in the door and
+wave.</narr>
+<d who="ginny">GINNY
+<desc>(phoney)</desc>
+Thank you so much. Thank you.
+You're all incredibly kind.</d>
+<d who="brenda">BRENDA
+Thank you for coming.</d>
+<d who="ginny">GINNY
+I love the woks. <char who="rudy">Rudy</char>'s going to
+be so excited.</d>
+<d who="brenda">BRENDA
+We'll see you all tomorrow!</d>
+<narr>As soon as the ladies are out of earshot, <char who="ginny">Ginny</char> leans
+against the doorjamb and groans.</narr>
+<d who="ginny">GINNY
+I sincerely want to puke. His
+relatives are animals.</d>
+<narr>She slides back into the house. <char who="brenda">Brenda</char> looks at <char who="sam">Sam</char>.</narr>
+<d who="brenda">BRENDA
+Why didn't you say hello to them?</d>
+<d who="sam">SAM
+They didn't say hello to me.</d>
+<d who="brenda">BRENDA
+Don't be smart.</d>
+<narr><char who="brenda">Brenda</char> goes back in the house. 
+<char who="sam">Sam</char> shakes her head in disbelief.</narr>
+<d who="sam">SAM
+I have entered a dimension beyond
+all time and space ....</d>
+</scene>
+    <scene>
+<loc int="true">INT. HOUSE - THIRD FLOOR STAIRWELL</loc>
+<narr><char who="sam">Sam</char> trudges up the stairs anxious for the solitude of her
+bedroom. She reaches the top of the stairs and throws up
+her free hand in dismay.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. SAM'S ROOM</loc>
+<narr><char who="sam">Sam</char>'s grandparents, <char who="jim">Jim</char>'s parents, <char who="howard">Howard</char> and <char who="dorothy">Dorothy</char>
+are changing out of their travel clothes. They're in
+early seventies. They're sweet and kind but pampered
+particular. <char who="dorothy">Dorothy</char>'s in her gigantic bra and slip.
+in his undershorts, undershirt, socks and garters.
+puttering around unpacking.</narr>
+    </scene>
+    <scene>
+<narr><char who="sam">SAM</char>
+She turns slowly to try and sneak back down without getting
+nabbed by the grandparents. A creaky stair gives her away.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. BEDROOM</loc>
+<narr><char who="dorothy">Dorothy</char> and <char who="howard">Howard</char> turn around. They're startled until
+they recognize <char who="sam">Sam</char>. <char who="howard">Howard</char> reaches for his pants.</narr>
+<d who="dorothy">DOROTHY
+Sam!</d>
+<d who="sam">SAM
+<desc>(to herself)</desc>
+Samantha ....</d>
+<d who="howard">HOWARD
+How's my little pumpkin?</d>
+<d who="sam">SAM
+Fine, Grandpa. How are you guys?</d>
+<narr><char who="howard">Howard</char> gives her a hug and passes her to <char who="dorothy">Dorothy</char> who bear
+hugs her. <char who="sam">Sam</char> grimaces as she's engulfed in her grand-
+mother's arms.</narr>
+<d who="sam">SAM
+You're sleeping up here?</d>
+<d who="howard">HOWARD
+(irritated)
+Your grandpa Fred jumped our claim
+on Sara's room.</d>
+CONTINUED
+28
+CONTINUED
+<narr><char who="dorothy">Dorothy</char> releases <char who="sam">Sam</char>. She steps back out of hugging range
+and discreetly smells her shoulder to see if <char who="dorothy">Dorothy</char>'s left
+a noticeable scent.</narr>
+<d who="dorothy">DOROTHY
+Be fair, <char who="howard">Howard</char>. You got the garage
+for the Oldsmobile.</d>
+<narr><char who="sam">Sam</char> drops a major hint about her birthday.</narr>
+<d who="sam">SAM
+It's a nice day isn't it? September
+fifteenth.</d>
+<d who="howard">HOWARD
+A little nippy, if you ask me.</d>
+<d who="dorothy">DOROTHY
+I hope it isn't cold tomorrow. You
+know <char who="ginny">Ginny</char>. She'll refuse to wear a
+hat and coat over her wedding dress.</d>
+<narr><char who="sam">Sam</char>'s face drops as she realizes that they, too, have
+forgotten her birthday.</narr>
+<d who="sam">SAM
+I'm going to set myself up in <char who="mike">Mike</char>'s
+room.</d>
+<d who="dorothy">DOROTHY
+Okay, sweetie. Grandpa and I look
+forward to a long, long visit with
+you.</d>
+<d who="sam">SAM
+<desc>(forces
+a smile)</desc>
+Aces.</d>
+</scene>
+    <scene>
+<loc int="true">INT. HOUSE - SECOND FLOOR HALLWAY</loc>
+<narr><char who="sam">Sam</char> comes down from the third floor.</narr>
+<d who="sam">SAM
+This has to be a joke. I swear to
+God.</d>
+CONTINUED
+29
+CONTINUED
+<narr><char who="sara">Sara</char>'s door opens and <char who="brenda">Brenda</char>'s dad, <char who="fred">Fred Addison</char>, comes out.
+He's a jolly, robust man in his late sixties. His fashion
+model is Sam Snead.</narr>
+<d who="fred">FRED
+Hey! Hey! It's <char who="sam">Sammy Baker Davis</char>
+Jr.!</d>
+<d who="sam">SAM
+<desc>(unenthusiastic)</desc>
+Hi, Grandpa.</d>
+<narr><char who="fred">Fred</char>'s a wise guy. An ancient ham whose sense of humor is
+completely lost on Sam.</narr>
+<d who="fred">FRED
+Knock! Knock!</d>
+<d who="sam">SAM
+Who's there?</d>
+<d who="fred">FRED
+Who!</d>
+<d who="sam">SAM
+<desc>(weary of the
+hoary old joke)</desc>
+Who? Who?</d>
+<narr>Fred leans back into Sara's room.</narr>
+<d who="fred">FRED
+<char who="helen">Helen</char>? There's an owl out here in
+the hall.</d>
+<narr><char who="fred">Fred</char> snorts and grabs <char who="sam">Sam</char>. He tickles her. <char who="sam">Sam</char> loathes
+it. <char who="helen">Helen Addison</char> comes out of <char who="sara">Sara</char>'s room. She's an
+attractive and somewhat chic older woman.</narr>
+<d who="helen">HELEN
+<char who="fred">Fred</char>, you'll make her wet her pants
+tickling her like that!</d>
+<d who="fred">FRED
+Aw, come on, Helen!</d>
+<narr><char who="helen">Helen</char> swats his hand. He snorts again and releases <char who="sam">Sam</char>.</narr>
+<d who="helen">HELEN
+Let me look at you, <char who="sam">Sam</char>.</d>
+CONTINUED
+30
+CONTINUED
+<narr>She pushes <char who="sam">Sam</char> back and examines her at arm's length.</narr>
+<d who="helen">HELEN
+<desc>(clicks
+her tongue)</desc>
+Oh, my.
+<desc>(to Fred)</desc>
+Her little breasts have come in.</d>
+<narr>Sam blanches with horror. Fred makes another limp joke.</narr>
+<d who="fred">FRED
+I better go get my magnifying glass!</d>
+</scene>
+    <scene>
+<loc int="true">INT. MIKE'S ROOM</loc>
+<narr>A typical boy's room with posters and sports equipment and
+bunk beds. Sam walks in, closes the door, walks over to
+the bed and flops down on the bottom bunk in exaggerated
+despair.</narr>
+<d who="sam">SAM
+I can't believe my grandmother
+actually felt me up.</d>
+<narr>She closes her eyes. A head pops up on the top bunk and
+looks over the side.</narr>
+    </scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - <char who="sam">SAM</char></shot>
+Her eyes are closed. She feels a presence. Her eyes
+open. We hear a Chinese gong.</narr>
+    </scene>
+    <scene>
+<narr>HER <shot pov="true">POINT OF VIEW - THE HEAD OF A TEENAGE ORIENTAL BOY</shot>
+is hanging over the top bunk, looking at her upside down.
+He's dopey-looking with big black rim glasses, and long,
+straight hair. His name is <char who="dong">Long Duk Dong</char>.</narr>
+<d who="dong">DONG
+<desc>(thick
+accent)</desc>
+What's happening, hot stuff?</d>
+</scene>
+    <scene>
+<loc int="true">INT. KITCHEN</loc>
+<narr><char who="brenda">Brenda</char>'s dressed for the dinner at the club. She's
+puttering around the kitchen, cleaning up, checking the
+dinner in the oven. <char who="mike">Mike</char>'s sitting at the kitchen table
+watching television.</narr>
+CONTINUED
+31
+CONTINUED
+<d who="brenda">BRENDA
+His name is <char who="dong">Long Duk Dong</char> and he
+came down with Grandma and Grandpa
+Baker. He's an exchange student
+that's living with them.</d>
+<d who="mike">MIKE
+He's completely bizarre.</d>
+<d who="brenda">BRENDA
+<desc>(angry)</desc>
+He is not! He's a very sweet boy.</d>
+<d who="mike">MIKE
+I hope you burn the mattress and
+sheets after he leaves.</d>
+<narr><char who="sam">Sam</char> walks in, completely resigned to the fact that the
+house has gone crazy.</narr>
+<d who="sam">SAM
+I don't suppose it makes any
+difference to you, but there's a
+very weird Chinese guy up in <char who="mike">Mike</char>'s
+room.</d>
+<d who="mike">MIKE
+<char who="ginny">Ginny</char> dumped <char who="rudy">Rudy</char>. Her's her new
+fiance.</d>
+<d who="brenda">BRENDA
+<char who="mike">Mike</char>! Stop it!
+<desc>(to Sam)</desc>
+Will you help the grandmothers with
+dinner?</d>
+<d who="sam">SAM
+<desc>(hinting
+again)</desc>
+Is there any reason I should stay
+home tonight?</d>
+<d who="brenda">BRENDA
+I think it'd be nice if you visited
+with your grandparents and <char who="dong">Long Duk
+Dong</char>.</d>
+<d who="sam">SAM
+Who?</d>
+<d who="brenda">BRENDA
+The weird Chinese guy in Mike's room.</d>
+CONTINUED
+32
+CONTINUED
+<d who="sam">SAM
+<desc>(disappointed)</desc>
+I think I have a dance to go to.</d>
+<d who="brenda">BRENDA
+Can you remember to turn off the
+stove in ten minutes?</d>
+<d who="sam">SAM
+I can remember lots of things.</d>
+<narr><char who="brenda">Brenda</char> looks puzzled at <char who="sam">Sam</char>, then decides she doesn't have
+the time to unravel teenage mysteries and exits. <char who="sam">Sam</char> sits
+down.</narr>
+<d who="sam">SAM
+This is the single worst day of my
+entire life.</d>
+<d who="mike">MIKE
+What are you bitching about? I have
+to sleep underneath a Chinaman named
+after a duck's dork.</d>
+<d who="sam">SAM
+<desc>(suspicious)</desc>
+Where am I sleeping?</d>
+<d who="mike">MIKE
+<desc>(with sadistic
+glee)</desc>
+Sofa City, sweetheart.</d>
+<narr>Sam drops her head to the table.
+<shot dissolve="true">DISSOLVE TO</shot></narr>
+</scene>
+    <scene>
+<loc int="true">INT. GINNY'S ROOM</loc>
+<narr><char who="ginny">Ginny</char>'s getting dressed for the dinner at the club. She's
+in her panties and bra. <char who="sam">Sam</char>'s laying on the bed looking at
+the wedding dress hanging on the open closet door. She
+toys with the lace.</narr>
+<d who="ginny">GINNY
+Do you think <char who="fred">Grandpa Fred'</char>s going to
+embarrass me?</d>
+CONTINUED
+33
+CONTINUED
+<d who="sam">SAM
+I don't know why not. He does it to
+everybody else.</d>
+<d who="ginny">GINNY
+He asked me if <char who="rudy">Rudy</char> was the oily
+variety bohunk.</d>
+<d who="sam">SAM
+<desc>(kidding)</desc>
+Is he?</d>
+<d who="ginny">GINNY
+Don't be cute. I'm so paranoid. I
+know everybody'd be happier if I was
+marrying a white bread. <char who="grace">Aunt Grace</char>
+pulled me aside at the luncheon and
+told me that every family like <char who="rudy">Rudy</char>'s,
+no matter how straight, has a thug
+in it. She said it would be impos-
+sible to divorce him and live to
+enjoy it.</d>
+<d who="sam">SAM
+She's senile.</d>
+<d who="ginny">GINNY
+I really love <char who="rudy">Rudy</char>. And he loves me
+totally. I've had guys who loved
+me, but <char who="rudy">Rudy</char> is like flipped-out.
+Even after six months.</d>
+<narr><char who="ginny">Ginny</char>'s casual attitude toward romance reminds <char who="sam">Sam</char> of how
+romantically bankrupt her own life is. <char who="ginny">Ginny</char> has long
+enjoyed an overabundance of boyfriends. She has no
+consideration of how <char who="sam">Sam</char> might feel.</narr>
+<d who="sam">SAM
+<desc>(timidly)</desc>
+I think I'm in love.</d>
+<narr><char who="ginny">Ginny</char> sits down next to <char who="sam">Sam</char> and puts on an annoying
+motherly front. She speaks to <char who="sam">Sam</char> like she's a child.</narr>
+<d who="ginny">GINNY
+That's really sweet, Sam, but Rudy
+and my love isn't a going steady
+thing. It's mature, adult love.
+We're getting married. This is it.
+The big time. When your turn comes
+around, you'll understand what I'm
+saying.</d>
+CONTINUED
+34
+CONTINUED
+<narr>She quickly refocuses the attention on herself. She stands
+up and models her full bust in the mirror on the back of
+the door. She drops the subject. <char who="sam">Sam</char> stands behind her
+and checks herself in the mirror.</narr>
+<d who="sam">SAM
+You don't have to get married to be
+in love.</d>
+<narr>Ginny sits down at her dressing table and begins her makeup.</narr>
+<d who="ginny">GINNY
+Of course not. But there's dif-
+ferent varieties of love. What
+you're experiencing is puppy love.</d>
+<d who="sam">SAM
+<desc>(offended)</desc>
+Thank you.</d>
+<d who="ginny">GINNY
+You're welcome. So. How long have
+you been in love? A day? A week?
+<desc>(pause)</desc>
+Ten minutes?</d>
+<narr><char who="sam">Sam</char> doesn't respond. She's angry at <char who="ginny">Ginny</char>'s insensitivity.</narr>
+<d who="ginny">GINNY
+How long? How serious?</d>
+<d who="sam">SAM
+<desc>(sheepishly)</desc>
+It hasn't really happened yet.</d>
+<d who="ginny">GINNY
+You mean you're in love. Has he
+told you he loves you?</d>
+<d who="sam">SAM
+Not exactly.</d>
+<d who="ginny">GINNY
+Are you dating?</d>
+<d who="sam">SAM
+(reluctantly)
+No.</d>
+<d who="ginny">GINNY
+Well, are you doing anything?</d>
+<narr>Sam shakes her head.</narr>
+    </scene>
+CONTINUED
+36
+
+<scene>
+<loc int="true">INT. DINING ROOM - LATER - <shot close="true">CLOSEUP</shot> - DINNER PLATE</loc>
+<narr>steaming hot quiche. Pull back to reveal <char who="dong">Dong</char> bent over the
+food, studying it. He looks up, his glasses steamed over.
+He's amazed and impressed by the quiche.</narr>
+<d who="dong">DONG
+Very clever dinner. Appetizing
+food fit neatly into interesting
+round pie.</d>
+</scene>
+    <scene>
+<loc int="true">INT. DINING ROOM</loc>
+<narr>The grandparents, <char who="mike">Mike</char>, <char who="sara">Sara</char>, <char who="sam">Sam</char> and <char who="dong">Dong</char> are sitting at
+the dining room table with their TV dinners.</narr>
+<d who="mike">MIKE
+It's quiche.</d>
+<d who="dong">DONG
+<desc>(puzzled)</desc>
+How you spell?</d>
+<d who="fred">FRED
+You don't spell it, son, you eat it.</d>
+<narr>He looks at <char who="sam">Sam</char> and rattles his dentures for her amusement.
+She's hardly amused. <char who="dorothy">Dorothy</char> doesn't take kindly to <char who="fred">Fred</char>'s
+treatment of <char who="dong">Dong</char>. <char who="dong">Dong</char> smiles at <char who="sam">Sam</char>. She returns a
+polite smile.</narr>
+<d who="dorothy">DOROTHY
+<desc>(to Sam)</desc>
+<char who="dong">Long Duk Dong</char>'s about your age, <char who="sam">Sam</char>.
+You two should have lots to chat
+about.</d>
+<d who="dong">DONG
+<desc>(cloying)</desc>
+I love visiting with Grandma and
+Grandpa and writing letters to my
+parents and pushing the lawn mowing
+machine so Grandpa's hernia is so
+much disturbed.</d>
+<d who="howard">HOWARD
+He also does the dishes and helps
+with the laundry.</d>
+<d who="dorothy">DOROTHY
+Where Dong comes from, young people
+respect and admire senior citizens.</d>
+CONTINUED
+37
+CONTINUED
+<narr><char who="sam">Sam</char> rolls her eyes. <char who="mike">Mike</char> looks at her, motions to <char who="dong">Long Duk Dong</char> and raises his eyebrows mockingly suggesting <char who="sam">Sam</char> make a
+play for <char who="dong">Dong</char>. She curls her lip at him and pushes back
+from the table.</narr>
+<d who="sam">SAM
+Can I be excused?</d>
+<d who="helen">HELEN
+(surprised)
+Where're you going?</d>
+<d who="sam">SAM
+I have a dance at school.</d>
+<d who="helen">HELEN
+<desc>(disappointed)</desc>
+I thought we were going to make
+popcorn and play the Twister.</d>
+<d who="sam">SAM
+<desc>(bullshitting)</desc>
+This is an important dance. We're
+graded on it. For gym.</d>
+<d who="fred">FRED
+No kids still do the Watusi?</d>
+<d who="dong">DONG
+I do!</d>
+<d who="dorothy">DOROTHY
+Wait a minute, <char who="sam">Sam</char>. I've got a
+wonderful idea!
+<desc>(to Dong,
+excited)</desc>
+Would you like to go to the dance
+with <char who="sam">Sam</char>?</d>
+<narr><char who="sam">Sam</char>'s eyes bulge in horror. <char who="dong">Dong</char> snaps his fingers.</narr>
+<d who="dong">DONG
+Super!</d>
+<narr><char who="sam">Sam</char> mouths a distraught "Oh, my God." Music comes up.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. HOWARD'S OLDS</loc>
+<narr><char who="dong">Dong</char>'s at the wheel. <char who="sam">Sam</char>'s slumped down as far as she can
+get in the seat. She's wearing a skirt and blouse.
+Dentist office music is blasting and the windows are wide
+open.</narr>
+65
+CONTINUED
+38
+CONTINUED
+<d who="dong">DONG
+This car rockets right along, huh?
+V-8, no monkey business!</d>
+<narr><char who="sam">Sam</char> nods. If she had an ounce more guts she'd throw herself
+out the door and die on the pavement.</narr>
+<d who="dong">DONG
+I got a driver's license for United
+States two weeks ago.
+<desc>(holds up
+three fingers)</desc>
+First time I drive alone!</d>
+</scene>
+    <scene>
+<loc ext="true">EXT. STREET</loc>
+<narr>The Olds flies through a red light, jumps the intersection
+and bottoms out in a shower of sparks.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. CAR</loc>
+<narr><char who="dong">Dong</char> puts his arm up on the seat, revealing a heavily stained
+underarm.</narr>
+<d who="dong">DONG
+Yep. America's a moving, exciting
+locale. Speeding along. Fifty-five
+miles per hour. On my way to a hot
+teenage dance party. I love to be
+excited. How about you?</d>
+<narr><char who="sam">Sam</char> shakes her head, no.</narr>
+<d who="sam">SAM
+<desc>(suspicious)</desc>
+I hate excitement.</d>
+<d who="dong">DONG
+<desc>(lecherous)</desc>
+You like the kinky stuff?</d>
+</scene>
+    <scene>
+<loc ext="true">EXT. STREET</loc>
+<narr>The Olds fishtails around a corner and howls down a side
+street.
+<shot dissolve="true">DISSOLVE TO</shot></narr>
+</scene>
+    <scene>
+<loc ext="true">EXT. SCHOOL - NIGHT - ESTABLISHING</loc>
+</scene>
+    <scene>
+<loc int="true">INT. SCHOOL - GIRL'S LOCKER ROOM</loc>
+<narr><char who="sam">Sam</char>'s sitting on a sink as depressed as anyone can get.
+<char who="randy">Randy</char>'s fixing her face and trying to console <char who="sam">Sam</char>. She has
+an outrageous amount of makeup supplies spread out on the
+sink.</narr>
+<d who="randy">RANDY
+Nobody has to know you're with him.</d>
+<d who="sam">SAM
+I must have been a mass murderer in
+a previous life.</d>
+<d who="randy">RANDY
+Look, just pretend you don't know
+who he is.</d>
+<d who="sam">SAM
+I'm such a loser.
+<char who="randy">Randy</char> sweeps her makeup into a big shoulder bag.</d>
+<d who="randy">RANDY
+No, you're not. Let's go. Maybe
+Dim Dumb Duck Dick'll get lost.</d>
+<d who="sam">SAM
+I'm not that lucky.</d>
+<narr>She and <char who="randy">Randy</char> exit. A beat and a toilet flushes. A stall
+door opens. <char who="dong">Dong</char> peeks out with a mischievous smile on
+his face.</narr>
+<d who="dong">DONG
+Dong make plenty sure he get lucky!</d>
+</scene>
+    <scene>
+<loc int="true">INT. GYM</loc>
+<narr>It's the first big dance of the school year. A female DJ
+is spinning records and rapping between songs. She's
+brought a huge sound system and light show. <char who="jake">Jake</char>, with
+<char who="caroline">Caroline</char> on his arm, is talking with the hulking brute, <char who="rock">Rock</char>,
+and his tiny, petite girl friend, <char who="patty">Patty</char>. <char who="rock">Rock</char>'s wearing a
+funky, rumpled second-hand store suit, a mesh jersey ,and a
+Jack Daniel's cap. <char who="jake">Jake</char>'s wearing jeans and a blue blazer.
+It's all very proper and dignified. These are the popular
+people who are seemingly immune to the sorts of humiliations
+that beset people like <char who="sam">Sam</char>. <char who="caroline">Caroline</char> takes <char who="jake">Jake</char>'s arm and
+pulls him to the dance floor. It's a slow song. She rests
+her head on his shoulder and they dance.
+</narr>
+</scene>
+    <scene>
+<loc int="true">INT. GYM - DOOR</loc>
+<narr><char who="sam">Sam</char> and <char who="randy">Randy</char> walk in.</narr>
+<d who="sam">SAM
+I wonder if <char who="jake">Jake</char>'s here?</d>
+<d who="randy">RANDY
+It isn't healthy to get too jacked-
+up about a guy who isn't even a thing
+yet.</d>
+<d who="sam">SAM
+When you don't have anything, you
+don't have anything to lose, right?</d>
+<d who="randy">RANDY
+That's a cheerful thought. Let's go
+make ourselves available.</d>
+<narr><char who="randy">Randy</char> winks and heads into the crush of bodies in the gym.
+<char who="sam">Sam</char> sighs and follows.
+<loc int="true">INT. GYM - ANOTHER ANGLE - <char who="sam">SAM</char> - INFRARED SIGHT</loc>
+We see <char who="sam">Sam</char> moving through the gym through an infrared scope. A little spook music accompanies.</narr>
+<d who="geek" vo="true">GEEK (V.O.)
+That's the one, dude.</d>
+</scene>
+    <scene>
+<loc int="true">INT. GYM - WEENIE WALL - <char who="geek">GEEK</char> and HIS BUDDY</loc>
+<narr>The freshman boy's section of the gym. The guys who don't
+date yet. Weenies in their party finest. Among them is
+the <char who="geek">Geek</char> and his buddies <char who="cliff">Cliff</char> and <char who="bryce">Bryce</char>. We recognize the
+source of the infrared light in the previous scene as we
+see the <char who="geek">Geek</char> wearing night vision goggles. He removes the
+complex device from his face and gives them to <char who="cliff">Cliff</char>. He
+puts them on.</narr>
+<d who="geek">GEEK
+Scope it out.</d>
+<d who="cliff">CLIFF
+She doesn't look like a freshman.</d>
+<d who="geek">GEEK
+<desc>(proud, cool)</desc>
+Sophomore, dude. Fully aged sopho-
+more meat. We do the bus together.</d>
+<d who="bryce">BRYCE
+<desc>(looks at the
+Geek, incredulous)</desc>
+You've talked to her?</d>
+CONTINUED
+41
+CONTINUED
+<d who="geek">GEEK
+Talked? Shit, dude, I got a
+relationship with her figured to
+seventeen digits.</d>
+<narr><char who="cliff">Cliff</char> and <char who="bryce">Bryce</char> are amazed. He lowers the goggles and lets
+them hang around his neck.</narr>
+<d who="cliff">CLIFF
+You lie.</d>
+<d who="geek">GEEK
+Who lies? By night's end I predict
+me and her will ... interface.</d>
+<narr><char who="cliff">Cliff</char> and <char who="bryce">Bryce</char> stare at the <char who="geek">Geek</char> as if he's just told him
+he's going to walk on water.</narr>
+<d who="geek">GEEK
+Check it out.</d>
+<narr>The <char who="geek">Geek</char> cools up his hair and heads for <char who="sam">Sam</char>. <char who="cliff">Cliff</char> and
+<char who="bryce">Bryce</char> watch for a moment, then slip on a personal radio
+communicator of the variety SWAT teams and football coaches
+use.</narr>
+<d who="cliff">CLIFF
+Pretty intense, huh? Over.</d>
+<d who="bryce">BRYCE
+Whacked to the max. Over.</d>
+</scene>
+    <scene>
+<loc int="true">INT. GYM - SAM  RANDY</loc>
+<narr><char who="sam">Sam</char>'s watching <char who="jake">Jake</char> and <char who="caroline">Caroline</char> slow dancing. <char who="randy">Randy</char>'s
+talking with friends. <char who="sam">Sam</char>'s imagining herself in <char who="caroline">Caroline</char>'s
+place.</narr></scene>
+    <scene>
+<narr>HER <shot pov="true">POINT OF VIEW - <char who="jake">JAKE</char></shot>
+turns to camera and looks directly at <char who="sam">Sam</char>.</narr>
+    </scene>
+    <scene>
+<narr><char who="sam">SAM</char>
+She's caught! Her mouth drops open in alarm. She quickly
+turns to the nearest boy and grabs him to cover the fact
+that she was ogling <char who="jake">Jake</char>. To her ultimate horror, she's
+grabbed the <char who="geek">Geek</char>. He takes her actions as confirmation
+that she's hot for his bod. The DJ segues into a rocker.
+<char who="dj">DJ
+She rolls into a rocker.</char>
+<char who="geek">GEEK</char></narr>
+<d who="geek">GEEK
+<desc>(cool and
+confident)</desc>
+Awright! I knew you'd come around.</d>
+<narr>He yanks her out on the dance floor. Keeping one hand
+firmly in hers, he does a moon dance. <char who="sam">Sam</char> is stunned and
+speechless at yet another tragedy in her life.</narr>
+<d who="geek">GEEK
+<desc>(looking over his
+shoulder to DJ)</desc>
+Crank it, sister!</d>
+<narr><char who="dj">DJ</char>
+She pulls a record out of her hair and angrily whips it down
+at the <char who="geek">Geek</char>.
+<char who="geek">GEEK</char>
+The <char who="geek">Geek</char> ducks the record and throws his head back. He
+lets out a spirited yelp.</narr>
+<d who="geek">GEEK
+Very hot! The night is happening!</d>
+<narr>The <char who="geek">Geek</char>'s enthusiastic grin dissolves.</narr>
+<d who="geek">GEEK
+What's the matter?</d>
+    </scene>
+    <scene>
+<narr><char who="sam">SAM</char>
+She's standing as still as a statue on the dance floor.
+Tears are streaming down her face.</narr>
+    </scene>
+    <scene>
+<narr><char who="geek">GEEK</char>
+He thinks <char who="sam">Sam</char>'s crying tears of happiness. He gives her
+his idea of a sexy smile.</narr>
+<d who="geek">GEEK
+I'm blowing your mind, aren't I?</d>
+<narr>He executes an embarrassing spin and lets out a liberated
+shriek.</narr>
+<d who="geek">GEEK
+And I'm just getting warmed up!</d>
+<narr>He steps back, hurls himself in the air and lands on the
+floor on his back.
+<shot close="true">CLOSEUP - <char who="geek">GEEK</char></shot>
+He's in terrible pain, laying on the floor.</narr>
+<d who="geek">GEEK
+I'm ... okay, babe.</d>
+</scene>
+    <scene>
+<loc int="true">INT. GYM LOBBY</loc>
+<narr><char who="sam">Sam</char> bursts out of the gym in tears and runs across the
+lobby and down a dark hallway.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. HALLWAY</loc>
+<narr><char who="sam">Sam</char> slows down and stops. She rests her head against a
+locker. She's sobbing with tears of hurt and anger. She
+slams her fist against the locker.</narr>
+<d who="sam">SAM
+Damn!</d>
+<narr>She turns around and slides down the locker.</narr>
+<d who="sam">SAM
+I hate myself.</d>
+</scene>
+    <scene>
+<loc int="true">INT. GYM - REFRESHMENT TABLE</loc>
+<narr>The <char who="geek">Geek</char> limps back to the Weenie Wall. <char who="cliff">Cliff</char> and <char who="bryce">Bryce</char>
+chide him about losing <char who="sam">Sam</char>.</narr>
+<d who="cliff">CLIFF
+<desc>(with a laugh)</desc>
+Way to go, dickface. She took off.</d>
+<narr>The <char who="geek">Geek</char> improvises an excuse.</narr>
+<d who="geek">GEEK
+Don't you know anything about girls?
+They get hyper when you come on hard.
+I told you I'd interface with her and
+I will. She grabbed me, dog lips.
+Don't worry. The situation will come
+on-line. Don't spaz-out, weasel.</d>
+<d who="cliff">CLIFF
+I'll bet you a dozen floppy disks you
+don't even get tit.</d>
+<d who="geek">GEEK
+You got a bet, scumbag. I'll get it
+all.</d>
+CONTINUED
+45
+CONTINUED
+<d who="geek">GEEK
+I'm sorry, man. Whatever I did was
+an accident.</d>
+<d who="jake">JAKE
+Relax.</d>
+<narr>The Geek makes a very exaggerated effort to look relaxed.</narr>
+<d who="jake">JAKE
+You were dancing with a girl.</d>
+<d who="geek">GEEK
+I'm sorry. I totally lost my head.
+I must have been on drugs.</d>
+<d who="jake"> JAKE
+Do you know her?</d>
+<d who="geek">GEEK
+She grabbed me, guy. I'm totally
+innocent. Is she yours?</d>
+<narr><char who="jake">Jake</char> shakes his head. The <char who="geek">Geek</char> breathes a sigh of relief.</narr>
+<d who="jake">JAKE
+What do you know about her?</d>
+<narr>The <char who="geek">Geek</char> relaxes and begins to feel like <char who="jake">Jake</char>'s his buddy.
+He is, after all, talking girls with him.</narr>
+<d who="geek">GEEK
+She's kind of quiet. Weenie-tits but
+anything more than a mouthful's a waste.
+Good face, decent voice, smells pretty
+good, drives me schizo. I'm an old
+poon dog though, so anything with four
+legs and a tail makes me go ape-shit.</d>
+<d who="jake">JAKE
+<desc>(impatient with
+Geek's jive)</desc>
+Did she come here with you?</d>
+<d who="geek">GEEK
+No, but if it's okay with my dad,
+she's going home with me.</d>
+<narr><char who="jake">Jake</char> nods and walks away. The <char who="geek">Geek</char> feels like a million
+bucks. He continues across the gym. On his way, he passes
+<char who="dong">Dong</char> who's slow dancing to a rocker with a six foot, two
+inch girl, <char who="lumberjack">The Lumberjack</char>. She's stocky and tough, wearing
+painter's pants, a flannel shirt and black hightops. <char who="dong">Dong</char>
+lovingly rests his head on her huge breast as they dance.
+He reaches-his hand out of the neck of her shirt and pushes
+his glasses up on his nose.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. HALLWAY</loc>
+<narr><char who="sam">Sam</char>'s sitting on the floor with her back against the
+lockers. She hears footsteps and looks down the hall.
+HER <shot pov="true">POINT OF VIEW - <char who="caroline">CAROLINE</char> AND TWO OF HER FRIENDS</shot>
+are walking down the hall, passing a joint between them.
+They are <char who="tracy">Tracy</char> and <char who="robin">Robin</char>.</narr>
+<d who="tracy">TRACY
+Do you wanna blow this dance off?
+I'm bored to the brink of insanity.</d>
+<d who="robin">ROBIN
+And go where?</d>
+<d who="caroline">CAROLINE
+<desc>(mischievously)</desc>
+<char who="jake">Jake</char>'s parents aren't home. We can
+do his house.</d>
+    </scene>
+    <scene>
+<narr><char who="sam">SAM</char>
+She watches and listens, pained by their boundless good
+fortune. The girl with everything approaches the girl with
+nothing.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. HALLWAY</loc>
+<narr><char who="caroline">Caroline</char> notices <char who="sam">Sam</char> sitting on the floor. <char who="sam">Sam</char> ducks her
+head.</narr>
+<d who="caroline">CAROLINE
+<desc>(pleasant)</desc>
+How's it goin'?</d>
+<narr><char who="sam">Sam</char> looks up. She shrugs her shoulders and rubs her damp
+nose.</narr>
+<d who="sam">SAM
+<desc>(clears her
+throat)</desc>
+Good.</d>
+<narr>The girls continue down the hall. <char who="sam">Sam</char> watches.</narr>
+<d who="caroline">CAROLINE
+Let's party light though. <char who="jake">Jake</char>'s
+a paranoid about his parents' house
+getting trashed.</d>
+<narr>The girls giggle.</narr>
+<d who="both">BOTH
+Again!</d>
+    </scene>
+    <scene>
+<narr><char who="sam">SAM</char>
+She shakes her head realizing haw far her dreams are from
+reality. She pulls herself up and wipes the tears from her
+cheeks. She heads back to the gym.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. GYM - BAND</loc>
+<narr><char who="dong">Long Duk Dong </char>has taken over the <char who="dj">DJ</char>'s mike and is doing an
+Oriental rap. The crowd is going crazy for him. He's
+such a total asshole, they love him. He feeds on their
+cruel adoration.
+<loc int="true">INT. GYM - WEENIE WALL</loc>
+The freshman boys, the <char who="geek">Geek</char>'s gang, are breaking. Real
+bad, white suburban breaking. They're spinning around on
+their backs, banging into the wall, chairs, tables, other
+people.
+<loc int="true">INT. GYM - DONG</loc>
+He throws his head back and shrieks.</narr>
+<d who="dong">DONG
+God bless America!</d>
+<loc int="true">INT. GYM - CHAPERONES</loc>
+<narr>A couple of spinster teachers and a middle-aged parent
+couple stare in frozen horror at what's become of the dance.</narr>
+</scene>
+    <scene>
+<loc int="true">INT. GYM - <char who="sam">SAM</char> AND <char who="randy">RANDY</char></loc>
+<narr><char who="randy">Randy</char>'s found a guy, <char who="jimmy">Jimmy Montrose</char>. He's a semipopular,
+semihandsome guy. He's holding her hand as they sit on the
+gym bleachers watching <char who="dong">Dong</char>. <char who="sam">Sam</char>'s with them, resting her
+chin on her knees. Her eyes are red from crying and she
+has the sniffles.</narr>
+<d who="jimmy">JIMMY
+That guy's great. He's totally
+fucked. Where's he from?</d>
+<d who="sam">SAM
+The south side of Mars.</d>
+<d who="jimmy">JIMMY
+You know him?</d>
+<d who="sam">SAM
+He's my date.</d>
+CONTINUED
+48
+CONTINUED
+<narr><char who="jimmy">Jimmy</char>'s mouth drops open. The <char who="geek">Geek</char> returns and slides down
+the bleachers next to <char who="sam">Sam</char>.</narr>
+<d who="geek">GEEK
+I'm back.</d>
+<narr><char who="sam">Sam</char> looks at him wearily.</narr>
+<d who="sam">SAM
+So I smell.</d>
+<d who="geek">GEEK
+That's my shave cream. Wanna feel a
+clean, close shave?</d>
+<d who="sam">SAM
+I'll pass. You couldn't find
+anybody else to bug, huh?</d>
+<d who="geek">GEEK
+You're the one I want to bug.</d>
+<d who="sam">SAM
+<desc>(introduces
+<char who="randy">Randy</char>)</desc>
+This is my friend <char who="randy">Randy</char> and that's
+<char who="jimmy">Jimmy Montrose</char>.</d>
+<d who="geek">GEEK
+Howdy, dude.</d>
+<d who="sam">SAM
+<desc>(introduces
+the Geek)</desc>
+This is <char who="fred">Farmer Fred</char>.</d>
+<d who="geek">GEEK
+My name's <char who="ted">Ted</char>.</d>
+<d who="sam">SAM
+Sorry. This is <char who="geek">Farmer Ted</char>.</d>
+<d who="geek">GEEK
+I'm not a farmer. I work at
+ComputerLand.</d>
+<narr><char who="jimmy">Jimmy</char>'s totally disinterested. <char who="randy">Randy</char> feels sorry for <char who="sam">Sam</char>.</narr>
+<d who="randy">RANDY
+Wimp? Can I be honest with you?</d>
+<d who="geek">GEEK
+Not if you're going to insult me.</d>
+<d who="randy">RANDY
+Okay.</d>
+CONTINUED
+49
+CONTINUED
+<d who="geek">GEEK
+Shoot.</d>
+<d who="randy">RANDY
+Get the fuck out of here.</d>
+<d who="geek">GEEK
+Nice manners.</d>
+<narr>Jimmy looks around <char who="randy">Randy</char> to the <char who="geek">Geek</char>.</narr>
+<d who="jimmy">JIMMY
+She's totally serious, asswipe.</d>
+<d who="geek">GEEK
+Okay. Fine. Don't freak.
+<desc>(to <char who="sam">Sam</char>,
+with his
+eye on his
+buddies
+across
+the gym)</desc>
+You wanna split with me?</d>
+<d who="sam">SAM
+Okay.</d>
+<narr>The <char who="geek">Geek</char> is expecting rejection. He misunderstands her.</narr>
+<d who="geek">GEEK
+I just thought I'd ... Huh?!</d>
+<narr><char who="sam">Sam</char> stands. The <char who="geek">Geek</char> rises slowly.</narr>
+<d who="sam">SAM
+<desc>(to Randy
+and Jimmy)</desc>
+I'll catch you guys later.</d>
+<narr>The <char who="geek">Geek</char>'s dumbfounded. So is <char who="randy">Randy</char>. <char who="sam">Sam</char> heads for the
+door. The <char who="geek">Geek</char> stumbles after her. <char who="randy">Randy</char>'s disturbed by
+the action.</narr>
+<d who="randy">RANDY
+This is so sad.</d>
+</scene>
+    <scene>
+<loc int="true">INT. GYM - <char who="jake">JAKE</char></loc>
+<narr>He watches <char who="sam">Sam</char> and the <char who="geek">Geek</char> exit. He's curious and a
+little confused.</narr>
+    </scene>
+51
+CONTINUED
+<scene>
+    <narr>
+The <char who="geek">Geek</char> feels a little foolish.</narr>
+<d who="sam">SAM
+It's been a real shitty birthday for
+me. No offense, but I don't need a
+serenade right now.</d>
+<d who="geek">GEEK
+<desc>(concerned)</desc>
+What's wrong? You didn't get
+anything good?</d>
+<d who="sam">SAM
+I didn't get shit. Not even a
+'happy birthday'. My whole family
+blew it off.</d>
+<narr>The Geek is horrified.</narr>
+<d who="geek">GEEK
+I'd freak if my family forgot my
+birthday.</d>
+<narr>Sam stretches out on the hood.</narr>
+<d who="sam">SAM
+It's a brand new year. It's my
+birthday. I'm sixteen. Everything
+should be platinum. I should be
+happy. Right?</d>
+<narr>The Geek agrees.</narr>
+<d who="sam">SAM
+I can't get happy. It's physically
+impossible for me to get happy.</d>
+<narr>The <char who="geek">Geek</char> looks at her curiously.</narr>
+<d who="geek">GEEK
+You're frigid?</d>
+<narr><char who="sam">Sam</char> stares blankly at him. Appalled at his nerve.</narr>
+<d who="sam">SAM
+No.</d>
+CONTINUED
+52
+CONTINUED
+<d who="sam">SAM (Cont'd)
+<desc>(second
+thoughts)</desc>
+Well, I guess I could be. It'd fit
+in just fine with all my other
+bummers.</d>
+<d who="geek">GEEK
+I'm fairly knowledgeable about the
+female reproductive organs if you
+want to shoot me a question.</d>
+<d who="sam">SAM
+Just shut up, okay? I'm not really
+in the mood to discuss this kind of
+stuff with you. It's none of your
+business.</d>
+<narr><char who="sam">Sam</char> pulls her legs up and rests her chin on her knees.</narr>
+<d who="geek">GEEK
+<desc>(nervously)</desc>
+Would you feel better if you knew
+one of my secrets?</d>
+<d who="sam">SAM
+I'm not in the mood to get grossed-
+out.</d>
+<d who="geek">GEEK
+We're not talking gross. Just embar-
+rassing.</d>
+<narr>The <char who="geek">Geek</char> clears his throat and scratches his ear. He
+steels himself and boldly reveals his secret.</narr>
+<d who="geek">GEEK
+<desc>(dead serious)</desc>
+I've never had sexual intercourse.</d>
+<narr><char who="sam">Sam</char> stares at him for a beat, then lets out a horse laugh.
+She can't help herself. It's so obvious he's a virgin.</narr>
+<d who="geek">GEEK
+<desc>(laughs)</desc>
+I knew you wouldn't believe me.</d>
+<narr>Sam howls with laughter.</narr>
+CONTINUED
+53
+CONTINUED
+<d who="geek">GEEK
+<desc>(crosses
+his heart)</desc>
+I swear to God. I've never even had
+hand contact.</d>
+<narr><char who="sam">Sam</char> manages to control herself. She wipes her nose on her
+sleeve and shakes out her hair.</narr>
+<d who="geek">GEEK
+I appreciate your not laughing at me.</d>
+<narr><char who="sam">Sam</char> bursts into laughter again. The <char who="geek">Geek</char> laughs.</narr>
+<d who="geek">GEEK
+That's not what I meant. I meant ....</d>
+<narr>He suddenly takes her in his arms and holds her close. She
+stops laughing. She clears her throat.</narr>
+<d who="sam">SAM
+Uh, time out, junior.</d>
+<narr>He lets her go and feels like a fool for his sudden attack.</narr>
+<d who="geek">GEEK
+Excuse me.</d>
+<narr>He sits back against the windshield, frightened and
+embarrassed.</narr>
+<d who="geek">GEEK
+I'm really sorry.</d>
+<narr><char who="sam">Sam</char> isn't offended or angry. She's slightly flattered and
+understands completely how he feels. She realizes his
+plight isn't too far removed from hers.</narr>
+<d who="sam">SAM
+It's okay.</d>
+<narr>The <char who="geek">Geek</char> smiles and grabs her again.</narr>
+<d who="sam">SAM
+I meant it's okay that you did it
+before but I didn't mean for you to
+do it again. Okay?</d>
+<narr>He lets her go. <char who="sam">Sam</char> gives him a warm, reassuring smile.</narr>
+<d who="sam">SAM
+Just now I felt how much you like me.</d>
+CONTINUED
+54
+CONTINUED
+<d who="geek">GEEK
+You're probably zoning in on my
+brain waves.</d>
+<d who="sam">SAM
+I don't think so. I felt it on my
+leg.</d>
+<narr>The <char who="geek">Geek</char> thinks about what she said for a second and then
+reaches in his pocket. <char who="sam">Sam</char>'s mouth drops open. She thinks
+he's going to expose himself.</narr>
+<d who="sam">SAM
+<desc>(repulsed)</desc>
+I don't want to see it.</d>
+<narr>The <char who="geek">Geek</char> pulls out a roll of Certs. <char who="sam">Sam</char>'s relieved.</narr>
+<d who="sam">SAM
+Sorry if I embarrassed you.</d>
+<d who="geek">GEEK
+<desc>(misunderstands
+her)</desc>
+I'm not embarrassed. Fresh breath
+is a priority in my life.</d>
+<narr><char who="sam">Sam</char> smiles at his honesty and innocence. And his interest.</narr>
+<d who="sam">SAM
+I don't want to hurt your feelings
+because it's really human of you to
+listen to all my bullshit.</d>
+<d who="geek">GEEK
+I care about it. I swear to God. I
+know I come on kind of like an asshole
+on the bus and tonight but that's
+mainly just so my friends won't think
+I'm a dink.</d>
+<d who="sam">SAM
+They're all pretty much dinks
+though, aren't they?</d>
+<d who="geek">GEEK
+I guess. But I'm kind of the leader.
+I'm like the King of the Dipshits.</d>
+<d who="sam">SAM
+That's pretty cool. But you're
+still a freshman. A lot can happen
+in a year. You could come back next
+fall as a totally normal person.</d>
+CONTINUED
+55
+CONTINUED
+<d who="geek">GEEK
+<desc>(hopeful)</desc>
+Yeah?</d>
+<d who="sam">SAM
+For sure.</d>
+<narr>The <char who="geek">Geek</char> turns serious. He takes a deep breath.</narr>
+<d who="geek">GEEK
+Would it be totally off the wall if
+I asked if I could have sex with you?</d>
+<narr><char who="sam">Sam</char> sighs and smiles. She nods.</narr>
+<d who="geek">GEEK
+Sorry. I thought so. I know that
+isn't the standard method guys use
+to score poon. But I'm like, you
+know, kind of a rookie.</d>
+<d who="sam">SAM
+You asking me is not as off the wall
+as why I won't.</d>
+<d who="geek">GEEK
+VD?</d>
+<d who="sam">SAM
+I'm kind of in love.
+<desc>(laughs at
+herself)</desc>
+It's really stupid. He doesn't even
+know me. <char who="jake">Jake Ryan</char>?</d>
+<d who="geek">GEEK
+<desc>(surprised)</desc>
+You like <char who="jake">Jake</char>?</d>
+<narr>Sam's embarrassed.</narr>
+<d who="geek">GEEK
+I just talked to him in the gym.
+He asked me about you.</d>
+<narr><char who="sam">Sam</char>'s mouth drops open. She wonders if she heard the <char who="geek">Geek</char>
+right.</narr>
+<d who="geek">GEEK
+He asked what you were like.</d>
+<d who="sam">SAM
+He did not.</d>
+CONTINUED
+56
+CONTINUED
+<d who="geek">GEEK
+Cross my heart.</d>
+<d who="sam">SAM
+<desc>(to herself)</desc>
+Oh, my God.
+<desc>(to the Geek)</desc>
+If you're lying I'll beat the crap
+out of you.</d>
+<d who="geek">GEEK
+I'm not lying! I swear on a stack of
+Bibles.</d>
+<d who="sam">SAM
+I can't believe this! I'm freaking!</d>
+<narr>She grabs her purse. She's giddy and confused. Her mind and
+her mouth is going double speed.</narr>
+<d who="sam">SAM
+Should I go back to the gym? And
+like go up to him and sort of say,
+'Hi, <char who="jake">Jake</char>?' Or is it better to let
+him come to me?</d>
+<d who="geek">GEEK
+This isn't really my department.</d>
+<d who="sam">SAM
+But what if I decide to let him come
+to me and he forgets? Or what if he
+changes his mind? Then I'm screwed,
+right?</d>
+<d who="geek">GEEK
+Apparently.</d>
+<d who="sam">SAM
+What would you do if you were me?</d>
+<d who="geek">GEEK
+I'm a gambling man by nature. I'd
+go for it.</d>
+<d who="sam">SAM
+This is so strange. But I'll take it.</d>
+<narr>The biggest smile she's ever had spreads across her face.
+She kisses the <char who="geek">Geek</char>'s cheek.</narr>
+<d who="sam">SAM
+You're the best.</d>
+<narr>She slides off the car.</narr>
+CONTINUED
+57
+CONTINUED
+<d who="geek">GEEK
+Wait!</d>
+<d who="sam">SAM
+What</d>?
+<d who="geek">GEEK
+Do you know anything about floppy
+disks?</d>
+<d who="sam">SAM
+<desc>(impatient)</desc>
+We'll talk about it on the bus,
+okay?</d>
+<d who="geek">GEEK
+Well, I've got kind of a problem.
+Floppy disks are pretty expensive.
+And I made a bet ...
+<desc>(scared)</desc>
+I bet my friend that I'd do it with
+you.</d>
+<narr><char who="sam">Sam</char> puts her hands on her hips angrily and stares him down.</narr>
+<d who="geek">GEEK
+This was before I knew you as a
+person. I told him I'd get proof
+and I can get it without actually
+getting physical.</d>
+<d who="sam">SAM·
+<desc>(suspicous)</desc>
+How?</d>
+<d who="geek">GEEK
+<desc>(choked,
+cracking
+voice)</desc>
+Could I borrow your underpants for
+about ten minutes?</d>
+<narr>Sam's eyes open in shock.</narr>
+<d who="sam">SAM
+What?!</d>
+</scene>
+    <scene>
+<loc int="true">INT. GYM</loc>
+<narr>It's slow dance time. Randy is snuggled comfortably in
+the crook of Jimmy's shoulder. As they dance past she discreetly picks a piece of his sweater fuzz off her tongue.
+<char who="rock">Rock</char> is dancing with <char who="patty">Patty</char>. He's holding her a foot off the
+ground. <char who="dong">Dong</char> and the <char who="lumberjack">Lumberjack</char> waltz past, joined at the
+lip. He takes his handkerchief out of his pocket and
+deftly blows his nose without breaking the kiss. <char who="caroline">Caroline</char>
+has Jake's neck in a vacuum suck lock. He's scanning the
+dance floor for <char who="sam">Sam</char>. <char who="caroline">Caroline</char> releases him with a wet pop
+and kisses his lips.</narr>
+<d who="caroline">CAROLINE
+I think it's time to blow this thing
+off and go to your house.</d>
+<d who="jake">JAKE
+<desc>(not paying
+attention)</desc>
+Huh?</d>
+<d who="caroline">CAROLINE
+I told Tracy and Robin and those guys
+to come over to your parent's house.
+Okay?</d>
+<narr><char who="jack">Jake</char> nods. He isn't listening to her.</narr>
+<d who="caroline">CAROLINE
+I told them not to tell anybody.
+<desc>(snuggles him)</desc>
+I love when your parents are out of
+town. I fantasize that I'm your
+wife and we're like the richest,
+most popular adults in town.
+<desc>(kisses
+his neck)</desc>
+I owe all my great weekends to you.</d>
+<narr>She notices he's not paying attention.</narr>
+<d who="caroline">CAROLINE
+What's your problem?</d>
+<d who="jake">JAKE
+Huh?</d>
+<d who="caroline">CAROLINE
+You've been acting weird all night.
+<desc>(suspicious)</desc>
+Are you screwing around?</d>
+<narr><char who="jake">Jake</char> is startled that she's on to him. He reacts with
+obvious guilt.</narr>
+CONTINUED
+59
+CONTINUED
+<d who="jake">JAKE
+<desc>(voice
+cracks)</desc>
+Me?
+<desc>(nervous
+chuckles)</desc>
+Are you crazy?</d>
+<d who="caroline">CAROLINE
+I don't know, <char who="jake">Jake</char>. I'm getting
+strange signals.</d>
+<d who="jake">JAKE
+They're not coming from me. Every-
+thing's fine. Don't have a cow.</d>
+<d who="caroline">CAROLINE
+Okay. But just remember one thing.
+I can name twenty guys who'd kill to
+love me.</d>
+<narr><char who="jake">Jake</char> regards her remark as another indictment of their
+loveless relationship. He takes offense to her issuing
+threats.</narr>
+<d who="jake">JAKE
+Is that a threat?</d>
+<d who="caroline">CAROLINE
+<desc>(cold and
+serious)</desc>
+It's a fact, <char who="jake">Jake</char>.</d>
+<narr>The song ends. <char who="caroline">Caroline</char> backs off. She takes <char who="jake">Jake</char>'s
+hand. She's made her point and feels confident that he's
+been sufficiently warned.</narr>
+<d who="caroline">CAROLINE
+<desc>(sweet and
+conciliatory)</desc>
+Before we get into a big ugly fight,
+let's take off.</d></scene>
+    <scene>
+<loc int="true">INT. GYM LOBBY</loc>
+<narr><char who="sam">Sam</char>'s practicing her moves and trying out ploys to speak to
+<char who="jake">Jake</char>.</narr>
+<d who="sam">SAM
+<desc>(chirpy,
+cheerful)</desc>
+Hi, <char who="jake">Jake</char>! I'm <char who="sam">Samantha</char>. How's it
+goin'?</d>
+<narr>She doesn't like that.</narr>
+CONTINUED
+60
+CONTINUED
+<d who="sam">SAM
+<desc>(sultry)</desc>
+Got a cigarette?
+<desc>(straight-
+forward)</desc>
+This will seem incredibly dumb,
+<char who="jake">Jake</char>, but I love you and I'll do
+anything to make you love me.
+<desc>(another try)</desc>
+I love your shirt.
+<desc>(a final ploy)</desc>
+<char who="jake">Jake</char>, you're not going to believe
+this, but I had this very weird
+dream and you were in it.</d>
+<narr>She decides on the last remark. She likes it. She feels
+confident. She pats her hair, takes a deep breath, musters
+her courage and walks back into the gym.</narr></scene>
+    <scene>
+<loc int="true">INT. GYM - <char who="jake">JAKE</char></loc>
+<narr>He's at a clothes rack looking for Caroline's coat.</narr></scene>
+    <scene>
+<loc int="true">INT. GYM - <char who="sam">SAM</char></loc>
+<narr>She spies <char who="jake">Jake</char> and nervously moves toward him. She
+rehearses in her head what she's going to say. She raises
+her arm to tap his shoulder. The music stops. He turns
+around with <char who="caroline">Caroline</char>'s blazer and is as shocked to see
+<char who="sam">Sam</char> as she is to see him. He quickly adjusts to the
+situation and puts on his best and sexiest smile. <char who="sam">Sam</char>'s
+courage evaporates, she panics and rather than faint,
+throw up or say something incredibly stupid, she keeps on
+walking. The music starts again. A new tune. <char who="jake">Jake</char> is
+bewildered. The haste with which she departed looks to him
+like rejection.</narr>
+<d who="jake">JAKE
+<desc>(incredulous)</desc>
+She hates me! I gave her all my
+teeth and she blew me off ....</d></scene>
+    <scene>
+<narr><char who="sam">SAM</char>
+She slices through the crowd of kids to the end of the
+bleachers and around behind them. She grabs her head in
+anger and embarrassment.</narr>
+<d who="sam">SAM
+I'm totally retarded! He smiles and
+I spaz. I'm blitzed! I don't
+deserve him.</d>
+</scene>
+    <scene>
+<loc int="true">INT. GYM - <char who="jake">JAKE</char></loc>
+<narr>He helps <char who="caroline">Caroline</char> on with her blazer. He's still cursing
+himself. He looks down the bleachers to try and catch a
+glimpse of <char who="sam">Sam</char>.</narr>
+<d who="caroline">CAROLINE
+Are you blushing?</d>
+<d who="jake">JAKE
+Hell, no. Why would I do that?</d>
+<d who="caroline">CAROLINE
+I don't know. You tell me.</d>
+<d who="jake">JAKE
+Maybe I just need some party action.</d>
+<narr><char who="caroline">Caroline</char> smiles with relief.</narr>
+<d who="caroline">CAROLINE
+Oh, thank God. You're normal again.</d>
+<narr><char who="caroline">Caroline</char> walks on ahead. <char who="jake">Jake</char> rolls his eyes and hangs
+back for one last look at the gym.</narr>
+<d who="jake">JAKE
+<desc>(sighs)</desc>
+I want that girl ....</d></scene>
+    <scene>
+<loc int="true">INT. GYM - BLEACHERS</loc>
+<narr><char who="sam">Sam</char> peeks around the bleachers and sees <char who="jake">Jake</char> and <char who="caroline">Caroline</char>
+leaving.</narr>
+<d who="sam">SAM
+I'm such a faggot. Such a complete
+weasel.</d>
+<narr>She rests her chin on the bleachers and closes her eyes.</narr>
+<d who="sam">SAM
+And I can't believe I gave my panties
+to a geek.</d></scene>
+    <scene>
+<loc int="true">INT. HALLWAY - BOY'S BATHROOM DOOR</loc>
+<narr>A <char who="freshman">Freshman</char> sneaks up to the door and knocks softly. The
+door opens and <char who="cliff">Cliff</char> looks out.</narr>
+<d who="cliff">CLIFF
+What year are you?</d>
+<d who="freshman">FRESHMAN
+Freshman.</d>
+CONTINUED
+62
+CONTINUED
+<d who="cliff">CLIFF
+Gimme a buck.</d>
+<narr>The <char who="freshman">Freshman</char> hands <char who="cliff">Cliff</char> a five. <char who="cliff">Cliff</char> takes a fat wad of
+singles from his pocket and counts out four in change.</narr></scene>
+    <scene>
+<loc int="true">INT. BATHROOM</loc>
+<narr>The bathroom is jammed with shrimpy freshman boys. They're
+all talking excitedly. <char who="bryce">Bryce</char> flashes the lights.</narr>
+<d who="bryce">BRYCE
+Okay, everybody, shut up!</d>
+<narr>The room quiets down.</narr>
+<d who="cliff">CLIFF
+Ted? Go for it, man.</d>
+<narr>A stall door slowly opens and the <char who="geek">Geek</char> steps out. Heraldic
+music comes up. With great drama and showmanship, the <char who="geek">Geek</char>
+holds up <char who="sam">Sam</char>'s tiny, baby blue Garfield the cat panties.
+The freshmen gasp in awe and drop to their knees.</narr></scene>
+    <scene>
+<loc int="true">INT. GYM - SAM</loc>
+<narr>She's putting on her coat. She's had enough. <char who="randy">Randy</char>'s
+hanging on <char who="jimmy">Jimmy</char>. She feels for <char who="sam">Sam</char> and is trying to
+convince her to stay.</narr>
+<d who="randy">RANDY
+Where are you gonna go?</d>
+<d who="sam">SAM
+I'll wait in the car until <char who="dong">Duck Dork</char>
+gets danced out.</d>
+<d who="randy">RANDY
+Don't do that. Stay here with us.</d>
+<d who="sam">SAM
+No. I gotta get outta here before
+anything else terrible happens ..</d>
+<d who="randy">RANDY
+No offense, but what more could happen?</d></scene>
+    <scene>
+<loc int="true">INT. SCHOOL - DARK HALLWAY</loc>
+<narr>It's dark and spooky. We hear the chilling, ominous
+opening bars of the Jaws Theme. A beat and <char who="fred">Grandpa Fred</char>
+peeks around the corner. Then <char who="dorothy">Dorothy</char>, <char who="howard">Howard</char> and <char who="helen">Helen</char>.
+The grandparents are invading the dance!
+<shot dissolve="true">DISSOLVE TO</shot>
+</narr></scene>
+    <scene>
+<loc int="true">INT. OLDSMOBILE</loc>
+<narr><char who="dong">Dong</char>'s driving, <char who="sam">Sam</char>'s in the passenger seat and the
+<char who="lumberjack">Lumberjack</char>'s in the middle, tucked up tight against her new-
+found Korean beau. Dong has his arm around her and is
+driving with one finger. <char who="sam">Sam</char>'s depressed and embarrassed.
+The <char who="lumberjack">Lumberjack</char> turns to <char who="sam">Sam</char> and chucks her on the arm.</narr>
+<d who="lumberjack">LUMBERJACK
+I think I played intermural B-ball
+with you last year. You were the
+one who dribbles like a girl.</d>
+<d who="sam">SAM
+<desc>(forces a smile)</desc>
+That's me.</d>
+<narr>The <char who="lumberjack">Lumberjack</char> nods.</narr>
+<d who="lumberjack">LUMBERJACK
+Hey, listen, thanks for loaning me
+the <char who="dong">Donger</char>. He's bitchin'.</d>
+<d who="sam">SAM
+It's okay, you guys make a great couple.</d>
+<narr>The <char who="lumberjack">Lumberjack</char> looks at <char who="dong">Dong</char>. They exchange loving looks.</narr>
+<d who="dong">DONG
+I never been so more happy in my
+entire whole life.</d>
+<d who="lumberjack">LUMBERJACK
+<desc>(embarrassed)</desc>
+You maniac!</d>
+<d who="dong">DON
+I have now a place to put my hands!</d>
+<narr><char who="sam">Sam</char> rolls her eyes and slumps further down in the seat.
+The <char who="lumberjack">Lunberjack</char> lets out an earthy yelp, as <char who="dong">Dong</char> gooses her.</narr></scene>
+    <scene>
+<loc ext="true">EXT. DRIVE-IN - NIGHT</loc>
+<narr>The Oldsmobile screams into the drive-in at fifty-five mph,
+loc~s up the brakes and skids into a tight spot between two
+other cars, miraculously avoiding them both. <char who="dong">Dong</char> throws
+open his door, banging the car next to him. He yanks the
+<char who="lumberjack">Lumberjack</char> out and they head for the restaurant. Parked
+outside is a motorcycle. <char who="dong">Dong</char> and <char who="lumberjack">Lumberjack</char> admire it.</narr>
+<d who="lumberjack">LUMBERJACK
+Kawasaki.</d>
+<d who="dong">DONG
+You're welcome.</d></scene>
+    <scene>
+<loc ext="true">EXT. CAR</loc>
+<narr><char who="jimmy">Jimmy Montrose</char>'s car pulls in behind the Olds. <char who="randy">Randy</char> gets
+out and hurries to <char who="sam">Sam</char>'s window. <char who="sam">Sam</char> looks up. <char who="randy">Randy</char> leans
+in the window. She's upset.</narr>
+<d who="randy">RANDY
+<char who="sam">Sam</char>? Are you sitting down?</d>
+<narr><char who="sam">Sam</char> looks over at her. Of course she's sitting down.</narr>
+<d who="randy">RANDY
+I don't want to depress you.</d>
+<narr><char who="sam">Sam</char> covers her head and slumps down in the seat.</narr>
+<d who="sam">SAM
+What now?</d></scene>
+    <scene>
+<loc int="true">INT. DRIVE-IN RESTAURANT BATHROOM - LATER</loc>
+<narr><char who="sam">Sam</char>'s mouth is wide open. She's stunned. <char who="randy">Randy</char> feels
+terrible about having to be the bearer of bad news.</narr>
+<d who="randy">RANDY
+Be thankful you got out of there
+before your grandparents showed up.</d>
+<d who="sam">SAM
+<desc>(stunned
+monotone)</desc>
+Oh, my God.</d>
+<d who="randy">RANDY
+It was pretty weird. They told every-
+body baby stories about you.</d>
+<d who="sam">SAM
+Oh, my God.</d>
+<d who="randy">RANDY
+Your <char who="fred">grandfather</char> who always makes
+the shitty jokes hijacked the mike
+and sang some really bizarre songs.</d>
+<d who="sam">SAM
+Oh, my God.</d>
+<d who="randy">RANDY
+The good news is, they pretty much
+trashed the dance. Everybody kind
+of took off like right away.</d>
+CONTINUED
+65
+CONTINUED
+<narr><char who="randy">Randy</char> puts a consoling arm around <char who="sam">Sam</char>. She can't think of
+anything encouraging to say.</narr>
+<d who="sam">SAM
+I'm infected.</d>
+<d who="randy">RANDY
+Just forget about it, okay? Come with
+me and <char who="jimmy">Jimmy</char>. There's a monster party
+over at <char who="jake">Jake Ryan</char>'s.</d>
+<narr><char who="sam">Sam</char> looks at <char who="randy">Randy</char> like she's crazy.</narr>
+<d who="sam">SAM
+I'm sure I'd go over there. For
+what? Hyperhumiliation?</d>
+<d who="randy">RANDY
+You gotta stop torturing yourself.</d>
+<d who="sam">SAM
+I'm not doing anything to me!</d>
+<d who="randy">RANDY
+I mean about <char who="jake">Jake</char>. What you should
+do is go with us, okay? Maybe
+<char who="jake">Jake</char>'ll get shitfaced and act dis-
+gusting and you'll lose interest in
+him. Remember last summer how bad I
+had a crush on that guy from Maine?
+I had a hard-on every waking minute
+until he puked on my feet. For the
+rest of the summer, everytime I saw
+him I gagged.</d>
+<d who="sam">SAM
+I think <char who="jake">Jake</char> could puke anywhere on
+me and it wouldn't bother me.</d>
+<d who="randy">RANDY
+I don't know, <char who="sam">Sam</char>. It's pretty
+valid. I thought I'd die for this
+guy but when it came right down to
+it, my feet were more important.</d>
+<narr><char who="sam">Sam</char> shakes her head no.</narr>
+<d who="sam">SAM
+No, thanks.
+<desc>(sniffles)</desc>
+I can't believe I have to go to a
+wedding tomorrow. You know how many
+times I'm going to have to smile?
+I'll probably get a facial hernia.</d>
+CONTINUED
+66
+CONTINUED
+<narr>The bathroom door slams open and the Lumberjack clomps in.</narr>
+<d who="lumberjack">LUMBERJACK
+Hi, dudes.</d>
+<narr><char who="randy">Randy</char> and <char who="sam">Sam</char> wave. <char who="lumberjack">Lumberjack</char> goes into a stall. <char who="sam">Sam</char>
+jumps down off the sink. <char who="randy">Randy</char> gives her a hug.</narr>
+<d who="randy">RANDY
+If you want some company, I'll tell
+<char who="jimmy">Jimmy</char> I just got my period.</d>
+<d who="sam">SAM
+It's okay. I'm fine.</d>
+<narr><char who="randy">Randy</char> kissess her cheek. She starts to leave. From the
+stall we hear the <char who="lumberjack">Lumberjack</char> going. It sounds like a
+horse. <char who="randy">Randy</char> and <char who="sam">Sam</char> exchange puzzled glances. They bend
+over and look under the stall.</narr></scene>
+    <scene>
+<narr>THEIR <shot pov="true">POINT OF VIEW - THE <char who="lumberjack">LUMBERJACK</char>'S HIGHTOPS</shot>
+are in front of the toilet, pointing in. She's going
+standing up.</narr>
+<loc ext="true">EXT. DRIVE-IN</loc>
+<narr><char who="dong">Dong</char> is still looking at the bike. He climbs on it. Pre-
+tends to drive it. As he dismounts, he kicks the engine
+over. The bike flies into the parking lot.</narr>
+<loc ext="true">EXT. DRIVE-IN - DOOR</loc>
+<narr>The meanest-looking <char who="biker">biker</char> in the world comes out with his
+old lady on his arm. He sees his bike in a heap in the
+parking lot.</narr></scene>
+    <scene>
+<loc int="true">INT. COUNTRY CLUB DINING ROOM - SAME TIME</loc>
+<narr>It's very stately and sedate. <char who="jim">Jim</char> and <char who="brenda">Brenda</char>, <char who="ginny">Ginny</char> and
+her fiance, <char who="rudy">Rudy</char> and his parents, <char who="bruno">Bruno</char> and <char who="irene">Irene</char> have
+finished dinner and are enjoying after-dinner drinks. <char who="bruno">Bruno</char>
+looks like a retired prize fighter. He's wearing a black
+polyester leisure suit with white stitching, an egg yellow
+silk shirt, a gold nugget on a chain and a massive diamond
+pinkie ring. <char who="irene">Irene</char>'s wearing a dress fit for a madame.
+Her bleached pink/blonde hair is styled in a fashion that
+would shame a country singer. They are a bellowing
+contrast to the blue blazers and monogram blouses of the
+members. Between puffs on his Havana, <char who="bruno">Bruno</char> explains to a
+nervous and worried <char who="jim">Jim</char>, what business he's in.</narr>
+CONTINUED
+67
+CONTINUED
+<d who="bruno">BRUNO
+Basically, <char who="jimmy">Jimmy</char>, my business is
+video game arcades, laundry,
+cigarette machines and trucking.
+I dabble a little in personal
+loans and politics.</d>
+<d who="jim">JIM
+<desc>(changing
+the subject)</desc>
+Well, all that matters is that the
+kids are happy together.</d>
+<d who="irene">IRENE
+Just so long as my beautiful boy
+remembers that marrying this one ...
+<desc>(jerks her
+thumb to
+Ginny)</desc>
+... means he's out of the 'Girl-of-
+the-Month-Club.'</d>
+<narr>She chuckles.</narr>
+<d who="rudy">RUDY
+I can still look, I just can't touch.
+<desc>(to Ginny)</desc>
+Right?</d>
+<narr>She forces a smile.</narr></scene>
+    <scene>
+<loc ext="true">EXT. <char who="jake">JAKE</char>'S HOUSE</loc>
+<narr>A million dollars of contemporary field stone and glass on a
+wooded. acre. Cars are jammed up in the driveway, on the
+lawn, in the woods. Elegant streams of toilet paper hang
+from the trees. Every light in the house is on. Windows
+are open, music is blasting.</narr></scene>
+    <scene>
+<loc int="true">INT. KITCHEN</loc>
+<narr>A magnificent cook's kitchen. A thoroughly raped refrigerator/
+freezer is empty and open. There are bottles and cans covering
+every inch of available space. Drunk kids are weaving in and
+out, kissing, shouting, fighting. One bemused youth is trying
+to put out a fire in the oven. He pops a beer can, drinks some,
+pours some on the fire, drinks the rest. Pops another.
+<char who="caroline">Caroline</char> staggers in.</narr>
+<d who="caroline">CAROLINE
+<desc>(drunk)</desc>
+Has anybody seen <char who="jake">Jake</char>?</d>
+CONTINUED
+68
+CONTINUED
+<d who="kid">KID
+Who's <char who="jake">Jake</char>?</d>
+<d who="caroline">CAROLINE
+This is his house, asshole!</d></scene>
+    <scene>
+<loc int="true">INT. LIVING ROOM</loc>
+<narr><char who="jake">Jake</char>'s parent's vacation videos are playing on the giant
+screen. Kids are howling at the home movies. The room's a
+disaster. People are piled on the furniture, pizza boxes
+are overturned on silk Orientals. Two boys are dancing
+with each other. A drunken hulk is eating a raw slab of
+sirloin. A drunk sick kid is sitting on a chair with a
+Ming vase between his knees. <char who="caroline">Caroline</char> weaves in.</narr>
+<d who="caroline">CAROLINE
+You people are huge pigs! Look at
+what you've done to <char who="jake">Jake</char>'s house!</d>
+<narr>She steps up on a coffee table and looks around for <char who="jake">Jake</char>.</narr>
+<d who="caroline">CAROLINE
+<char who="jake">Jakey</char>!</d></scene><scene>
+<loc int="true">INT. INDOOR POOL AREA</loc>
+<narr>All the pool furniture is in the pool along with a bunch of
+rude, wild kids, clothed, semiclothed and nude. They're
+beating the water as one of them stands on the side,
+pouring liquid dish detergent in the water to make a huge
+bubble bath of the pool. <char who="caroline">Caroline</char> stumbles in.</narr>
+<d who="caroline">CAROLINE
+<char who="jake">Jake</char>!
+<desc>(sees the
+bubbles)</desc>
+Outrageous! I love bubble baths!</d></scene>
+    <scene>
+<loc int="true">INT. BEDROOM WING</loc>
+<narr>A drunk <char who="girl">Girl</char> in panties and bra is talking to a drunk <char who="guy">guy</char>.</narr>
+<d who="girl">GIRL
+Okay, Okay ... is this what you
+want?</d>
+<narr>She unfastens her bra and flashes the <char who="guy">guy</char>. He nods yes.
+She closes the bra.</narr>
+<d who="girl">GIRL
+That's not what you want.</d>
+CONTINUED
+69
+CONTINUED
+<narr><char who="caroline">Caroline</char> wanders past yelling for <char who="jake">Jake</char>.</narr>
+<d who="caroline">CAROLINE
+<char who="jake">Jake</char>! Goddamnit!</d>
+<narr>A bedroom door opens and <char who="tracy">Tracy</char> and <char who="robin">Robin</char> come out wearing
+<char who="jake">Jake</char>'s mother's furs. They grab <char who="caroline">Caroline</char>.</narr>
+<d who="tracy">TRACY
+These coats are so excellent! Can we
+have 'em?</d>
+<d who="robin">ROBIN
+I'll be your best friend forever,
+even when I'm dead.</d>
+<d who="caroline">CAROLINE
+I think <char who="jake">Jake</char>'s mom might freak out
+if you ripped off her coats.</d>
+<d who="tracy">TRACY
+She won't mind, I swear to God.</d>
+<d who="caroline">CAROLINE
+Are you sure?</d>
+<d who="tracy">TRACY
+Cross my heart.</d>
+<d who="caroline">CAROLINE
+Okay. But you gotta tell me where
+<char who="jake">Jake</char> is.</d>
+<narr><char who="tracy">Tracy</char> and <char who="robin">Robin</char> points feebly down the hall.</narr>
+<d who="caroline">CAROLINE
+Tell me truthfully. Is he with somebody?</d></scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - <char who="samantha">SAMANTHA</char>'S YEARBOOK PICTURE</shot>
+A typical sweet-smile pose. A boy's finger traces down the
+page to her name.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S ROOM</loc>
+<narr>In contrast to his guests, <char who="jake">Jake</char>'s sober. He closes the
+yearbook and tosses it on his bed. He picks up the phone
+and dials information.</narr>
+CONTINUED
+70
+CONTINUED
+<d who="jake">JAKE
+<desc>(to the phone)</desc>
+Can I have the number of a <char who="sam">Samantha
+Baker</char> in Northfield? If she doesn't
+have a phone number can you give me
+all the Bakers or do I have to call
+back? It's im ...
+<desc>(repeats after
+the operator)</desc>
+555-1740. Thanks.</d>
+<narr>He hangs up and writes the number down. He picks up the
+phone and dials. He unconsciously fixes his hair. He
+clears his throat.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="sam">SAM</char>'S HOUSE - THIRD FLOOR BEDROOM</loc>
+<narr><char who="sam">Sam</char>'s phone rings in the darkened bedroom. It rings and
+rings. Finally <char who="dorothy">Dorothy</char> stirs.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S ROOM</loc>
+<narr>He's growing impatient.</narr>
+<d who="jake">JAKE
+Damn! Come on, answer.</d></scene>
+    <scene>
+<loc int="true">INT. <char who="sam">SAM</char>'S BEDROOM</loc>
+<narr><char who="dorothy">Dorothy</char> feels around for the phone. It rings a couple more
+times before she picks it up.</narr></scene>
+    <scene>
+<loc int="true">INT. JAKE'S ROOM</loc>
+<narr>He gives up.</narr>
+<d who="jake">JAKE
+Aw, fuck me!</d>
+<narr>He slams the phone down.</narr></scene>
+    <scene>
+<loc int="true">INT. SAM'S ROOM</loc>
+<narr><char who="dorothy">Dorothy</char> sits up in bed with the phone to her ear, staring
+quizzically. <char who="howard">Howard</char> sits up.</narr>
+CONTINUED
+71
+CONTINUED
+<d who="howard">HOWARD
+Who is it?</d>
+<narr><char who="dorothy">Dorothy</char>'s too shocked to answer.</narr>
+<d who="howard">HOWARD
+What did they want?</d>
+<d who="dorothy">DOROTHY
+<desc>(looks at
+Howard)</desc>
+Sex.</d></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S ROOM</loc>
+<narr>He puts the phone back and curses.</narr>
+<d who="jake">JAKE
+Shit!</d>
+<narr>There's a knock on his door.</narr>
+<d who="caroline" os="true">CAROLINE (O.C.)
+<char who="jake">Jake</char>? Are you hiding?</d>
+<narr>He reaches out and unlocks the door. <char who="caroline">Caroline</char> falls into
+the room. She lays on her back, laughing. <char who="jake">Jake</char> is
+unamused.</narr>
+<d who="caroline">CAROLINE
+I fell!</d>
+<d who="jake">JAKE
+It's that funny, huh?</d>
+<d who="caroline">CAROLINE
+How come the door was locked?</d>
+<d who="jake">JAKE
+You're shitfaced!</d>
+<d who="caroline">CAROLINE
+Nooo!</d>
+<narr>She cracks herself up again. <char who="jake">Jake</char> stands.</narr>
+<d who="jake">JAKE
+Did you make sure nobody else got in
+the house?</d>
+CONTINUED
+72
+CONTINUED
+<narr><char who="caroline">Caroline</char> sits up on her elbows and nods.</narr>
+<d who="jake">JAKE
+Good. Is the house demolished?</d>
+<narr><char who="caroline">Caroline</char> looks at him for a moment, fighting off a smile.
+Finally she snorts and lets out a horse laugh. <char who="jake">Jake</char> jumps
+up and tears out of the room.</narr>
+<d who="caroline">CAROLINE
+He's grounded for the next twenty-
+five thousand years.</d>
+<narr>She collapses with laughter.</narr></scene>
+    <scene>
+<loc ext="true">EXT. SAM'S HOUSE - NIGHT</loc>
+<narr>The Oldsmobile races up, locks brakes and skids into the curb.
+The passenger door opens and <char who="sam">Sam</char> gets out. The Olds squeals
+away. <char who="sam">Sam</char> watches it disappear into the night.</narr>
+<d who="sam">SAM
+The Donger's in town five hours and
+he's got somebody. I live here all
+my life and I'm like a disease.</d></scene>
+    <scene>
+<loc ext="true">EXT. HOUSE - FRONT DOOR</loc>
+<narr><char who="sam">Sam</char> reaches into the mailbox for the house key. As she
+opens the door it occurs to her, that the family may be
+planning to surprise her.</narr>
+<narr>She opens the door quietly and slips in.</narr></scene>
+    <scene>
+<loc int="true">INT. FOYER</loc>
+<narr><char who="sam">Sam</char> closes the door softly. She's smiling, thinking she
+has it all figured out. She takes off her jacket and
+tiptoes into the living room.</narr></scene>
+    <scene>
+<loc int="true">INT. LIVING ROOM</loc>
+<narr><char who="sam">Sam</char> looks around the dark room. She turns on a light and
+braces herself for the big surprise. Nothing. Sitting
+on the couch is a neat stack of bedding -- sheets, blanket
+and pillow. Another unconscious, unintentional jab at Sam's
+lonely heart. Everyone in the house is asleep.</narr>
+CONTINUED
+73
+CONTINUED
+<d who="sam">SAM
+<desc>(sadly)</desc>
+This is just excellent.</d>
+<narr>She walks to the couch and knocks over the pile of bedding.
+She grabs a sheet and throws it open.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S HOUSE - LIVING ROOM</loc>
+<narr><char who="jake">Jake</char> stands in the midst of the riot going on in his parent's
+house. He's resigned to it and the consequences he knows
+he'll have to face. <char who="caroline">Caroline</char> comes up into frame, crawling
+up his body as he stands stiff and tall. She snakes her
+arms around his neck.</narr>
+<d who="caroline">CAROLINE
+You're the only one at the party
+who isn't having a party. Don't you
+like to party anymore?</d>
+<narr>He looks at her passively.
+He plants his hand squarely on her face and gives her a
+gentle shove. She keels over and crashes to the floor.</narr>
+    </scene>
+    <scene>
+<loc ext="true">EXT. <char who="jake">JAKE</char>'S HOUSE'</loc>
+<narr>The Oldsmobile roars up the.driveway with a flat tire. It
+rams straight into a parked car. <char who="dong">Dong</char> and the Lumberjack
+climb out. The drive-in tray is still attached to the car
+window. A beat and the back door opens and the <char who="biker">biker</char> and
+his old lady get out and saunter up to the house.</narr></scene>
+    <scene>
+<loc int="true">INT. HOUSE - <char who="jake">JAKE</char>'S ROOM</loc>
+<narr>He's dialing <char who="sam">Sam</char>'s number again. He waits as it rings.</narr></scene>
+    <scene>
+<loc int="true">INT. HALLWAY OUTSIDE HIS ROOM</loc>
+<narr><char who="caroline">Caroline</char> crawls up the hall.</narr>
+<d who="caroline">CAROLINE
+<char who="jake">Jake</char>? Sweetie pie? I love you.
+Where are you, <char who="jake">Jake</char>?</d>
+<narr>She stops at his door and looks in.</narr>
+<d who="caroline">CAROLINE
+<char who="jake">Jakey</char>? Have you stopped loving me?</d></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S ROOM</loc>
+<narr>He angrily kicks his door shut.</narr></scene>
+    <scene>
+<loc int="true">INT. HALLWAY - <shot close="true">CLOSEUP - <char who="caroline">CAROLINE</char></shot></loc>
+<narr><char who="caroline">Caroline</char>'s nose is half an inch from the closed door. She
+sighs and turns to crawl back to the party. She discovers
+that her hair's stuck in the door. She tugs. No good.
+She knocks.</narr>
+<d who="jake" os="true">JAKE (O.C.)
+Get outta here!</d>
+<d who="caroline">CAROLINE
+I can't, honey, sweetie, asshole.</d>
+<narr><char who="robin">Robin</char> and <char who="tracy">Tracy</char> stagger up the hall, still wearing the coats.</narr>
+<d who="caroline">CAROLINE
+<char who="tracy">Trace</char>? Can you help me?</d>
+<d who="tracy">TRACY
+What's wrong?</d>
+<d who="caroline">CAROLINE
+Several things.</d>
+</scene>
+    <scene>
+<loc int="true">INT. <char who="sam">SAM</char>'S ROOM</loc>
+<narr><char who="dorothy">Dorothy</char> and <char who="howard">Howard</char> sit up again. <char who="howard">Howard</char> grabs the phone.</narr>
+<d who="howard">HOWARD
+Hello!</d></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S ROOM</loc>
+<narr>He's shocked at the angry greeting. He looks at the number
+he's written down. We can hear <char who="howard">Howard</char> yelling over the
+phone.</narr>
+<d who="howard"><char who="howard">HOWARD</char>'S VOICE
+Who is this?! I know you're there!
+I can hear you breathing!</d>
+<loc int="true">INT. <char who="jake">JAKE</char>'S ROOM</loc>
+<narr><char who="jake">Jake</char> swallows hard, summons his courage and speaks to
+<char who="howard">Howard</char>.</narr>
+<d who="jake">JAKE
+Yes. Hello, sir. I wonder if you
+could be so kind as to tell me if I
+am indeed reaching the party I wish
+to reach.</d>
+CONTINUED
+75
+CONTINUED
+<d who="howard">HOWARD'S VOICE
+Are you the little bugger who's been
+calling here and hanging up?</d>
+<d who="jake">JAKE
+That must have been some other
+little bugger, sir. I've been at
+church. Would this possibly be the
+home of a <char who="sam">Miss Samantha Baker</char>? And
+if so, sir, may I converse with her
+briefly?</d>
+<d who="howard">HOWARD'S VOICE
+Yes it is and no you may not.</d>
+<d who="jake">JAKE
+Might I leave a message?</d>
+<loc int="true">INT. <char who="sam">SAM</char>'S ROOM</loc>
+<narr><char who="howard">Howard</char> covers the phone.</narr>
+<d who="howard">HOWARD
+He wants to leave a message for <char who="sam">Sam</char>.</d>
+<d who="dorothy">DOROTHY
+Give me that phone.</d>
+<narr><char who="howard">Howard</char> turns the phone over to <char who="dorothy">Dorothy</char>.</narr>
+<d who="dorothy">DOROTHY
+Now you listen to me, mister. God
+didn't put me on this earth to be
+awakened with filthy suggestions
+from a rude-mouth hooligan like you.
+As for our granddaughter, she has
+more than enough sense to stay clear
+of the likes of you. Good night and
+good-bye!</d>
+<narr>She slams the phone down and looks at <char who="howard">Howard</char>.</narr>
+<d who="dorothy">DOROTHY
+It's a good thing <char who="sam">Sam</char> has us, <char who="howard">Howard</char>.</d>
+<d who="howard">HOWARD
+Even if she doesn't always appreciate
+us.</d>
+<narr><char who="dorothy">Dorothy</char> gives <char who="howard">Howard</char> a peck on the cheek. He turns off the
+light.</narr></scene>
+    <scene>
+<loc ext="true">EXT. STREET</loc>
+<narr>The <char who="geek">Geek</char>, <char who="bryce">Bryce</char> and <char who="cliff">Cliff</char> are walking up <char who="jake">Jake</char>'s driveway.
+<char who="bryce">Bryce</char>'s beeper goes off.</narr>
+<d who="bryce">BRYCE
+Shit! That's my mom. I gotta get
+home.</d>
+<d who="geek">GEEK
+Change your frequency, okay? Don't
+be such a wimp. This is a great
+social opportunity for us.</d>
+<d who="cliff">CLIFF
+We'll get pounded if we go to a
+senior party.</d>
+<d who="geek">GEEK
+Hey, we've got seventy bucks and a
+pair of girl's underwear. We're
+safe as kittens.</d>
+<narr><char who="bryce">Bryce</char> takes off his beeper and fiddles with it.</narr>
+<d who="bryce">BRYCE
+I changed my frequency when we saw
+Flock of Seagulls and I got grounded
+for a month.</d>
+<narr>A car load of kids flies by.</narr></scene>
+    <scene>
+<loc ext="true">EXT. <char who="jake">JAKE</char>'S HOUSE - FRONT DOOR</loc>
+<narr>The <char who="geek">Geek</char>, <char who="bryce">Bryce</char> and <char who="cliff">Cliff</char> reach the front door. They're
+bubbling with excitement at being moments from an out of
+control senior party.</narr>
+<d who="geek">GEEK
+Don't embarrass me, okay?</d>
+<d who="bryce">BRYCE
+For sure, we won't.</d>
+<d who="geek">GEEK
+Be polite to his parents.</d>
+<narr>The <char who="geek">Geek</char> rings the bell. A beat and it opens. A very
+drunk and silly <char who="dong">Dong</char> looks out.</narr>
+<d who="dong">DONG
+Come on in and party hearty dude
+persons.</d></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S HOUSE - DINING ROOM - WINDOW SEAT</loc>
+<narr>The <char who="biker">biker</char> is sitting on the window seat with his thirty-
+fifth beer in his paw. He's drunk and sullen. A bombed
+but still perky girl <char who="megan">Megan</char>, is trying to make conversation.
+She's apparently oblivious to his dangerous look.</narr>
+<d who="megan">MEGAN
+So, what school do you go to?</d>
+<narr>The <char who="biker">biker</char> looks at her through half-closed lids.</narr>
+<d who="megan">MEGAN
+<desc>(fast)</desc>
+If I had to guess I'd say St. Anthony's
+'cause all the guys there are like
+totally into the leather and metal
+thing.</d>
+<narr>The <char who="biker">biker</char> holds his incredulous stare and curls an angry
+lip revealing a horrifying mouthful of decayed teeth.</narr>
+<d who="megan">MEGAN
+<desc>(fast)</desc>
+I don't mean to be obnoxious but
+you really should consider an
+orthodonist. My orthodonist is
+the best. He's amazingly gorgeous
+and he doesn't have hairy hands. It
+is so gross to have disgusting
+hairy men's hands in your mouth,
+and ....</d>
+<narr>The <char who="biker">biker</char> puts his cigarette out in his mouth, momentarily
+silencing the girl.</narr>
+<d who="megan">MEGAN
+Didn't that hurt?</d>
+<narr>We move off the <char who="biker">biker</char> to his old lady sitting next to him.
+She's drinking a bottle of beer. There's a jock sitting
+next to her. He's checking her out. She looks at him. He
+raises a seductive eyebrow. She pushes the bottle into her
+mouth and twists it slowly back and forth in an even more
+seductive gesture. The jock's eyes light up. He smiles.
+The <char who="biker">biker</char>'s old lady leans forward. The jock leans forward
+to meet her. The <char who="biker">biker</char>'s old lady bites the end off the
+bottle and chews the glass. The jock's face register's
+total fear. He backs away.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S HOUSE - LIVING ROOM</loc>
+<narr>The light are low, make-out time. Bodies are spread
+across the furniture and the floor. A soft core porno
+picture is playing on the big screen TV. A piece of hurled
+pizza slaps the screen and sticks on the image of a naked
+female rump.</narr></scene>
+    <scene>
+<loc int="true">INT. LIVING ROOM - COUCH</loc>
+<narr>The <char who="geek">Geek</char>, <char who="cliff">Cliff</char> and <char who="cliff">Bryce</char> sit on either side of <char who="rock">Rock</char>. All
+three are bombed. <char who="rock">Rock</char> motions to the screen with his huge
+hand.</narr>
+<d who="rock">ROCK
+That's <char who="jake">Jake</char>'s parents.</d>
+<narr>The <char who="geek">Geek</char>, <char who="cliff">Cliff</char> and <char who="bryce">Bryce</char> Chinese their eyes.</narr>
+<d who="cliff">CLIFF
+Outrageous!</d>
+<d who="rock">ROCK
+I've seen this thing about ten
+times. You got a video recorder?</d>
+<d who="geek">GEEK
+No.</d>
+<d who="rock">ROCK
+You got parents?</d>
+<d who="geek">GEEK
+Sure.</d>
+<d who="rock">ROCK
+You get 'em a video recorder and
+I'll come over.</d>
+<d who="geek">GEEK
+<desc>(flattered)</desc>
+You'd come over to my house?</d>
+<d who="rock">ROCK
+Got anything good to eat?</d>
+<d who="geek">GEEK
+Sure.</d>
+<d who="rock">ROCK
+Okay, after here, we'll go to your
+place.</d>
+<narr>The <char who="geek">Geek</char>'s eyes open wide with terror. He tries to slip
+away. <char who="rock">Rock</char> puts his arm around his neck.</narr>
+CONTINUED
+79
+CONTINUED
+<d who="rock">ROCK
+You know, under normal circumstances,
+I'd pull out your eyes and piss on
+your brain little dude. But since
+you volunteered your house and your
+hospitality, I think I'll let you
+live.
+<desc>(hands him a beer)</desc>
+Anybody offer you a brew?</d>
+<narr>The <char who="geek">Geek</char>nervously takes the beer. He's obviously never
+drunk in his life.</narr>
+<d who="rock">ROCK
+Tip it. First one's free.</d>
+<narr>The <char who="geek">Geek</char> puts the beer to his lips. He closes his eyes and
+throws the can back. He holds the can back, but doesn't
+swallow. He groans and slowly lowers the can. As he takes
+it away from his sickly face we see a soggy cigarette butt
+clenched in his teeth and tobacco sprinkles and ash on his
+lips.</narr>
+<d who="rock">ROCK
+Sap.</d></scene>
+    <scene>
+<loc int="true">INT. HALLWAY OUTSIDE <char who="jake">JAKE</char>'S ROOM</loc>
+<narr>The crowd has decided on a course of action to free
+<char who="caroline">Caroline</char>.</narr>
+<d who="tracy">TRACY
+Okay! Everybody shut up! I have to
+concentrate, okay?</d>
+<narr>She kneels down beside <char who="caroline">Caroline</char>.</narr>
+<d who="tracy">TRACY
+You promise you won't get mad?</d>
+<d who="caroline">CAROLINE
+No. I love you.</d>
+<narr>Her friend produces a pair of kitchen shears.</narr>
+<d who="tracy">TRACY
+Close your eyes.</d>
+<narr><char who="caroline">Caroline</char> closes her eyes and her friend cuts her free.</narr>
+<d who="caroline">CAROLINE
+I don't know how to thank you enough.</d>
+CONTINUED
+80
+CONTINUED
+<narr>She hugs her friend and we see the full extent of the
+damage. One side of her head is long, blonde hair, the
+other is clipped to the ear. The crowd in the hallway lets
+out a spirited cheer.
+<shot dissolve="true">DISSOLVE TO</shot></narr></scene>
+    <scene>
+<loc int="true">INT. SAM'S HOUSE - LIVING ROOM</loc>
+<narr>She's sound asleep. Like an angel.</narr></scene>
+    <scene>
+<loc int="true">INT. PARENT'S ROOM</loc>
+<narr><char who="brenda">Brenda</char>'s asleep. There's an empty spot next to her in the
+bed. Jim's sitting in the window, staring at a family
+portrait.</narr></scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - PORTRAIT</shot>
+It's Jim and Brenda, Mike, Sara, Ginny and Sam.</narr></scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - <char who="jim">JIM</char></shot>
+He smiles at the fond memories the pictures stirs. He leans
+back against the wall and closes his eyes. A beat and he
+slowly opens his eyes. He looks at the picture again. He's
+suddenly very troubled. He looks at the dial of his watch.</narr>
+<d who="jim">JIM
+Oh, Jesus! It's <char who="sam">Sam</char>'s birthday.</d></scene>
+    <scene>
+<loc ext="true">EXT. <char who="jake">JAKE</char>'S HOUSE</loc>
+<narr>The few cars remaining pull out, leaving a trashed lawn and
+an even more trashed house.</narr>
+<loc int="true">INT. <char who="jake">JAKE</char>'S HOUSE - KITCHEN</loc>
+<narr>A mournful blues number plays as we begin a sad tour of the
+revaged house in the kitchen where we see that every edible
+item has been consumed. The cupboards are bare. The
+refrigerator is open and empty. There are cartons, cans
+and rubbish everywhere.</narr>
+<loc int="true">INT. DINING ROOM</loc>
+<narr>The dining room table is completely covered by a pyramid of
+beer cans. The pyramid collapses.</narr>
+<loc int="true">INT. LIVING ROOM</loc>
+<narr>We move around the room to see that a painting that featured
+a face without eyes or a mouth has had eyes and mouth drawn
+in with a marking pen. An ancient mask in a plexi display
+case, lit by a pin spot has cigarettes up its nose and a
+slice of pizza on its forehead. A line of cigarettes have
+been left to burn out on the piano. A record album is
+laying inside a pizza box. We move off the box to find a
+pizza going around on the turntable. We move up to see the
+tape deck has a cassette jammed into it upside down. A
+hundred feet of tape is balled-up in the heads. On the
+ceiling is a big blob of dip with a potato chip stuck in it.
+As we reach <char who="jake">Jake</char>, he's sitting on the couch in the destroyed
+living room. He sighs and pops a beer. He takes a sip.</narr>
+<d who="jake">JAKE
+What a fuckin' disaster.</d>
+<narr>He sets the beer down on the coffee table. He sits back on·
+the couch. A beat and he bolts forward and gawks the coffee
+table.</narr></scene>
+    <scene>
+<narr>HIS <shot pov="true">POINT OF VIEW - THE COFFEE TABLE</shot>
+is a heavy glass cube. <char who="jake">Jake</char> clears aside the rubbish on
+the table top to reveal the <char who="geek">Geek</char>'s desperate, exasperated
+face. He's trapped inside the cube. He's frantic, pounding
+noiselessly on the glass.</narr></scene>
+    <scene>
+<loc int="true">INT. LIVING ROOM</loc>
+<narr><char who="jake">Jake</char> struggles and grunts to overturn the coffee table .. It
+rolls over on one side and the <char who="geek">Geek</char> takes a deep breath of
+fresh air.</narr>
+<d who="jake">JAKE
+<desc>(angry)</desc>
+What were you doing in there!?</d>
+<d who="geek">GEEK
+Watching my life pass before my eyes.</d>
+<narr>The <char who="geek">Geek</char> pulls himself up and flops down on the couch.</narr>
+<d who="geek">GEEK
+<char who="rock">Rock</char> the jock put me inside that thing.</d>
+<d who="jake">JAKE
+What for?</d>
+CONTINUED
+82
+CONTINUED
+<d who="geek">GEEK
+He gave me a choice of that or being
+handcuffed nude to the shopping cart
+return rack at the Jewel. I opted
+for death with dignity.</d>
+<narr><char who="jake">Jake</char> shakes his head in anger.</narr>
+<d who="jake">JAKE
+He's a fucking asshole.</d>
+<d who="geek">GEEK
+I think he could use a little sensi-
+tivity training.</d>
+<narr>The <char who="geek">Geek</char> looks around the room.</narr>
+<d who="geek">GEEK
+Your house got eighty-sixed. I'm
+sorry.</d>
+<d who="jake">JAKE
+Yeah. Third time this year. I'm
+fucked for good.</d>
+<narr>The <char who="geek">Geek</char> nods his agreement.</narr>
+<d who="geek">GEEK
+I'll help you clean up.</d>
+<d who="jake">JAKE
+Don't worry about it. We've got a
+housekeeper.</d></scene>
+    <scene>
+<loc int="true">INT. HOUSEKEEPER'S ROOM</loc>
+<narr>The frail, young Spanish <char who="housekeeper">housekeeper</char> is smoking dope in bed
+with <char who="dong">Dong</char> and the <char who="lumberjack">Lumberjack</char>.</narr>
+<d who="dong">DONG
+<desc>(stoned; drunk)</desc>
+I'm twice as happy as I ever been.</d>
+<d who="housekeeper">HOUSEKEEPER
+Si!</d>
+<d who="dong">DONG
+Hai!</d>
+<d who="lumberjack">LUMBERJACK
+Very!</d>
+</scene>
+    <scene>
+<loc int="true">INT. SAM'S HOUSE - FOYER</loc>
+<narr><char who="jim">Jim</char> creeps quietly down the stairs.</narr></scene>
+    <scene>
+<loc int="true">INT. LIVING ROOM</loc>
+<narr><char who="sam">Sam</char>'s asleep. <char who="jim">Jim</char> walks into the living room. He stops
+and looks at <char who="sam">Sam</char> on the couch. He smiles as he watches her
+sleeping. He steps around to the couch and sits down. He
+hesitates for a moment before he pats her head. He's a man
+not accustomed to intimacy and affection.</narr>
+<d who="jim">JIM
+<desc>(whispers)</desc>
+<char who="sam">Sam</char>? Sweetheart?</d>
+<narr>She stirs and looks up at him.</narr>
+<d who="sam">SAM
+Daddy?</d>
+<d who="jim">JIM
+Hi, kiddo.</d>
+<d who="sam">SAM
+What's wrong?</d>
+<d who="jim">JIM
+Everything's fine. I was just
+upstairs and I couldn't sleep and
+... I feel like a real jerk, honey.
+We forgot your birthday.</d>
+<narr><char who="sam">Sam</char> is pleased that he remembered.</narr>
+<d who="jim">JIM
+You gotta be burned up, huh?</d>
+<narr>Sam smiles understandingly.</narr>
+<d who="sam">SAM
+It's no big thing.</d>
+<d who="jim">JIM
+This family can really foul things
+up.</d>
+<d who="sam">SAM
+It's okay. I'm not all that upset
+anymore.</d>
+CONTINUED
+84
+CONTINUED
+<d who="jim">JIM
+How about a party? Not a family party.
+You have your friends. We'll stay the
+hell away. Whatever you want, honey.
+You let me know. Have it the way you
+want it. The way you want it.</d>
+<narr>She pulls herself up and kisses his cheek.</narr>
+<d who="sam">SAM
+Thanks, <char who="jim">Daddy</char>.</d>
+<d who="jim">JIM
+No problem. Everything else okay?</d>
+<narr><char who="sam">Sam</char> nods. <char who="jim">Jim</char> gives her a wink and a kiss on the forehead.</narr>
+<d who="jim">JIM
+See you in the morning.</d>
+<narr>He stands up and starts for the foyer. <char who="sam">Sam</char> whimpers to him.</narr>
+<d who="sam">SAM
+No.</d>
+<narr>She starts to cry. <char who="jim">Jim</char> turns around.</narr>
+<d who="sam">SAM
+It's not okay.</d>
+<narr><char who="jim">Jim</char> hurries back to the couch. <char who="sam">Sam</char> throws her arms around
+him.</narr>
+<d who="jim">JIM
+What's wrong?</d>
+<d who="sam">SAM
+I don't know. Everything.</d>
+<d who="jim">JIM
+Everything what?</d>
+<narr><char who="sam">Sam</char> sits back on the couch and quickly wipes away her tears.</narr>
+<d who="sam">SAM
+Everything, everything.</d>
+<d who="jim">JIM
+Your birthday?</d>
+<d who="sam">SAM
+No.</d>
+CONTINUED
+85
+CONTINUED
+<narr>She's a little embarrassed to reveal the real reason she's
+crying.</narr>
+<d who="sam">SAM
+There's this boy.</d>
+<d who="jim">JIM
+Oh, Lord. Is this something I
+should go get Mom for?</d>
+<narr><char who="sam">Sam</char> shakes her head.</narr>
+<d who="sam">SAM
+No. I like this boy a real lot.
+And he doesn't like me.</d>
+<d who="jim">JIM
+Are you nice to him?</d>
+<d who="sam">SAM
+Daddy, I don't know. It's really
+stupid. It's not important.</d>
+<d who="jim">JIM
+If you're crying over it, it's
+important.</d>
+<d who="sam">SAM
+I like him so much and I just know I
+can't ever have him.</d>
+<d who="jim">JIM
+Why not?</d>
+<d who="sam">SAM
+Because I'm just a dork.</d>
+<d who="jim">JIM
+A what?</d>
+<d who="sam">SAM
+He's a senior and he's beautiful and
+he's got this great girl friend and
+I'm just blah.</d>
+<d who="jim">JIM
+I don't think you're blah.</d>
+<d who="sam">SAM
+Trust me, I am.</d>
+CONTINUED
+86
+CONTINUED
+<d who="jim">JIM
+Can I tell you a little story?</d>
+<d who="sam">SAM
+About the Navy?</d>
+<d who="jim">JIM
+No, it's a love story.</d>
+<d who="sam">SAM
+Are you in it?</d>
+<narr><char who="jim">Jim</char> nods. As bad as <char who="sam">Sam</char> feels, she cracks up at the
+thought of her father in love.</narr>
+<d who="jim">JIM
+This was awhile ago, I combed my
+hair different, I was young and fit
+and I didn't walk around the house in
+my undershorts. I was in college and
+I was head over heels in love with
+this girl.</d>
+<narr><char who="sam">Sam</char> giggles.</narr>
+<d who="jim">JIM
+Don't hurt my feelings.</d>
+<d who="sam">SAM
+Sorry.</d>
+<d who="jim">JIM
+Anyway, she wouldn't even look at me.
+So I knew that if anything was going
+to happen, I'd have to make the first
+move.</d>
+<d who="sam">SAM
+I just can't picture you making a
+move on a girl.</d>
+<d who="jim">JIM
+Either could I. But after worrying
+about it for a couple of weeks, I
+finally got up the courage to go to
+the sorority house where she lived.
+I let her know I wanted to see her
+and she came down. I wanted to
+faint. She walked over to me and ....</d>
+<d who="sam">SAM
+I think I know how this ends, Dad
+She turned out to be and you
+guys got married and had us.</d>
+CONTINUED
+87
+CONTINUED
+<d who="jim">JIM
+<desc>(shakes his
+head)</desc>
+No. She stomped on my foot so hard,
+she broke two toes. I met your mom
+at the hospital.</d>
+<narr>There's a pause as both <char who="jim">Jim</char> and <char who="sam">Sam</char> realize that his story
+has no relevance to <char who="sam">Sam</char>'s situation.</narr>
+<d who="jim">JIM
+I guess that doesn't help you much,
+huh?</d>
+<d who="sam">SAM
+Not really.</d>
+<d who="jim">JIM
+Yeah. Well, if it's any consolation,
+I love you and if this guy can't see
+in you all the beautiful, wonderful
+things I see, he's got the problem.</d>
+<d who="sam">SAM
+It just hurts.</d>
+<d who="jim">JIM
+That's why they call them crushes. If
+they were easy, they'd call them some-
+thing else.</d>
+<d who="sam">SAM
+If I were <char who="ginny">Ginny</char>, I'd have this guy
+crawling on his knees.</d>
+<d who="jim">JIM
+Let me tell you something about <char who="ginny">Ginny</char>.
+I love her just as much as I love you.
+But she's a different person. I'm a
+little worried about her. When things
+come easy, you don't always appreciate
+them. You, I'm not worried. When it
+happens to you, <char who="sam">Samantha</char>, it'll be
+forever.</d>
+<narr>He leans over and kisses her forehead. He draws her close
+and hugs her. She kisses him and holds him as tight as he
+holds her.</narr>
+<d who="jim">JIM
+I won't be able to sleep unless I
+know I helped you out with this
+little talk, so would you be a sport
+and lie to me?</d>
+<narr><char who="sam">Sam</char> giggles.</narr>
+CONTINUED
+88
+CONTINUED
+<d who="sam">SAM
+Yeah, sure, Daddy.</d>
+<narr><char who="jim">Jim</char> gives her a squeeze and a kiss on the forehead. He
+gets up and crosses to the foyer. He stops and turns back
+to her.</narr>
+<d who="jim">JIM
+One more thing, sweetheart.
+<desc>(pause)</desc>
+Where in the hell are your under-
+shorts?</d></scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - <char who="sam">SAM</char>'S PANTIES</shot>
+A boy's hand carefully examines <char who="sam">Sam</char>'s panties.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S LIVING ROOM</loc>
+<narr>The <char who="geek">Geek</char> is sharing his treasure with <char who="jake">Jake</char>. <char who="jake">Jake</char> regards
+the panties with an almost religious reverence.</narr>
+<d who="jake">JAKE
+These are really hers?</d>
+<narr>The <char who="geek">Geek</char> nods proudly.</narr>
+<d who="jake">JAKE
+Did you pants her or something?</d>
+<d who="geek">GEEK
+She gave them to me.</d>
+<narr><char who="jake">Jake</char> looks curiously at the <char who="geek">Geek</char>.</narr>
+<d who="jake">JAKE
+Did you ... ?</d>
+<narr><char who="jake">Jake</char> hand-signals intercourse.</narr>
+<d who="geek">GEEK
+Oh God, no. She's cranked for you.
+I told her you asked about her and
+she freaked.</d>
+<d who="jake">JAKE
+<desc>(puzzled)</desc>
+Really? She came up to me in the gym
+and just looked at me like I was a leper.</d>
+<narr>The <char who="geek">Geek</char>'s getting off on playing the expert.</narr>
+CONTINUED
+89
+CONTINUED
+<d who="geek">GEEK
+Girls'll do that, <char who="jake">Jake</char>. You see, they
+know guys are like in perpetual heat.
+They know this and they enjoy pumping
+us up. It's pure power politics.</d>
+<d who="jake">JAKE
+I thought she hated my guts.</d>
+<d who="geek">GEEK
+Games, <char who="jake">Jake</char>. Silly, torturous games.
+You know how many times a week I go
+without lunch because some bitch
+borrows my lunch money? Any halfway
+decent girl can rob me because I'm
+too torqued-up to say no. It's
+heinous.</d>
+<d who="jake">JAKE
+You better not be pulling my chain.
+It'd be a major downer to try and
+get together with her and find out
+she really does think I'm a wimp.</d>
+<d who="geek">GEEK
+Look at it this way, what happens to
+me if I bullshit you?</d>
+<d who="jake">JAKE
+<desc>(matter-of-
+factly)</desc>
+I reach down your throat and squeeze
+your heart.</d>
+<d who="geek">GEEK
+Right. So, why would I lie?</d>
+<narr><char who="jake">Jake</char> sits back on the couch and toys with the panties.</narr>
+<d who="geek">GEEK
+<desc>(serious)</desc>
+But I feel compelled to mention that
+if all you want off her is a piece of
+ass, I'll do my best to either do it
+myself or get somebody bigger than me
+to reach down yo~r throat and squeeze
+your heart. Shes an excellent human
+being. Not many girls in contemporary
+American society would give up their
+underwear to help a weenie like me.</d>
+CONTINUED
+90
+CONTINUED
+<d who="jake">JAKE
+I can get a piece of ass anytime I want.
+Shit, I got <char who="caroline">Caroline</char> in my room right
+now, passed out cold. I could violate
+her ten different ways if I wanted.</d>
+<narr>The <char who="geek">Geek</char>'s eyes pop open.</narr>
+<d who="geek">GEEK
+What are you waiting for?</d>
+<d who="jake">JAKE
+I don't know. She's beautiful and
+built and all that but I'm just not
+interested anymore.</d>
+<d who="geek">GEEK
+<desc>(sexy; macho)</desc>
+Does that really matter, guy?</d>
+<d who="jake">JAKE
+Yeah, it matters. She's totally
+insensitive. Look what she did to
+my house. She doesn't know shit
+about love. All she craves is
+party action. I want a serious
+girl friend. Somebody I can talk
+to. Somebody I can love and who'll
+love me back.</d>
+<narr>He's a little embarrassed by his romantic plea.</narr>
+<d who="jake">JAKE
+Does that sound psycho?</d>
+<d who="geek">GEEK
+Oh, hell no. I think a ton of guys
+feel the same way, only they don't
+have the balls to admit it. <char who="sam">Samantha</char>'s
+a major piece of work. She's nice and
+she cares.</d>
+<d who="jake">JAKE
+I'll make a deal with you.
+<desc>(refers to
+the panties)</desc>
+Let me have these and I'll let you
+take <char who="caroline">Caroline</char> home.</d>
+<narr>The <char who="geek">Geek</char>'s mouth drops open.</narr>
+CONTINUED
+91
+CONTINUED
+<d who="jake">JAKE
+She's all yours. Except you have to
+make sure she gets home. You can't
+like just leave her in a parking lot
+or something.</d>
+<narr>The <char who="geek">Geek</char> scratches his head. He can't take the offer.</narr>
+<d who="geek">GEEK
+I'm only a freshman.</d>
+<d who="jake">JAKE
+Hey, she's so blitzed she won't know
+the difference.</d>
+<d who="geek">GEEK
+I mean, don't have a car.</d>
+<d who="jake">JAKE
+Take mine.</d>
+<d who="geek">GEEK
+I don't have a license either.</d>
+<d who="jake">JAKE
+I trust you.</d>
+<narr>The <char who="geek">Geek</char> swallows hard.</narr>
+<d who="geek">GEEK
+I better not.</d>
+<d who="jake">JAKE
+You're sure?</d>
+<d who="geek">GEEK
+Yeah. I'm sure.</d></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S GARAGE</loc>
+<narr><char who="jake">Jake</char> and the <char who="geek">Geek</char> carry <char who="caroline">Caroline</char> out of the house. <char who="jake">Jake</char>
+has her under the arms. The <char who="geek">Geek</char> has her feet. She giggles
+as they carry her to <char who="jake">Jake</char>'s father's Rolls Royce. <char who="jake">Jake</char>
+balances her on his knee and opens the front passenger
+door.</narr>
+<d who="geek">GEEK
+This is your car?</d>
+<d who="jake">JAKE
+It's my dad's. You said you couldn't
+drive stick.</d>
+CONTINUED
+92
+CONTINUED
+<d who="geek">GEEK
+It's a fucking Rolls Royce!</d>
+<d who="jake">JAKE
+So?</d>
+<d who="geek">GEEK
+So?! I heard that the grill alone
+lists out for like five grand. I
+don't have five grand.</d>
+<d who="jake">JAKE
+Then don't hit anything.</d>
+<narr><char who="jake">Jake</char> drops <char who="caroline">Caroline</char> on the seat. He takes her feet from
+the <char who="geek">Geek</char> and shoves her in. He plants her feet in the
+footwells and pulls her skirt down. He thinks better of
+it and looks at the <char who="geek">Geek</char>.</narr>
+<d who="jake">JAKE
+<desc>(referring to
+the skirt)</desc>
+Up or down?</d>
+<narr>The <char who="geek">Geek</char> flashes a look at <char who="caroline">Caroline</char>.
+<shot pov="true"><char who="geek">GEEK</char>'S POINT OF VIEW</shot>
+<char who="caroline">Caroline</char>'s best party panties and two perfect thighs.</narr>
+<d who="geek">GEEK
+<desc>(embarrassed)</desc>
+Um ... you can leave it up.</d>
+<narr>He pulls her skirt up.</narr>
+<d who="jake">JAKE
+Go for it, stud.</d>
+<narr>He hands the <char who="geek">Geek</char> the car keys. The <char who="geek">Geek</char> walks around to
+the driver's side and gets in. He crosses himself and
+starts the engine. <char who="caroline">Caroline</char> rolls her head over to the
+<char who="geek">Geek</char>. Then she looks back at <char who="jake">Jake</char>.</narr>
+<d who="caroline">CAROLINE
+<desc>(referring to
+the <char who="geek">Geek</char>)</desc>
+Who's that?</d>
+CONTINUED
+93
+CONTINUED
+<d who="jake">JAKE
+That's me.</d>
+<d who="caroline">CAROLINE
+Who are you?</d>
+<d who="jake">JAKE
+<desc>(points to
+the Geek)</desc>
+I'm him.</d>
+<d who="caroline">CAROLINE
+<desc>(confused
+but convinced)</desc>
+Oh, okay.</d>
+<narr><char who="jake">Jake</char> leans in and gives the <char who="geek">Geek</char> the okay sign.</narr>
+<d who="jake">JAKE
+She's totally gone. Have fun.</d>
+<narr>He backs away from the car as the <char who="geek">Geek</char> puts it in reverse.</narr></scene>
+    <scene>
+<loc ext="true">EXT. <char who="jake">JAKE</char>'S HOUSE</loc>
+<narr>The Rolls crawls out of the garage. The radio goes on.
+The Rolls pulls ahead making a broad, graceless circle and
+heads slowly down the driveway.</narr>
+<loc ext="true">EXT. <char who="jake">JAKE</char>'S HOUSE</loc>
+<narr>He walks out of the garage and watches the Rolls head down
+the drive. he breaths a weary sigh and heads back to the
+house. We hear the rustle of tree branches then a familiar.
+voice.</narr>
+<d who="dong" os="true">DONG (O.C.)
+<desc>(sexy coo)</desc>
+Oh, sexy girl friend ... !</d>
+<narr><char who="jake">Jake</char> stops dead in his tracks. He looks left, then right.
+Then overhead.
+<shot pov="true">JAKE'S POINT OF VIEW</shot>
+Dong leaps from a tree branch. His pants are cinched to
+his head with his belt, like an Indian headdress.</narr>
+<d who="dong">DONG
+Banzai!</d></scene>
+    <scene>
+<loc ext="true">EXT. ROLLS</loc>
+<narr>It cruises slowly down a residential street.</narr></scene>
+    <scene>
+<loc int="true">INT. ROLLS</loc>
+<narr>The <char who="geek">Geek</char>'s driving with both hands firmly on the wheel.
+He's as nervous as a cat in a hailstorm. <char who="caroline">Caroline</char> is next
+to him, drunk, out of control and obnoxiously playful.
+Music's blasting. The <char who="geek">Geeker</char>'s in way over his head.</narr>
+<d who="geek">GEEK
+Can we turn the music down, please?
+I'm a first time driver. I need
+to concentrate.</d>
+<narr><char who="caroline">Caroline</char> reaches over and honks the horn.</narr>
+<d who="geek">GEEK
+Cut it out!</d>
+<narr>She turns on the windshield washers. The <char who="geek">Geek</char> struggles to
+turn them off. She hits the convertable top switch and it
+starts to go up.</narr>
+<d who="geek">GEEK
+Knock it off! You're going to get
+us in serious trouble!</d>
+<narr><char who="caroline">Caroline</char> pops open a can of beer and tries to feed it to
+the <char who="geek">Geek</char>.</narr>
+<d who="caroline">CAROLINE
+Chug-a-lug, pooh bear.</d>
+<narr>He takes it from her throws it out the window. The car
+phone rings. <char who="caroline">Caroline</char> grabs it.</narr>
+<d who="caroline">CAROLINE
+Hello?</d>
+<narr>The <char who="geek">Geek</char> takes it away from her. She pops another beer.</narr>
+<d who="geek">GEEK
+<desc>(into the
+phone)</desc>
+Wrong number.</d>
+<narr>As he hangs up the phone, <char who="caroline">Caroline</char> puts the beer up on the
+dash and digs a birth control dispenser out of her purse.
+She holds it up to his face. He pushes it away from
+without recognizing it.</narr>
+CONTINUED
+95
+CONTINUED
+<d who="caroline">CAROLINE
+This is my Christmas present to you.</d>
+<narr>She takes one of the pills out and holds it in his face.</narr>
+<d who="caroline">CAROLINE
+See?</d>
+<d who="geek">GEEK
+Yes. Thank you.</d>
+<narr>He takes the pill and pops it in his mouth. <char who="caroline">Caroline</char> lets
+out a sharp laugh.</narr>
+<d who="caroline">CAROLINE
+Now we're both on the pill!</d>
+<narr>The <char who="geek">Geek</char> looks at her with horror. He frantically spits
+the pill out the window.</narr>
+<d who="geek">GEEK
+You gave me a birth control pill?!
+Do you have any idea what estrogen
+can do to a guy my age?!</d>
+<d who="caroline">CAROLINE
+I know exactly what it does to a
+girl my age.</d>
+<narr>She slides over next to the <char who="geek">Geek</char> and purrs in his ear.</narr>
+<d who="caroline">CAROLINE
+It makes it okay to be really super
+careless.</d>
+<narr><char who="caroline">Caroline</char> throws a huge kiss on the <char who="geek">Geek</char>, completely
+obliterating his view of the road.</narr></scene>
+    <scene>
+<loc ext="true">EXT. ROLLS</loc>
+<narr>It jumps a curb and rides twenty feet with two wheels on
+the grass. It rams a big plastic garbage can and jerks back
+into the street. The can sticks under the car, making a
+terrible racket.</narr></scene>
+    <scene>
+<loc int="true">INT. CAR</loc>
+<narr><char who="caroline">Caroline</char> drops her head in the <char who="geek">Geek</char>'s lap. His eyes dart
+back and forth between the road and his lap and <char who="caroline">Caroline</char>.
+His concerns about getting in trouble wilt in the heat of
+<char who="caroline">Caroline</char>'s passion.</narr>
+CONTINUED
+96
+CONTINUED
+<d who="geek">GEEK
+This is so unreal!</d>
+<d who="caroline" os="true">CAROLINE (O.C.)
+<char who="jake">Jakey</char>, you've been so cold to me.</d>
+<d who="geek">GEEK
+<desc>(firmly, manly)</desc>
+Not anymore, woman.</d>
+<loc ext="true">EXT. STREET</loc>
+<narr>The Rolls peels away into the night.</narr></scene>
+    <scene>
+<loc ext="true">EXT. HOUSE - FRONT BEDROOM WINDOW</loc>
+<narr>The <char who="geek">Geek</char> creeps through the bushes to the window. He looks
+around and knocks on the glass.</narr>
+<loc int="true">INT. <char who="cliff">CLIFF</char>'S BEDROOM</loc>
+<narr>The bedroom is jammed with computer hardware. A monitor is
+glowing with a three-dimensional representation of a pair
+of human brains. A printer is clicking away as it receives
+an overseas transmission from his Egyptian Dungeons and
+Dragons partner. Shelves are burdened with manuals,
+software, stacks of print-outs and precision tools. The
+walls are decorated with erotic print-outs -- women in
+compromising positions done in "e's", "a's" and "x's".
+<char who="cliff">Cliff</char> is sleeping in a single bed. He's wearing a black
+vinyl headband fitted with electrodes to scan and record
+the activity of his sleeping brain. He is connected to the
+computer and to his friend, <char who="bryce">Bryce</char>, who is similarly out-
+fitted and is asleep on the floor next to <char who="cliff">Cliff's</char> bed in
+a sleeping bag. <char who="cliff">Cliff</char> and <char who="bryce">Bryce</char> hear the <char who="geek">Geek</char>'s insistant
+raps on the window. They both sit up.</narr>
+<loc ext="true">EXT. HOUSE - WINDOW</loc>
+<narr>The <char who="geek">Geek</char> knocks again. The window opens and <char who="bryce">Bryce</char> and
+<char who="cliff">Cliff</char> look out. They're still wearing their head gear.</narr>
+CONTINUED
+97
+CONTINUED
+<d who="cliff">CLIFF
+<char who="ted">Ted</char>! What the hell are you doing?</d>
+<d who="bryce">BRYCE
+Oh, shit! Is that humongous jock
+after you?</d>
+<d who="geek">GEEK
+Do you have any film in your camera?</d>
+<d who="cliff">CLIFF
+Huh?</d>
+<d who="geek">GEEK
+Do you have any fucking film in your
+asshole camera, moron?!</d>
+<d who="cliff">CLIFF
+What for?</d>
+<d who="geek">GEEK
+Just get your camera and come out in
+front and hurry it up!</d>
+<d who="cliff">CLIFF
+UFO?</d>
+<d who="geek">GEEK
+Better!</d>
+<narr>The <char who="geek">Geek</char> hurries away.</narr>
+<d who="bryce">BRYCE
+Extra-terrestrial?</d>
+<narr>The <char who="geek">Geek</char> yells back, O.C.</narr>
+<d who="geek">GEEK
+Better!</d>
+<narr><char who="cliff">Cliff</char> and <char who="bryce">Bryce</char> look at each other.</narr>
+<d who="cliff">CLIFF &amp; BRYCE
+Female extra-terrestrial!</d></scene>
+    <scene>
+<loc ext="true">EXT. <char who="cliff">CLIFF</char>'S HOUSE - FRONT PORCH - LATER</loc>
+<narr>The front door opens and <char who="cliff">Cliff</char> and <char who="bryce">Bryce</char> come out in
+their underwear and at-shirts. <char who="cliff">Cliff</char>'s carrying a
+Polaroid camera. He carefully closes the front door.
+They turn and stop dead in their tracks. Their mouths
+drop open.</narr></scene>
+<scene>
+<narr>HIS <shot pov="true">POINT OF VIEW - THE ROLLS</shot>
+is parked in front of his house with the top down. The
+<char who="geek">Geek</char> waves him on.</narr></scene>
+    <scene>
+<loc ext="true">EXT. STREET</loc>
+<narr>The <char who="geek">Geek</char> directs <char who="cliff">Cliff</char> around to the front of the car.
+<char who="cliff">Cliff</char>'s dumbfounded.</narr>
+<d who="cliff">CLIFF
+<desc>(amazed)</desc>
+This is a fucking Rolls Royce! She's
+the fucking Prom Queen! You got
+two fucking girls in one night!</d>
+<d who="geek">GEEK
+I told you I was hot, twerp.</d>
+<d who="cliff">CLIFF
+Hot? You're a legend!</d>
+<d who="geek">GEEK
+Okay, great. I am. Now, hurry it
+up! I'm breaking about thirty major
+laws.</d>
+<d who="cliff">CLIFF
+Nobody's going to believe you.</d>
+<d who="geek">GEEK
+That's what the picture's for,
+fuzz nuts!</d>
+<narr>The <char who="geek">Geek</char> hurries around to the driver's side. <char who="cliff">Cliff</char>
+fumbles with the camera. The <char who="geek">Geek</char> gets in and puts his
+arm around <char who="caroline">Caroline</char>. She snuggles up to him.</narr>
+<d who="geek">GEEK
+Smile, pumpkin.</d>
+<narr>She lifts her head and offers a drunken smile. Flash!</narr></scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - PHOTOGRAPH</shot>
+The fully developed Polaroid picture of the <char who="geek">Geek</char> and
+<char who="caroline">Caroline</char>. His eyes are closed. She's smiling and waving.</narr></scene>
+    <scene>
+<loc ext="true">EXT. <char who="sam">SAM'S</char> HOUSE</loc>
+<narr>A Jeep CJ roars up to the house and stops. <char who="dong">Dong</char> flies out
+of the door and lands with a thud! on the lawn. His pants
+are still on his head. The <char who="lumberjack">Lumberjack</char> leans out.</narr>
+CONTINUED
+99
+CONTINUED
+<d who="lumberjack">LUMBERJACK
+Hey, <char who="dong">Dong</char> man, you made me feel
+like a woman. Way to fuckin' go.</d>
+<narr>She squeals away. <char who="dong">Dong</char> lifts his weary head and reveals a
+punched-up face and broken glasses.</narr>
+<d who="dong">DONG
+What an exciting country!</d>
+<narr>He passes out on the lawn.
+<shot dissolve="true">DISSOLVE TO</shot></narr></scene>
+    <scene>
+<loc ext="true">EXT. <char who="sam">SAM</char>'S HOUSE - MORNING</loc>
+<narr>The sun's coming up behind the house. An alarm clock goes
+off. <char who="ginny">Ginny</char> shrieks.</narr>
+<d who="ginny">GINNY
+Mother!</d></scene>
+    <scene>
+<loc int="true">INT. HOUSE - SECOND FLOOR HALLWAY</loc>
+<narr><char who="brenda">Brenda</char> hurries out of her room. <char who="jim">Jim</char> comes out after her.</narr>
+<d who="jim">JIM
+Great! She's not in the shower?</d>
+<narr><char who="brenda">Brenda</char> gives him a dirty look and goes into <char who="ginny">Ginny</char>'s room.
+<char who="jim">Jim</char> crosses to the bathroom, thinking he's got it all to
+himself. <char who="mike">Mike</char> comes out of his room.</narr>
+<d who="mike">MIKE
+Dad? I wouldn't go in there if I
+were you. <char who="fred">Grandpa Fred</char> was in there
+for about a half an hour. It's totally
+polluted.</d>
+<d who="jim">JIM
+Just get dressed.</d>
+<d who="mike">MIKE
+It's your nose.</d>
+<narr><char who="mike">Mike</char> closes his door. <char who="jim">Jim</char> opens the bathroom door. A beat
+and he slams it shut.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="ginny">GINNY</char>'S ROOM</loc>
+<narr>She's laying on her bed. Brenda's sitting next to her.</narr>
+<d who="brenda">BRENDA
+<desc>(fondly)</desc>
+You've got the good, old-fashioned
+bridal jitters.</d>
+<d who="ginny">GINNY
+<desc>(looks at her
+like she's nuts)</desc>
+I've got cramps that would bring
+tears to a bull elephant.</d>
+<d who="brenda">BRENDA
+You'll be all right. I want you to
+do me a favor. Wish <char who="sam">Sam</char> a happy
+birthday.</d>
+<narr><char who="ginny">Ginny</char> looks at <char who="brenda">Brenda</char> like she's crazy.</narr>
+<d who="ginny">GINNY
+Don't toy with me, mother!</d>
+<d who="brenda">BRENDA
+It was yesterday. We all forgot.</d>
+<d who="ginny">GINNY
+For Christ's sake. It's not fatal.</d></scene>
+    <scene>
+<loc int="true">INT. HOUSE - KITCHEN</loc>
+<narr>The two grandmothers are trying to make breakfast together.
+They're as crabby as everyone else. They're in their house-
+coats. <char who="dorothy">Dorothy</char> is annoyed that <char who="helen">Helen</char>'s smoking while she
+cooks. <char who="howard">Howard</char>'s on the wall phone.</narr>
+<d who="howard">HOWARD
+Thank you. We'll wait for word from
+you.</d>
+<narr><char who="fred">Fred</char> comes in from the backyard with his nine iron. He's
+been out taking a few practice swings. <char who="howard">Howard</char> hangs up
+the phone.</narr>
+<d who="howard">HOWARD
+The police haven't seen hide nor
+hair of <char who="dong">Long Duk Dong.</char></d>
+CONTINUED
+101
+CONTINUED
+<d who="fred">FRED
+Maybe he drove back to Korea. Your
+car's not here either.</d>
+<narr><char who="howard">Howard</char> chokes. <char who="dorothy">Dorothy</char> drops an egg.</narr></scene>
+    <scene>
+<loc int="true">INT. LIVING ROOM</loc>
+<narr><char who="sam">Sam</char> walks out of the living room and into the foyer with
+the blanket draped over her shoulders. She starts up the
+stairs. <char who="brenda">Brenda</char> comes down the stairs. She stops as she
+sees <char who="sam">Sam</char>. She's upset.</narr>
+<d who="brenda">BRENDA
+Oh, <char who="sam">Sam</char> ....</d>
+<narr><char who="sam">Sam</char> looks up at <char who="brenda">Brenda</char>, puzzled by her concerned tone of
+voice.</narr>
+<d who="brenda">BRENDA
+I feel just terrible. I don't know
+how it happened. I was so busy ...
+Sweetheart, I'm sorry. About your
+birthday. We all are. Daddy said
+he talked to you.</d>
+<d who="sam">SAM
+It's okay. I'll recover.</d>
+<d who="brenda">BRENDA
+I don't know what to say, darling.</d>
+<d who="sam">SAM
+Don't say anything. It's fine.</d>
+<d who="brenda">BRENDA
+<desc>(on the verge
+of tears)</desc>
+I want to say something. It was
+important to you. Yesterday
+morning, you were trying to tell
+me ....</d>
+<narr>She sniffles. <char who="sam">Sam</char> walks up a step and embraces <char who="brenda">Brenda</char>.
+She comforts her mother.</narr>
+CONTINUED
+102
+CONTINUED
+<d who="sam">SAM
+It's okay, Mom.</d>
+<d who="brenda">BRENDA
+Honey, I just feel miserable.</d>
+<d who="sam">SAM
+You'll feel better.</d>
+<narr><char who="sara">Sara</char> comes up the stairs. She stops to watch <char who="brenda">Brenda</char> and
+<char who="sam">Sam</char> hugging.</narr>
+<d who="sarah">SARAH
+Who died?</d>
+<narr><char who="brenda">Brenda</char> breaks the embrace and wipes away a tear.</narr>
+<d who="brenda">BRENDA
+Do you have something you want to
+say to your sister?</d>
+<d who="sarah">SARAH
+What? Are you kidding?</d>
+<narr><char who="brenda">Brenda</char>'s annoyed at <char who="sara">Sara</char>'s wise-ass misinterpretation of
+what she means.</narr>
+<d who="brenda">BRENDA
+I mean about her birthday. It was
+yesterday. We forgot.</d>
+<narr><char who="sara">Sara</char> lets out a horse laugh.</narr>
+<d who="sara">SARA
+Classic!</d>
+<narr>She continues up the stairs.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="sam">SAM</char>'S ROOM</loc>
+<narr>She climbs the stairs to her room. She reaches the top and
+drops her blanket. She groans and covers her face.</narr></scene>
+    <scene>
+<narr>HER <shot pov="true">POINT OF VIEW - <char who="howard">HOWARD</char></shot>
+has set his suitcase down on top of her albums. Samsonite
+feet on the virgin vinyl.</narr></scene>
+    <scene>
+<narr><char who="sam">SAM</char>
+She sits down on the top stair and covers her face with her
+hands.</narr>
+CONTINUED
+103
+CONTINUED
+<d who="sam">SAM
+Old people should be shot. I swear to
+God, I can't go through with this shit
+anymore.</d>
+<d who="mike" os="true">MIKE (O.C.)
+I see London, I see Marakesh, I see
+real live beaver flesh!</d>
+<narr><char who="sam">Sam</char> looks down the stairs in horror.</narr>
+<d who="sam">SAM
+You asshole!</d></scene>
+    <scene>
+<loc int="true">INT. SECOND FLOOR HALLWAY</loc>
+<narr><char who="mike">Mike</char> turns from the door to the third floor stairs.</narr>
+<d who="mike">MIKE
+<char who="sam">Sam</char> just called me an asshole.</d>
+<narr><char who="jim">Jim</char> passes on his way to the other bathroom.</narr>
+<d who="jim">JIM
+She calls 'em like she sees 'em,
+sport.</d>
+<d who="mike">MIKE
+Why don't you get on her case, Dad?
+Did you know she lost Grandpa's
+alien.</d>
+<d who="jim">JIM
+God bless her.</d>
+<narr><char who="jim">Jim</char> goes into the bathroom.</narr>
+<d who="mike">MIKE
+<desc>(shrugs in
+agreement)</desc>
+Good point.</d></scene>
+    <scene>
+<loc int="true">INT. <char who="sam">SAM</char>'S ROOM</loc>
+<narr>She's curled up on her bed, talking on the phone.</narr>
+<d who="sam">SAM
+I can't even describe what a total
+bummer this is going to be. I have to
+go to the wedding and look like Miss
+Pretty Princess in this dipshit
+bridesmaid dress. I don't have
+one-tenth the bod to fill the stupid
+bust up. Should I just waste myself
+and spare the agony?</d></scene>
+    <scene>
+<loc>INT. <char who="randy">RANDY</char>'S BEDROOM</loc>
+<narr>She's sitting on her bed in T-shirt and panties listening
+sympathetically.</narr>
+<d who="randy">RANDY
+I'm so bummed out to hear all this.
+I was going to tell you something
+but maybe I shouldn't. It's pretty
+bad.</d></scene>
+    <scene>
+<loc int="true">INT. <char who="sam">SAM</char>'S ROOM</loc>
+<d who="sam">SAM
+You may as well. Nothing could
+shock me anymore.</d></scene>
+    <scene>
+<loc int="true">INT. RANDY'S ROOM</loc>
+<d who="randy">RANDY
+Last night at the dance my little
+brother paid a buck to see your
+underwear.</d>
+<narr>She pulls the phone from her ear as <char who="sam">Sam</char> screams.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="sam">SAM</char>'S HOUSE - KITCHEN</loc>
+<narr>The grandparents are eating. From the third floor we hear
+<char who="sam">Sam</char> shriek. The grandparents look up from the breakfasts.</narr>
+<d who="howard">HOWARD
+Jesus, I hate that rock'n roll crap!</d>
+<d who="fred">FRED
+I'm afraid it's here to stay, Howie.</d></scene>
+    <scene>
+<loc int="true">EXT. SAM'S HOUSE - BACK DOOR - LATER</loc>
+<narr>The family comes out dressed for the wedding. The men are
+wearing morning coats. The only one who's rented clothes
+fit properly is <char who="fred">Fred</char>.</narr>
+<d who="fred">FRED
+<desc>(to Howard
+and Jim)</desc>
+You know what your tuxedos have in
+common with a cheap hotel?</d>
+<narr><char who="jim">Jim</char> and <char who="howard">Howard</char> look at him wearily.</narr>
+CONTINUED
+105
+CONTINUED
+<d who="jim">JIM &amp; HOWARD
+No ball room.</d>
+<d who="fred">FRED
+Aw, you heard that one.</d>
+<narr><char who="sam">Sam</char>'s sullen and annoyed. She's in a dress. <char who="ginny">Ginny</char>'s in
+jeans, clutching her stomach. <char who="brenda">Brenda</char>'s in a simple outfit,
+carrying the wedding dress.</narr>
+<d who="ginny">GINNY
+Mom, I swear to God, I'm growing an
+alien creature in my stomach!</d>
+<d who="mike">MIKE
+I hope it· lays eggs.</d>
+<d who="jim">JIM
+Shut your mouth.</d>
+<narr><char who="jim">Jim</char> slams the door and locks the deadbolt.</narr>
+<d who="howard">HOWARD
+Where the hell is that son of a
+bitch neo-Communist gook with my
+car?!</d>
+<d who="jim">JIM
+<desc>(to <char who="brenda">Brenda</char>)</desc>
+You take the kids, I'll take the old
+folks.</d>
+<d who="fred">FRED
+Who're you calling old?</d>
+<d who="jim">JIM
+You, <char who="fred">Fred</char>!</d>
+<narr><char who="brenda">Brenda</char> and the girls hurry to the garage and <char who="brenda">Brenda</char>'s car.
+<char who="jim">Jim</char> shuffles along with the old people.</narr></scene>
+    <scene>
+<loc ext="true">EXT. PARKWAY</loc>
+<narr><char who="dong">Dong</char>'s laying in a heap on the grass. A dog is sniffing
+his head. It makes a circle and raises its leg. <char who="brenda">Brenda</char>'s
+car pulls out and speeds away. The dog pulls a large bra
+out of <char who="dong">Dong</char>'s hip pocket and runs off with it.</narr></scene>
+    <scene>
+<loc ext="true">EXT. HOUSE</loc>
+<narr><char who="jim">Jim's</char> Buick shoots out the drive.</narr></scene>
+    <scene>
+<loc int="true">INT. CAR</loc>
+<narr><char who="fred">Fred</char> notices <char who="dong">Dong</char> out the window. He points and laughs.</narr>
+<d who="fred">FRED
+Hey, <char who="howard">Howard</char>! There's your Chinaman!</d>
+<narr><char who="howard">Howard</char> and <char who="dorothy">Dorothy</char> crane their necks. <char who="dorothy">Dorothy</char> screams.
+<char who="mike">Mike</char> laughs.</narr></scene>
+    <scene>
+<loc ext="true">EXT. STREET</loc>
+<narr><char who="jim">Jim</char> slams on the brakes. The car doors open and everybody
+piles out. They run to <char who="dong">Dong</char> and shoo the dogs away.</narr>
+<d who="dorothy">DOROTHY
+<char who="howard">Howard</char>! He's dead!</d>
+<d who="jim">JIM
+Aw, shit! I'm paying three grand
+for a wedding I'll never see!</d>
+<d who="fred">FRED
+<desc>(makes a face)</desc>
+Holy doodle! Smells like he drowned
+in dog juice!</d>
+<narr><char who="howard">Howard</char> kneels down and cautiously touches <char who="dong">Dong</char>.</narr>
+<d who="howard">HOWARD
+<char who="dong">Dong</char>?
+<desc>(sigh of relief,
+to the others)</desc>
+Thank God! He's still warm.</d>
+<narr>He rolls him over. <char who="dong">Dong</char> opens one eye. The other is
+swollen shut. He's still drunk and silly.</narr>
+<d who="dong">DONG
+No more yanky my wanky! The <char who="dong">Donger</char>
+need food!</d>
+<narr><char who="howard">Howard</char> looks up at <char who="dorothy">Dorothy</char>. <char who="fred">Fred</char> howls with laughter.</narr>
+CONTINUED
+107
+CONTINUED
+<d who="fred">FRED
+Why he's plotzed! Bombed right out
+of his noodle!</d>
+<d who="howard">HOWARD
+<desc>(to Fred)</desc>
+Shut up, <char who="fred">Fred</char>!
+<desc>(to <char who="dong">Dong</char>, firm)</desc>
+<char who="dong">Dong</char>! Where's my automobile?</d>
+<narr><char who="dong">Dong</char> giggles.</narr>
+<d who="dong">DONG
+<desc>(acts out
+driving the
+car into a
+lake)</desc>
+Lake!</d>
+<d who="dorothy">DOROTHY
+Why, you little scuz bag!</d>
+<narr>Sweet, kind <char who="dorothy">Dorothy</char> draws her leg back and kicks <char who="dong">Dong</char> in the
+groin.</narr></scene>
+    <scene>
+<loc ext="true">EXT. CHURCH</loc>
+<narr><char who="brenda">Brenda</char> helps <char who="ginny">Ginny</char> down the church steps. <char who="sam">Sam</char> and <char who="sara">Sara</char>
+trail behind. The church <char who="organist">Organist</char> comes out the door to
+greet them. She's a portly woman in her sixties.</narr>
+<d who="organist">ORGANIST
+Oh, my! Is everything all right? I
+was afraid you'd had an accident.</d>
+<d who="ginny">GINNY
+I wish.</d>
+<d who="brenda">BRENDA
+Her monthly bill came early.</d>
+<d who="sara">SARA
+What monthly bill? You said her egg
+factory went berserk.</d>
+<narr><char who="brenda">Brenda</char> steps in front of <char who="sara">Sara</char> to shut her up.</narr>
+<d who="brenda">BRENDA
+She's fine. She took a muscle
+relaxer.</d>
+<d who="ginny">GINNY
+Try three.</d>
+CONTINUED
+108
+CONTINUED
+<d who="brenda">BRENDA
+You didn't!</d>
+<d who="ginny">GINNY
+Mother, I'm not in pain. I'm in
+hell.</d>
+<narr>The <char who="organist">Organist</char>'s eyes open wide at the mention of hell.</narr></scene>
+    <scene>
+<loc ext="true">EXT. PARKING LOT ACROSS FROM THE CHURCH - SAME TIME</loc>
+<narr><char who="jim">Jim</char>'s car pulls up alongside the Rolls Royce. The grand-
+parents, <char who="jim">Jim</char> and <char who="mike">Mike</char> get out. <char who="fred">Fred</char>'s still chuckling.
+<char who="howard">Howard</char> helps <char who="dorothy">Dorothy</char>. She's limping. We hold on the Rolls.</narr></scene>
+    <scene>
+<loc int="true">INT. ROLLS - BACKSEAT</loc>
+<narr>The top's down and <char who="caroline">Caroline</char> is asleep in the <char who="geek">Geek</char>'s arms.
+Somehow, during his night of wild fun, he's remembered to
+put on his orthodonic headgear. A modest bird dropping is
+splattered on one of his eyeglass lenses. There's a lip-
+stick mark on his forehead. <char who="caroline">Caroline</char> snuggles against
+his chest. She plants a sleepy kiss on his chest and opens
+her eyes. Half her hair is missing from the night before.</narr>
+<d who="caroline">CAROLINE
+You're so warm.</d>
+<narr>She scoots up a bit and kisses his lips. He snores. She
+rears back from him.</narr>
+<d who="caroline">CAROLINE
+<char who="jake">Jake</char>?</d>
+<narr>She squints.</narr>
+<d who="caroline">CAROLINE
+<desc>(baffled)</desc>
+He turned into a digithead?</d>
+<narr>She sits up, dazed and confused. She rubs her throbbing
+head. She reaches into her lap, lifts a buttock and removes
+the <char who="geek">Geek</char>'s hand. She leans back over him and studies his
+face. She holds his cheeks and turns his head back and forth.</narr>
+<d who="caroline">CAROLINE
+This is totally weird.</d>
+<narr>The <char who="geek">Geek</char> moans softly and puts his arm around her. <char who="caroline">Caroline</char>
+opens her purse. It's stuffed full of the hair her friend
+cut off the night before, she studies it for a moment and
+recognizes it as her own. She feels the uncut side then the
+bare side. If she weren't so baffled she'd scream.</narr></scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - GINNY</shot>
+She looks gorgeous. The prettiest bride in the world. A
+beat and a silly, stoned smile breaks across her face. Her
+eyes slowly cross.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - ANTEROOM</loc>
+<narr><char who="brenda">Brenda</char>'s holding <char who="ginny">Ginny</char> up as <char who="sam">Sam</char> puts shoes on her. The
+painkiller's have kicked in.</narr>
+<d who="ginny">GINNY
+<desc>(giggles)</desc>
+Jesus Christ! Do I feel funky!</d>
+<d who="sara">SARA
+Mom? Are you still married even if
+you don't remember what happened at
+your wedding?</d>
+<narr>The <char who="organist">Organist</char> opens the door and looks in.</narr>
+<d who="organist">ORGANIST
+Is everything okay?</d>
+<d who="ginny">GINNY
+Aces to the max, munchkin.</d>
+<d who="brenda">BRENDA
+<desc>(embarrassed)</desc>
+We'll be ready in a moment.</d>
+<d who="organist">ORGANIST
+I can't find the groom.</d>
+<narr><char who="ginny">Ginny</char> lets out a titter.</narr>
+<d who="ginny">GINNY
+Cruise the bars. That's where I
+found him.</d></scene>
+    <scene>
+<loc int="true">INT. ROLLS - BACKSEAT</loc>
+<narr>The <char who="geek">Geek</char>'s still sleeping. <char who="caroline">Caroline</char> gently slaps his face.</narr>
+<d who="caroline">CAROLINE
+You wanna wake up, please?</d>
+<narr>The <char who="geek">Geek</char> stirs and opens his eyes. He looks around in
+bewilderment until he orients himself. He sits up with a
+start.</narr>
+CONTINUED
+110
+CONTINUED
+<d who="geek">GEEK
+Where am I?</d>
+<d who="caroline">CAROLINE
+I'll tell you where you are if you
+tell me who you are.</d>
+<narr>The <char who="geek">Geek</char> peels off his headgear.</narr>
+<d who="geek">GEEK
+I'm Farmer Ted.</d>
+<d who="caroline">CAROLINE
+You're in a parking lot.</d>
+<narr>He cranes his neck and looks out of the car.</narr>
+<d who="geek">GEEK
+What happened?</d>
+<d who="caroline">CAROLINE
+Got me, junior.</d>
+<narr>He notices that half her hair's missing.</narr>
+<d who="geek">GEEK
+Did I do that?</d>
+<d who="caroline">CAROLINE
+At this point, anything's possible.</d>
+<narr>The <char who="geek">Geek</char> scratches his head -- a faint memory comes to mind.</narr>
+<d who="geek">GEEK
+Did we ... ?</d>
+<d who="caroline">CAROLINE
+I'm pretty sure.</d>
+<d who="geek">GEEK
+Did I ... enjoy it?
+<desc>(answers his
+own questions)</desc>
+What am I? Nuts? Of course I did.
+I had to.
+<desc>(pause)</desc>
+Did you?</d>
+<narr><char who="caroline">Caroline</char> thinks for a troubled moment.</narr>
+<d who="caroline">CAROLINE
+You know, I have this weird feeling
+I did.</d></scene>
+    <scene>
+<loc int="true">INT. CHURCH - ANTEROOM</loc>
+<narr><char who="brenda">Brenda</char>'s walking <char who="ginny">Ginny</char> up and down, trying to get her to
+drink coffee.</narr>
+<d who="brenda">BRENDA
+This is ridiculous! <char who="ginny">Ginny</char>!</d>
+<narr><char who="ginny">Ginny</char> looks at <char who="brenda">Brenda</char> with woeful, sleepy eyes. <char who="sam">Sam</char> and
+<char who="sara">Sara</char> watch from a window bench.</narr>
+<d who="sam">SAM
+The family has definitely gone into
+a new orbit.</d>
+<d who="sara">SARA
+Yeah. It's kind of scary. I have
+to live with them another ten years.</d>
+<d who="sam">SAM
+Does my dress look wretched?</d>
+<narr><char who="sara">Sara</char> studies it, concentrating on the bust.</narr>
+<d who="sara">SARA
+You could use some carrots.</d>
+<d who="sam">SAM
+If I stuff Kleenex down my front,
+will you tell everybody in the world?</d>
+<d who="sara">SARA
+Just boys.</d>
+<narr><char who="sam">Sam</char> curls her lip. She pushes in on one of her boobs. The
+cup caves in.</narr>
+<d who="sam">SAM
+Excellent, huh? Nothing ever goes
+right for me. I'm cursed.</d></scene>
+    <scene>
+<loc ext="true">EXT. <char who="sam">SAM</char>'S HOUSE</loc>
+<narr><char who="jake">Jake</char>'s Porsche is parked out in front. He's at the front
+door.</narr></scene>
+    <scene>
+<loc ext="true">EXT. HOUSE - FRONT PORCH</loc>
+<narr><char who="jake">Jake</char> rings the bell. Inside we hear horrible moaning and
+groaning and animal-like bellowing. <char who="jake">Jake</char> peeks in the side
+door windows.</narr></scene>
+    <scene>
+<loc int="true">INT. FOYER</loc>
+<narr><char who="dong">Dong</char> limps in wearing <char who="brenda">Brenda</char>'s pink bathrobe and boxer
+shorts. He's holding two cold cans of Coke to his
+temples. He's walking bow-legged. He has a black eye.</narr>
+<d who="dong">DONG
+Mwaaa. Let me die. Mwaaaa.</d>
+<narr>He moves the cans to the groin injury he sustained when
+<char who="dorothy">Dorothy</char> kicked him.</narr></scene>
+    <scene>
+<loc ext="true">EXT. PORCH</loc>
+<narr><char who="dong">Dong</char> opens the door. <char who="jake">Jake</char> is startled to see him. <char who="dong">Dong</char> is
+even more startled. He screams and slams the door closed.</narr>
+<d who="dong" os="true">DONG (O.C.)
+Eek! I call police! F.B.I. !
+Go away!</d>
+<d who="jake">JAKE
+Open the door!</d>
+<d who="dong" os="true">DONG (O.C .. )
+No way Jose! You beat up my face!</d>
+<narr><char who="jake">Jake</char> leans down and yells into the mail chute.</narr>
+<d who="jake">JAKE
+You jumped me and squeezed my nuts!</d>
+<narr><char who="jake">Jake</char> steps back as <char who="dong">Dong</char> opens the door.</narr>
+<d who="dong">DONG
+<desc>(surprised)</desc>
+That you?!
+<desc>(apologetic)</desc>
+So sorry. I thought it new American
+girl friend.</d>
+<d who="jake">JAKE
+<desc>(impatient)</desc>
+Forget it, okay? Just get <char who="sam">Samantha</char>.</d>
+<d who="dong">DONG
+She not here.</d>
+<d who="jake">JAKE
+Don't jerk me around. Where is she?</d>
+CONTINUED
+113
+CONTINUED
+<d who="dong">DONG
+She get married.</d>
+<d who="jake">JAKE
+What?!</d>
+<d who="dong">DONG
+She at church. She get married to
+oily Bohunk.</d>
+<narr><char who="jake">Jake</char> turns from the door, puzzled and bewildered.</narr>
+<d who="jake">JAKE
+Married?</d></scene>
+    <scene>
+<loc int="true">INT. CHURCH - LOBBY</loc>
+<narr>Guests are filing in. <char who="mike">Mike</char> is an usher. A conservatively
+dressed couple walks in.</narr>
+<d who="mike">MIKE
+Guests of the bride or the groom?</d>
+<d who="man">MAN
+Bride.</d>
+<narr><char who="mike">Mike</char> points down the aisle.</narr>
+<d who="mike">MIKE
+To your left, sir.</d>
+<narr>A wildly dressed couple walks in. <char who="mike">Mike</char> looks them up and
+down and deduces from their clothing that they're guests of
+the groom.</narr>
+<d who="mike">MIKE
+Friends of the groom, right?</d></scene>
+    <scene>
+<loc int="true">INT. CHURCH - ANTEROOM</loc>
+<narr><char who="brenda">Brenda</char>'s straightening <char who="ginny">Ginny</char>'s dress. She has her propped
+against the wall. <char who="sam">Sam</char> and <char who="sara">Sara</char> are waiting patiently with
+their bouquets.</narr>
+<d who="brenda">BRENDA
+You're sure you're all right, sweetie?</d>
+<narr><char who="ginny">Ginny</char> nods, yes.</narr>
+<d who="ginny">GINNY
+It's gonna be a piece of cake, <char who="brenda">Bren</char>'.</d>
+CONTINUED
+114
+CONTINUED
+<d who="sam">SAM
+<desc>(sincere and warm)</desc>
+<char who="ginny">Ginny</char>? I want to tell you something
+just in case you pass out. I'm
+really happy for you. I'm sorry if
+I've been kind of a jerk lately.</d>
+<d who="ginny">GINNY
+<desc>(slurry and high)</desc>
+Hey, screw it, honey. I love you
+like a sister.</d>
+<d who="sam">SAM
+I know you'll have a great marriage.</d>
+<narr>She leans over and kisses <char who="ginny">Ginny</char>. <char who="ginny">Ginny</char> smiles and keels
+over backwards.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - LOBBY</loc>
+<narr><char who="jim">Jim</char> waits nervously for the music cue and the bride. In
+the adjacent room, we hear a loud thud! The organ comes up
+with the first bars of "The Wedding March." <char who="jim">Jim</char> rushes to
+the door of the anteroom and opens it. Inside we see
+<char who="brenda">Brenda</char> helping a dazed <char who="ginny">Ginny</char> to her feet.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH</loc>
+<narr>The <char who="organist">Organist</char> stops playing and listens, along with everyone
+else, to <char who="jim">Jim</char> and <char who="brenda">Brenda</char>.</narr>
+<d who="jim">JIM
+I don't care what she has! Look at
+her!</d>
+<d who="brenda">BRENDA
+Would you please be quiet?! We
+don't have to announce to everybody
+that she has her period!</d></scene>
+    <scene>
+<loc int="true">INT. CHURCH -<char who="reverend"> REVEREND</char> <char who="rudy">RUDY</char></loc>
+<narr>They exchange embarrassed smiles. Behind them, the
+organist pokes her head out of the organ chamber window.</narr>
+<d who="groom">GROOM
+I guess the guys who thought we had
+to get married feel pretty stupid
+right about now, huh, padre?</d>
+<narr>The <char who="reverend">Reverend</char> nods politely.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - LOBBY</loc>
+<narr><char who="brenda">Brenda</char> helps <char who="ginny">Ginny</char> onto <char who="jim">Jim</char>'s arm. He supports her.
+<char who="brenda">Brenda</char> hurries down the aisle, apologizing as she runs.
+She takes her seat. <char who="sam">Sam</char> and <char who="sara">Sara</char> pick up <char who="ginny">Ginny</char>'s train.
+<char who="jim">Jim</char> starts down the aisle with <char who="ginny">Ginny</char>.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH</loc>
+<narr><char who="ginny">Ginny</char> flashes stoned smiles as she shuffles down the aisle.</narr>
+<d who="ginny">GINNY
+<desc>(whispers)</desc>
+How's it goin'? I hope none of
+you guys got me woks.</d>
+<narr><char who="jim">Jim</char> squeezes her arm. She shuts up. They pass a woman with
+a feathered hat and <char who="ginny">Ginny</char> can't resist batting the feather.</narr></scene>
+    <scene>
+<loc ext="true">EXT. PARKING LOT - ROLLS</loc>
+<narr><char who="caroline">Caroline</char> and the <char who="geek">Geek</char> are chatting amicably. There's a
+hint of tenderness in the conversation.</narr>
+<d who="caroline">CAROLINE
+You were awfully nice to me. I must
+have been mucho obnoxioso.</d>
+<d who="geek">GEEK
+You bit me.</d>
+<d who="caroline">CAROLINE
+I'm sorry.</d>
+<d who="geek">GEEK
+It's okay. I guess last night was
+just about the best night of my life.
+Now and probably the future, too.</d>
+<d who="caroline">CAROLINE
+Yeah. What I remember was okay. I
+never went out with a freshman. Not
+even when I was a freshman.</d>
+<d who="geek">GEEK
+Me either.</d>
+<d who="caroline">CAROLINE
+You were pretty crazy.</d>
+CONTINUED
+116
+CONTINUED
+<d who="geek">GEEK
+I was?</d>
+<d who="caroline">CAROLINE
+Yeah, but you know what I like best?</d>
+<d who="geek">GEEK
+My clean, close shave?</d>
+<d who="caroline">CAROLINE
+Waking up in your arms.</d>
+<narr>The <char who="geek">Geek</char> is flabbergasted. He looks at his arms.</narr>
+<d who="geek">GEEK
+These things?</d></scene>
+    <scene>
+<loc ext="true">EXT. CHURCH</loc>
+<narr><char who="jake">Jake</char>'s car pulls up in front of the church. A rented
+limousine is waiting. The <char who="driver">Driver</char> is leaning on the fender
+smoking a cigarette.</narr>
+<d who="jake">JAKE
+<desc>(to the <char who="driver">Driver</char>)</desc>
+Is there a wedding going on in there?</d>
+<d who="driver">DRIVER
+That's the rumor.</d>
+<d who="jake">JAKE
+You wouldn't know if the bride is
+like a sophomore in high school
+would you?</d>
+<narr>The <char who="driver">Driver</char> looks at him like he's crazy.</narr>
+<d who="driver">DRIVER
+This ain't Kentucky.</d>
+<d who="jake">JAKE
+<desc>(sighs with
+relief)</desc>
+True. I'm sort of like possibly
+falling in love with this girl
+perhaps and it'd be the shits if
+she got married before I got a
+chance to take her out, you know?
+So ... thanks.</d>
+<narr>He revs his engine and whips around into the parking lot.</narr></scene>
+    <scene>
+<loc ext="true">EXT. PARKING LOT</loc>
+<narr><char who="jake">Jake</char> pulls up alongside the Rolls. He stands up and looks
+out his sunroof into the Rolls.</narr>
+<d who="jake">JAKE
+Holy shit!</d></scene>
+    <scene>
+<loc ext="true">EXT. ROLLS</loc>
+<narr><char who="caroline">Caroline</char> and the <char who="geek">Geek</char> are locked in a passionate kiss.
+Through half-closed eyes, <char who="caroline">Caroline</char> sees <char who="jake">Jake</char>.</narr>
+<d who="caroline">CAROLINE
+<desc>(voice distorted
+by the kiss)</desc>
+Uh oh.</d>
+<narr>She pulls away from the <char who="geek">Geek</char>, leaving him Frenching the
+air. She smiles at <char who="jake">Jake</char>.</narr>
+<d who="caroline">CAROLINE
+<desc>(timid)</desc>
+Hi, <char who="jake">Jake</char>.</d>
+<narr>The <char who="geek">Geek</char> hears <char who="jake">Jake</char>'s name. His eyes open in fear.
+<char who="caroline">Caroline</char> straightens her blouse and pushes her hair back.</narr>
+<d who="caroline">CAROLINE
+<desc>(nervous,
+to <char who="jake">Jake</char>)</desc>
+Do you have a minute?</d>
+<narr>She stands up and swings her legs over the side of the Rolls.</narr>
+<d who="caroline">CAROLINE
+<desc>(to the <char who="geek">Geek</char>)</desc>
+Don't go away.</d>
+<narr>The car phone rings. <char who="geek">Geek</char> answers it. He's annoyed.</narr>
+<d who="geek">GEEK
+You wanna learn what happened? Buy
+the book.</d>
+<narr>He hangs up.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S CAR</loc>
+<narr><char who="caroline">Caroline</char> gets in the passenger side. She's nervous and
+unsure of how's she's going to explain herself. He's just
+as nervous. They both sit for a moment, exchanging timid,
+embarrassed glances.</narr>
+CONTINUED
+118
+CONTINUED
+<d who="jake">JAKE
+Sorry about getting you involved
+with that guy.</d>
+<d who="caroline">CAROLINE
+It's okay. Really.
+<desc>(nervous
+chuckle)</desc>
+It wasn't too terrible.
+<desc>(embarrassed)</desc>
+Weird?</d>
+<narr>She's embarrassed to admit to her feelings for the <char who="geek">Geek</char>.
+<char who="jake">Jake</char> smiles. Regardless of how little he's been feeling
+for <char who="caroline">Caroline</char>, it still hurts him that she was with somebody
+else. It's a knee-jerk reaction.</narr>
+<d who="jake">JAKE
+<desc>(recovers
+his pride)</desc>
+So, what should we do?</d>
+<d who="caroline">CAROLINE
+About us?</d>
+<narr><char who="jake">Jake</char> nods uneasily.</narr>
+<d who="caroline">CAROLINE
+It's gonna be two years for us like
+next Thursday.</d>
+<d who="jake">JAKE
+<desc>(corrects her)</desc>
+Wednesday.</d>
+<d who="caroline">CAROLINE
+Is it?</d>
+<narr><char who="jake">Jake</char> nods. There's an uncomfortable pause. For the first
+time, <char who="caroline">Caroline</char> looks innocent and vulnerable.</narr>
+<d who="caroline">CAROLINE
+Neither one of us is going to die if
+it doesn't happen for us.</d>
+<d who="jake">JAKE
+True.</d>
+<d who="caroline">CAROLINE
+I just don't know right now. But
+I'm covered, okay? I won't get hurt.</d>
+CONTINUED
+119
+CONTINUED
+<narr><char who="jake">Jake</char> is seriously straddling the fence between <char who="sam">Sam</char> and
+<char who="caroline">Caroline</char>. He hadn't anticipated this conversation or
+<char who="caroline">Caroline</char>'s changed attitude. He doesn't know what to say.</narr>
+<d who="caroline">CAROLINE
+I'll leave it up to you.</d>
+<narr><char who="jake">Jake</char> looks over at <char who="caroline">Caroline</char>. It's his decision. The
+situation is of his making and he accepts that it's also
+his to resolve. He nods his agreement.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH</loc>
+<narr>Sunlight streams in the windows, the stained glass glows.
+It's peaceful and serene as the ceremony is underway.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - <char who="sam">SAM</char></loc>
+<narr>Tears well up in her eyes as she watches her big sister
+take the vows. She looks like an angel and even the yellow
+dress she hated so much looks lovely on her. There's a
+storm of emotion going on inside her. She's happy,
+jealous, sad, lonely, angry, hurt. She sniffles and tries
+not to cry. Something distracts her. She looks down at
+her chest.
+<shot close="true">CLOSEUP - <char who="sam">SAM</char>'S CHEST</shot>
+The caved-in cup slowly pops out.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - GRANDPARENTS</loc>
+<narr>The grandmothers are crying. <char who="howard">Howard</char> sniffles. <char who="fred">Fred</char> blows
+his nose with a loud honk!</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - <char who="mike">MIKE</char> &amp; <char who="sara">SARA</char></loc>
+<narr><char who="mike">Mike</char>'s eyes are wandering across the ceiling. <char who="sara">Sara</char>'s
+picking her seat.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - <char who="brenda">BRENDA</char> &amp; <char who="jim">JIM</char></loc>
+<narr>They watch with pride. <char who="brenda">Brenda</char>'s crying. <char who="jim">Jim</char> lifts his
+glasses and dries his eyes.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - ALTAR</loc>
+<narr><char who="rudy">Rudy</char> and <char who="ginny">Ginny</char> exchange their vows. The <char who="reverend">Reverend</char> speaks in
+hushed and pensive tones.</narr>
+<d who="reverend">REVEREND
+Do you, <char who="ginny">Virginia</char>, take this ....</d>
+<narr><char who="ginny">Ginny</char> interrupts him in a casual, slurry voice.</narr>
+<d who="ginny">GINNY
+You bet, bub.</d></scene>
+    <scene>
+<loc int="true">INT. CHURCH - <char who="jim">JIM</char> &amp; <char who="brenda">BRENDA</char></loc>
+<narr>They exchange troubled glances. <char who="brenda">Brenda</char> looks past <char who="jim">Jim</char> to
+<char who="rudy">Rudy</char>'s parents and apologizes with a weak smile.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - <char who="bruno">BRUNO</char> &amp; <char who="irene">IRENE</char></loc>
+<narr>Their mouths are open in alarm.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - ALTAR</loc>
+<narr><char who="ginny">Ginny</char> peels off her veil and tosses it onto a floral
+arrangement.</narr>
+<d who="ginny">GINNY
+Sorry, I can't see with that
+ridiculous thing in my face. Go
+ahead. I'm cool now.</d>
+<narr>The <char who="reverend">Reverend</char> clears his throat, overlooks <char who="ginny">Ginny</char>'s stoned
+interruption and continues.</narr>
+<d who="reverend">REVEREND
+... take this man to be your lawful
+wedded husband?</d>
+<d who="ginny">GINNY
+<desc>(looking
+at <char who="rudy">Rudy</char>)</desc>
+Oh, for sure. He's hot.</d></scene>
+    <scene>
+<loc int="true">INT. CHURCH - <char who="sam">SAM</char></loc>
+<narr>She winces at the mess <char who="ginny">Ginny</char>'s making of her wedding.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - <char who="mike">MIKE</char> &amp; <char who="sara">SARA</char></loc>
+<narr><char who="sara">Sara</char> rolls her eyes. <char who="mike">Mike</char> shakes his head and covers his
+face with his hands.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - <char who="reverend">REVEREND</char></loc>
+<narr>He repeats the vow for <char who="rudy">Rudy</char>.</narr>
+<d who="reverend">REVEREND
+Do you, <char who="rudy">Rudolf</char> take this woman to
+be your lawful wedded wife?</d>
+<d who="ginny">GINNY
+<desc>(to <char who="rudy">Rudy</char>)</desc>
+Your turn, babe.</d>
+<d who="rudy">RUDY
+<desc>(ignores her)</desc>
+I do.</d>
+<d who="reverend">REVEREND
+With these rings ....</d>
+<narr><char who="rudy">Rudy</char>'s best man hands him <char who="ginny">Ginny</char>'s ring. <char who="sam">Sam</char> hands <char who="ginny">Ginny</char>
+<char who="rudy">Rudy</char>'s ring.</narr>
+<d who="ginny">GINNY
+Thanks, <char who="sam">Sam</char>.
+<desc>(looks at her
+dress, whispers)</desc>
+You know that dress doesn't look
+nearly as shitty on you as it did
+at the store.</d>
+<narr><char who="sam">Sam</char> turns <char who="ginny">Ginny</char> around to face <char who="rudy">Rudy</char>. <char who="ginny">Ginny</char> drops the ring.</narr>
+<d who="ginny">GINNY
+Oh, crap!</d>
+<narr>She gets down on all fours and picks it up.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH GRANDPARENTS</loc>
+<narr>All four lean forward at the same time, hardly believing
+what they're seeing.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - ALTAR</loc>
+<narr>The <char who="reverend">Reverend</char> races through the rest of the ceremony to get
+it over with before anything else happens.</narr>
+<d who="reverend">REVEREND
+... I thee wed.</d>
+<narr><char who="ginny">Ginny</char> and <char who="rudy">Rudy</char> exchange rings.</narr>
+CONTINUED
+122
+CONTINUED
+<d who="reverend">REVEREND
+You may now kiss the bride.</d>
+<narr><char who="rudy">Rudy</char> puts his arms on <char who="ginny">Ginny</char>'s waist. He leans forward and
+puckers. <char who="ginny">Ginny</char> keels over backwards, leaving <char who="rudy">Rudy</char> kissing
+air. Organ music surges in.</narr></scene>
+    <scene>
+<loc ext="true">EXT. CHURCH</loc>
+<narr>Both families stream out of the church and gather around
+the door. The photographer sets himself up at the bottom
+of the stairs. <char who="ginny">Ginny</char> and <char who="rudy">Rudy</char> come out and everybody
+tosses rice. <char who="ginny">Ginny</char> tries to catch some in her mouth. <char who="rudy">Rudy</char>
+quickly hustles her to the waiting limousine. The crowd
+begins to head toward the parking lot.</narr></scene>
+    <scene>
+<loc ext="true">EXT. CHURCH - <char who="sam">SAM</char></loc>
+<narr>She remembers that <char who="ginny">Ginny</char>'s left her veil inside.</narr>
+<d who="sam">SAM
+She forgot her veil!</d>
+<narr>She turns and goes back into the church.</narr></scene>
+    <scene>
+<loc int="true">INT. CHURCH - <char who="sam">SAM</char></loc>
+<narr>She heads back up the aisle for the altar. She wipes her
+tears away as she walks. She reaches the altar and retrieves
+the veil from the floral arrangement. She straightens it out
+and very carefully and reverently folds it.</narr></scene>
+    <scene>
+<loc ext="true">EXT. CHURCH - GRANDPARENTS</loc>
+<narr>The four of them head across the lawn.</narr>
+<d who="helen">HELEN
+Didn't <char who="ginny">Ginny</char> look lovely?</d>
+<d who="dorothy">DOROTHY
+And so relaxed.</d>
+<d who="fred">FRED
+Let's hope she stays awake long
+enough to consummate this thing.</d>
+<d who="helen">HELEN
+<char who="fred">Fred</char>!</d>
+CONTINUE
+123
+CONTINUED
+<d who="howard">HOWARD
+Who're we riding with?</d>
+<narr><char who="jim">Jim</char> and <char who="howard">Brenda</char> approach with <char who="mike">Mike</char> and <char who="sara">Sara</char> trailing
+behind. <char who="jim">Jim</char> and <char who="brenda">Brenda</char> are bickering.</narr>
+<d who="jim">JIM
+<desc>(to Brenda)</desc>
+Let's just get the hell over to the
+reception!</d>
+<d who="brenda">BRENDA
+Hold your horses!</d>
+<d who="jim">JIM
+I don't want her sitting in the
+cake ....</d>
+<d who="brenda">BRENDA
+She's not going to sit in the cake!
+<char who="reverend">Reverend Allen</char> didn't drive so I'll
+take him and the <char who="organist">organist</char> and the
+kids. You take the old people.</d>
+<d who="fred">FRED
+Now she's calling us old!</d>
+<narr><char who="brenda">Brenda</char> hurries away. <char who="jim">Jim</char> ushers the old folks to the street.</narr>
+<d who="jim">JIM
+Let's put a fire under it!</d>
+<narr>The photographer comes up and tries to pose <char who="jim">Jim</char> and the
+old people.</narr>
+<d who="jim">JIM
+Will you knock it off!</d>
+<narr>He groans and joins the old folks in a group pose. They
+all smile. Flash!</narr>
+<d who="jim">JIM
+Okay, let's move it out!</d>
+<narr><char who="jim">Jim</char> and the old folks cross the street between the traffic
+jam of horn honking cars.</narr></scene>
+    <scene>
+<loc ext="true">EXT. CHURCH</loc>
+<narr><char who="sam">Sam</char> comes out of the church to find that her thoughfulness
+in retrieving <char who="ginny">Ginny</char>'s veil has been rewarded by her being
+left behind. The crowning blow. She stands alone on the
+church steps in her stupid dress with her stupid flowers,
+tears on her face. She looks down at the ground. The
+loneliest girl in all of creation. She looks up and wipes
+her tears on her arm. She drops her head again.</narr></scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - <char who="sam">SAM</char></shot>
+Her head is bowed. She looks up slowly through her hair.
+She pauses with her head raised halfway. She can't believe
+her eyes.
+HER <shot pov="true">POINT OF VIEW - THE CARS</shot>
+have all pulled away and parked on the street directly across
+from the church is <char who="jake">Jake</char>'s Porsche. <char who="jake">Jake</char> is standing next to
+the car, looking across at <char who="sam">Sam</char>. He's smiling nervously. He
+raises his hand, offers a tiny, tentative wave.</narr>
+<d who="jake">JAKE
+Hi.</d>
+    </scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - <char who="sam">SAM</char></shot>
+For a moment, she doesn't think he's talking to her. She
+glances over her shoulder to make sure he's looking at her
+and not someone behind her.</narr></scene>
+    <scene>
+<loc ext="true">EXT. STREET - <char who="jake">JAKE</char></loc>
+<narr>His smile fades. He interprets her hesitation in returning
+his greeting as rejection. He feels like a fool.</narr>
+<d who="jake">JAKE
+Shit. She hates me. I knew it.</d>
+<narr>He carefully reaches around behind and opens the door. Then
+he quickly jumps in and starts the engine. He pulls away.</narr></scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - <char who="sam">SAM</char></shot>
+Her eyes open wide in horror. She screams.</narr>
+<d who="sam">SAM
+<char who="jake">Jake</char>!</d>
+<narr>She takes off down the steps.</narr></scene>
+    <scene>
+<loc ext="true">EXT. STREET</loc>
+<narr><char who="jake">Jake</char> slams on the brakes. He sees <char who="sam">Sam</char> running. He throws
+the car in reverse and backs up to the church. He jumps
+out. <char who="sam">Sam</char> waits for a car to pass, then runs to him.
+<shot close="true">CLOSEUP - <char who="sam">SAM</char> &amp; <char who="jake">JAKE</char></shot>
+She doesn't know what to say. He doesn't know what to
+say. It's the moment they've both been waiting for and
+neither one knows what to do.</narr>
+<d who="sam">SAM
+Hi.</d>
+<d who="jake">JAKE
+Hi.</d>
+<d who="sam">SAM
+What're you doing here?</d>
+<d who="jake">JAKE
+I heard that you were here.</d>
+<d who="sam">SAM
+You came for me?</d>
+<d who="jake">JAKE
+Is that okay?</d>
+<d who="sam">SAM
+Actually, it's excellent.</d>
+<d who="jake">JAKE
+Do you have to go to a reception or
+something?</d>
+<d who="sam">SAM
+I'm supposed to.</d>
+<d who="jake">JAKE
+Can I call you later?</d>
+<d who="sam">SAM
+Yeah.</d></scene>
+    <scene>
+<loc ext="true">EXT. STREET</loc>
+<narr><char who="jake">Jake</char> gets back in the car. He puts it in gear and starts
+to pull away.</narr>
+<d who="sam">SAM
+I mean, no!</d>
+<narr><char who="jake">Jake</char> stops.</narr>
+<d who="jake">JAKE
+No, I can't call?</d>
+<d who="sam">SAM
+I mean no, I'm not going to the
+reception.</d>
+<narr><char who="jake">Jake</char> grins from ear to ear.</narr></scene>
+    <scene>
+<loc ext="true">EXT. PARKING LOT</loc>
+<narr><char who="jim">Jim</char> is helping the old people into the car. Something
+catches his eye. He watches curiously.</narr></scene>
+    <scene>
+<narr>HIS <shot pov="true">POINT OF VIEW - <char who="jake">JAKE</char></shot>
+opens his car door for <char who="sam">Sam</char>. <char who="sam">Sam</char> sees <char who="jim">Jim</char>. She points to
+<char who="jake">Jake</char> as he walks around to the driver's side to let <char who="jim">Jim</char>
+know that <char who="jake">Jake</char> is the love of her life.</narr></scene>
+    <scene>
+<narr><char who="jim">JIM</char>
+a smile spreads across his face as he realizes that <char who="jake">Jake</char> is
+the boy <char who="sam">Sam</char> was talking about the night before. He winks
+anel gives <char who="sam">Sam</char> the thumbs up.</narr>
+<d who="dorothy" os="true">DOROTHY (O.C.)
+Will you hurry up, <char who="jim">Jim</char>! We're ....</d>
+<narr>Without taking his eyes off <char who="sam">Sam</char>, <char who="jim">Jim</char> slams the car door,
+cutting off <char who="dorothy">Dorothy</char>.</narr></scene>
+    <scene>
+<narr><char who="dorothy">DOROTHY</char>
+through the backseat window, we see that <char who="jim">Jim</char> has closed the
+door on her hat.</narr></scene>
+    <scene>
+<narr><char who="sam">SAM</char>
+She throws <char who="jim">Jim</char> a big kiss and gets in the car.</narr></scene>
+    <scene>
+<loc ext="true">EXT. COUNTRY CLUB - PORTICO - EVENING</loc>
+<narr><char who="brenda">Brenda</char>, <char who="jim">Jim</char>, <char who="mike">Mike</char> and <char who="sara">Sara</char> are under the portico. <char who="brenda">Brenda</char>'s
+worried, <char who="jim">Jim</char> is smug and coy. He knows where <char who="sam">Sam</char> is. He
+plays along with the others.</narr>
+<d who="brenda">BRENDA
+What could have happened to <char who="sam">Sam</char>?</d>
+<d who="jim">JIM
+I'm sure she's fine.</d>
+<d who="mike">MIKE
+Maybe she blew this thing off. It's
+possible she's not as dumb as she
+looks.</d>
+CONTINUED
+127
+CONTINUED
+<d who="jim">JIM
+She'll be all right.</d>
+<d who="brenda">BRENDA
+I know she's still upset about
+her birthday.</d>
+<d who="mike">MIKE
+We dumped on her royally, Mom.</d>
+<d who="sara">SARA
+I feel terrible and it's not even me
+that it happened to.</d>
+<d who="jim">JIM
+We'll make it up to her.</d>
+<d who="brenda">BRENDA
+Poor thing.</d>
+<d who="mike">MIKE
+<desc>(wipes his
+nose on
+his sleeve)</desc>
+Yeah. Pathetic underdog wench.</d>
+<d who="brenda">BRENDA
+<char who="jim">Jim</char>, will you call home? I can't
+stand the thought of her sitting by
+herself alone in a dark house.</d>
+<narr>The family heads back into the club. <char who="jim">Jim</char> hangs back smiling
+knowingly.</narr></scene>
+    <scene>
+<loc int="true">INT. <char who="jake">JAKE</char>'S HOUSE - INDOOR POOL</loc>
+<narr>The room is dark except for a fragile glow of yellow in the
+center of the pool.</narr></scene>
+    <scene>
+<narr><shot close="true">CLOSEUP - BIRTHDAY CAKE</shot>
+A birthday cake with sixteen lit candles rests on a
+styrofoam ring floating in the pool. <char who="sam">Sam</char> and <char who="jake">Jake</char> are in
+the water on either side of the ring, looking across the
+candles at each other. They slowly circle the cake,
+looking long and deep into each other's eyes.</narr>
+<d who="sam">SAM
+Thanks for getting my undies back.</d>
+CONTINUED
+128
+CONTINUED
+<d who="jake">JAKE
+Thanks for coming over.</d>
+<d who="sam">SAM
+Thanks for coming to get me.</d>
+<d who="jake">JAKE
+Happy birthday, <char who="sam">Samantha</char>.</d>
+<narr>He leans across the cake and kisses her.</narr>
+<d who="jake">JAKE
+Make a wish.</d>
+<narr><char who="sam">Sam</char> smiles.</narr>
+<d who="sam">SAM
+It already came true.</d>
+<narr><char who="sam">Sam</char> looks down at the cake, takes a deep breath and blows
+out the candles.
+BLACK SCREEN
+Music up. "Sixteen Candles." Big, loud and bright as
+we begin:
+THE END</narr>
+</scene></script>
+</root>
