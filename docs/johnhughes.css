@@ -61,8 +61,6 @@ nav {
   background-color: #333;
   font-family: 'Roboto', sans-serif;
   color: white;
-  padding-left: 40px;
-  padding-right: 49px;
   padding-top: 20px;
   padding-bottom: 20px;
   max-width: 1080px;
@@ -116,7 +114,7 @@ a:visited {
 }
 a:hover {
     background-color: transparent;
-    text-decoration: underline dotted white;
+    text-decoration: underline dotted blue;
 }
 a:active {
     color: black;

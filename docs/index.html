@@ -5,32 +5,49 @@
         <link rel="stylesheet" type="text/css" href="johnhughes.css"/>
         <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
         <script src="script.js"></script>
+        <link rel="icon" href="pictures/clapper.webp" type="image/x-icon">
     </head>
     <body>
         <div class="content">
           <nav>
           <div class="dropdown">
-            <button class="dropbtn">Menu</button>
+            <button class="dropbtn" style="margin-left:40%;">Menu</button>
             <div class="dropdown-content">
               <a href="index.html">Home</a>
-              <a href="bueller.html">Bueller</a>
-              <a href="breakfast.html">Breakfast</a>
-              <a href="sixteen.html">Sixteen</a>
               <a href="schema.html">Schema</a>
+              <a href="data.html">Data</a>
+              <a href="visuals.html">Visuals</a>
+              <a href="network.html">Network</a>
               <a href="our-team.html">Team</a>
-              <a href="https://github.com/EvLar64/JohnHughesProj">Github</a>
+              <a href="https://github.com/EvLar64/JohnHughesProj" target="_blank">Github</a>
             </div>
           </div>
-          <div class="nav-title">John Hughes Project</div>
+          <div class="nav-title" style="font-size: 26px;">John Hughes Project</div>
+          <div class="dropdown">
+            <button class="dropbtn" style="text-align:right; margin-right: 30px; margin-left: 40px;">Scripts</button>
+            <div class="dropdown-content">
+              <a href="Ferris_Output.html">Ferris Bueller's Day Off</a>
+              <a href="Breakfast_Output_V2.html">Breakfast Club</a>
+              <a href="Sixteen_Output.html">Sixteen Candles</a>
+            </div>
+          </div>
           </nav>
-        <p style="text-align:center;">Welcome to the text analysis website of Evan, Railey, and Sean's John Hughes Project.</p>
+        <p style="text-align:center;">Welcome to the website for Evan, Railey, and Sean’s John Hughes text analysis project.</p>
         <hr/>
-        <img src="johnnyBoy.jpg" alt="John Hughes"/>
+        <img src="pictures/johnnyBoy.jpg" alt="John Hughes"/>
         <hr/>
-        <p>This project is about analyzing three different scripts for John Hughes films (The Breakfast Club, Ferris Bueller's Day Off, and Sixteen Candles) using regex primarily.
-            We are interested in seeing how the scripts hold up after nearly fourty years, specifically through the average length of scenes, the amount of dialogue between chraracters, and
-            how the dialogue compares to how we speak currently.
-            We have three text files, one for each of the three scripts that we will be working with.</p>
+        <p>John Hughes (1950 - 2009) was one of the most influential filmmakers of the 1980’s,
+             with many of his works still standing the test of time. This project is focused on
+             analyzing the screenplays for three of his most famous movies: Sixteen Candles (1984),
+             The Breakfast Club (1985), and Ferris Bueller’s Day Off (1986). We are interested in
+             seeing how the scripts hold up after nearly forty years, while also extracting certain
+             data from them (including things like word tracking, dialogue frequencies, and various
+             comparisons between the three). Each screenplay’s original .txt source file can be found in the links below.
+          <ul style="font-size: 18px;">
+            <li style="padding-top:18px"><a href="otherFiles/sixteen.txt" style="color:black;" target="_blank">(Sixteen Candles)</a></li>
+            <li style="padding-top:18px"><a href="otherFiles/breakfast.txt" style="color:black; text-align:center;" target="_blank">(Breakfast Club)</a></li>
+            <li style="padding-top:18px"><a href="otherFiles/ferris.txt" style="color:black; text-align:right;" target="_blank">(Ferris Bueller's Day Off)</a><li>
+        </ul>
     </body>
   </div>
 </html>
