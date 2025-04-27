@@ -58,16 +58,16 @@ Just a simple one of those “code block” views that shows the schema (similar
 (Data will be made, collected, and sent in repo later for easy addition to the site, but just for layout purposes: )
 
 Screenplay Data: 
-- Sixteen Candles Average Scene Length
-- BC Average Scene Length
-- FB Average Scene Length
-- SC Average Dialogue Length
-- BC Average Dialogue Length
-- FB Average Dialogue Length
+- [MADE] Sixteen Candles Average Scene Length
+- [MADE] BC Average Scene Length
+- [MADE] FB Average Scene Length
+- [MADE] SC Average Dialogue Length
+- [MADE] BC Average Dialogue Length
+- [MADE] FB Average Dialogue Length
 - [MADE] SC Number of Locations
 - [MADE] BC Number of Locations
 - [MADE] FB Number of Locations
-- Frequencies of Character Mentions
+- [MADE] Frequencies of Character Mentions
 
  * Underneath Screenplay Data, two more photos of the movies and/or set photos (w/ brief captions) *
 
@@ -88,7 +88,7 @@ Word Data:
 - [MADE] Visual depicting how many of Ferris’ lines are directed to the camera (or perhaps a “timeline’ with dots showing all the times where he does)
 - [MADE x 3] Bar Graphs showing frequencies of different parts of speech (verb, adjective, preposition) for all three movies
 - Production Budget vs. Gross Graph (one graph showing both for all movies; double bar graph/circles)
-- Lexical Dispersion Plots of “80s words” for each movie (phrase, word ideas?)
+- [MADE] Lexical Dispersion Plots of "emotion words" for each movie
 
 - Underneath the graphs, ANOTHER “code view” of PYTHON DATA FILE 2 that will display all of these visualization functions.
 
