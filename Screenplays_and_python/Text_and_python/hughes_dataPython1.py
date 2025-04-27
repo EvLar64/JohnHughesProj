@@ -4,10 +4,15 @@ from nltk import FreqDist
 from nltk.tokenize import word_tokenize
 from nltk.text import Text
 from nltk.corpus import stopwords
+import xml.etree.ElementTree as ET
 import re
 
+# JOHN HUGHES PROJECT PYTHON #1 - Data
+
+# importing "stop word" set to be used in finding "unique" script words
 stop_words = set(stopwords.words('english'))
 
+# taking in each text file
 with open("ferris.txt",'r') as file:
     ferris=file.read()
 with open("sixteen.txt",'r') as file:
@@ -23,15 +28,93 @@ text_sixteen1 = Text(sixteen1)
 breakfast1 = word_tokenize(breakfast)
 text_breakfast1 = Text(breakfast1)
 
-# Sixteen Candles Average Scene Length
-# BC Average Scene Length
-# FB Average Scene Length
-# SC Average Dialogue Length
-# BC Average Dialogue Length
-# FB Average Dialogue Length
+print("SCREENPLAY DATA FROM EACH OF THE THREE MOVIES")
+print()
+
+# Sixteen Candles Average Scene/Dialogue Lengths, Character Frequencies
+
+def get_all_text(elem):
+    return ''.join(elem.itertext())
+# takes in xml directly
+tree = ET.parse('sixteen_V2.xml')
+root = tree.getroot()
+s_scenes = root.findall('.//scene')
+s_scene_word_counts = [
+    len(get_all_text(scene).split())
+    for scene in s_scenes
+]
+s_dialog = root.findall('.//d')
+s_dialog_word_counts = [
+    len(get_all_text(d).split())
+    for d in s_dialog
+]
+average_word_count = sum(s_scene_word_counts) / len(s_scene_word_counts) if s_scene_word_counts else 0
+print(f"Average word count of scenes in Sixteen Candles - {average_word_count:.2f} words")
+average_dialog_word_count = sum(s_dialog_word_counts) / len(s_dialog_word_counts) if s_dialog_word_counts else 0
+print(f"Average length of dialogue - {average_dialog_word_count:.2f} words")
+chars = root.findall('.//char')
+who_list = [char.get('who') for char in chars if char.get('who')]
+who_counts = Counter(who_list)
+print("Frequencies of character mentions in the script - ")
+for who, count in who_counts.items():
+    print(f"{who}: {count} times")
+print()
+
+# BC Average Scene/Dialogue Lengths
+
+tree = ET.parse('breakfast_V1.xml')
+root = tree.getroot()
+b_scenes = root.findall('.//scene')
+b_scene_word_counts = [
+    len(get_all_text(scene).split())
+    for scene in b_scenes
+]
+b_dialog = root.findall('.//d')
+b_dialog_word_counts = [
+    len(get_all_text(d).split())
+    for d in b_dialog
+]
+average_word_count = sum(b_scene_word_counts) / len(b_scene_word_counts) if b_scene_word_counts else 0
+print(f"Average word count of scenes in Breakfast Club - {average_word_count:.2f} words")
+average_dialog_word_count = sum(b_dialog_word_counts) / len(b_dialog_word_counts) if b_dialog_word_counts else 0
+print(f"Average length of dialogue - {average_dialog_word_count:.2f} words")
+chars = root.findall('.//char')
+who_list = [char.get('who') for char in chars if char.get('who')]
+who_counts = Counter(who_list)
+print("Frequencies of character mentions in the script - ")
+for who, count in who_counts.items():
+    print(f"{who}: {count} times")
+print()
+
+# FB Average Scene/Dialogue Length
+
+tree = ET.parse('ferris_V2.xml')
+root = tree.getroot()
+f_scenes = root.findall('.//scene')
+f_scene_word_counts = [
+    len(get_all_text(scene).split())
+    for scene in f_scenes
+]
+f_dialog = root.findall('.//d')
+f_dialog_word_counts = [
+    len(get_all_text(d).split())
+    for d in f_dialog
+]
+average_word_count = sum(f_scene_word_counts) / len(f_scene_word_counts) if f_scene_word_counts else 0
+print(f"Average word count of scenes in Ferris Bueller - {average_word_count:.2f} words")
+average_dialog_word_count = sum(f_dialog_word_counts) / len(f_dialog_word_counts) if f_dialog_word_counts else 0
+print(f"Average length of dialogue - {average_dialog_word_count:.2f} words")
+chars = root.findall('.//char')
+who_list = [char.get('who') for char in chars if char.get('who')]
+who_counts = Counter(who_list)
+print("Frequencies of character mentions in the script - ")
+for who, count in who_counts.items():
+    print(f"{who}: {count} times")
+print()
 
 # Frequencies of Different Types of Locations in Each Movie
 
+# uses regex to fix punctuation errors and tagging words as "'S", etc.
 ferris2 = re.findall(r"\b\w+(?:'\w+)?\b", ferris)
 breakfast2 = re.findall(r"\b\w+(?:'\w+)?\b", breakfast)
 sixteen2 = re.findall(r"\b\w+(?:'\w+)?\b", sixteen)
@@ -65,10 +148,44 @@ print(f"There are {ext_count} '{sixteenEXT}' locations in Sixteen Candles.")
 print(f"Total = {int_count + ext_count}")
 print()
 
+# shot descriptions and frequencies, using parse on the xml file for the third time
+
+print("Shot Descriptions (and frequencies) within each script:")
+print()
+
+print("Ferris Bueller -")
+tree = ET.parse('ferris_V2.xml')
+root = tree.getroot()
+shots = root.findall('.//shot')
+shot_list = [shot.text.strip() for shot in shots if shot.text and shot.text.strip()]
+shot_counts = Counter(shot_list)
+for shot, count in shot_counts.items():
+    print(f"{shot}: {count} times")
+
+print()
+print("Sixteen Candles -")
+tree = ET.parse('sixteen_V2.xml')
+root = tree.getroot()
+shots = root.findall('.//shot')
+shot_list = [shot.text.strip() for shot in shots if shot.text and shot.text.strip()]
+shot_counts = Counter(shot_list)
+for shot, count in shot_counts.items():
+    if shot != "POINT OF VIEW - THE" :
+        print(f"{shot}: {count} times")
+
+print()
+print("Breakfast Club -")
+print( "n/a ")
+
 # Word Data:
+
+# makes text objects from "cleaned-up" versions of words
 text_ferris2 = Text(ferris2)
 text_sixteen2 = Text(sixteen2)
 text_breakfast2 = Text(breakfast2)
+
+print()
+print("WORD DATA FROM EACH OF THE THREE MOVIES")
 
 # Concordance examples of different words for each movie
 print()
@@ -92,6 +209,8 @@ print("Richness of Breakfast Club:")
 print(f"{(len(set(breakfast2)) / len(breakfast2)):.4f}")
 
 # 20 instances of "unique" words in each script, with script words, stop words, and digits removed
+
+# set of common character names and script words that we DON'T want included in this analysis
 character_and_scriptWords = ["Ferris", "FERRIS", "ROONEY", "DONG","Dong","Rooney",
                              "JEANIE", "Jeanie", "CAMERON", "Cameron", "SLOANE",
                              "Sloane", "CLAIRE", "Claire", "BRENDA", "Brenda", "JIM",
@@ -100,26 +219,34 @@ character_and_scriptWords = ["Ferris", "FERRIS", "ROONEY", "DONG","Dong","Rooney
                              "SAM", "Sam","GEEK", "CAROLINE", "Caroline", "JAKE","Jake",
                              "CONTINUED","CUT","EXT","INT", "CU", "DAY", "NIGHT","VOICE",
                              "Ginny","GINNY", "ROOM", "RANDY", "Randy"]
+# lower cases words
 filtered_cap_ferris2 = {word.lower() for word in ferris2}
 filtered_cap_sixteen2 = {word.lower() for word in sixteen2}
 filtered_cap_breakfast2 = {word.lower() for word in breakfast2}
 
+# then takes out any numbers
 filtered_num_ferris2 = [word for word in filtered_cap_ferris2 if not word.isdigit()]
 filtered_num_sixteen2 = [word for word in filtered_cap_sixteen2 if not word.isdigit()]
 filtered_num_breakfast2 = [word for word in filtered_cap_breakfast2 if not word.isdigit()]
 
+# then takes out any stop words
 filtered_stop_ferris2 = [word for word in filtered_num_ferris2 if word not in stop_words]
 filtered_stop_sixteen2 = [word for word in filtered_num_sixteen2 if word not in stop_words]
 filtered_stop_breakfast2 = [word for word in filtered_num_breakfast2 if word not in stop_words]
 
+# then finally takes out any of the previous character/script words
 filtered_script_ferris2 = [word for word in filtered_stop_ferris2 if word not in character_and_scriptWords]
 filtered_script_sixteen2 = [word for word in filtered_stop_sixteen2 if word not in character_and_scriptWords]
 filtered_script_breakfast2 = [word for word in filtered_stop_breakfast2 if word not in character_and_scriptWords]
 
+# counts the words
 ferris_unique = Counter(filtered_script_ferris2)
 sixteen_unique = Counter(filtered_script_sixteen2)
 breakfast_unique = Counter(filtered_script_breakfast2)
 
+# prints the 20 "most common" unique words from the scripts,
+# but since many of them are one off uses, it's more of a word-bag
+# randomizer for each script
 ferris_top20 = ferris_unique.most_common(20)
 sixteen_top20 = sixteen_unique.most_common(20)
 breakfast_top20 = breakfast_unique.most_common(20)
