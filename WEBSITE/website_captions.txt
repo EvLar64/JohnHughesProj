@@ -1,0 +1,28 @@
+RESEARCH QUESTIONS:
+
+1. What kinds of dialogue/script inclusions are common throughout each screenplay?
+2. How do the screenplays compare when it comes to intentionality of the camera?
+3. How are ensemble casts handled differently in writing than a more individually-focused story?
+4. What parts of speech are more commonly found in the scripts than others?
+5. What cinematic techniques outside of typical dialogue and description are found in the scripts?
+6. How are different production contexts accounted for in Hughes' writing?
+
+GRAPH CAPTIONS:
+Ferris Bueller 4th Wall SVG - 
+One aspect of "Ferris Bueller's Day Off" in particular that we wanted to track was the number of times that Ferris speaks directly to the audience, whether in giving advice or musing on other characters in the movie. Notably, many of these 4th-wall-breaking lines happen towards the start of the script (introduction to Ferris, going through his "illness" routine, etc.) but become more sporadic as the movie goes on. Also, while the last line of film is spoken towards the audience in both the script and movie, the famous line itself is altered. "Life moves pretty fast. If you don't stop and look around every once in a while, you could miss it" was originally: "Yeah, life is a carousel. A great big crazy ball of pure living, breathing joy and delight. You gotta get one."
+
+Python Graphs -
+(Figs 1 - 3)
+These pie charts all represent the breakdown of Interior vs. Exterior location frequency in each of the movies. If you're familiar with each movie, you can almost guess which graph is which, in that Breakfast Club features very few exterior locations (mostly all in the school), Sixteen Candles has more (home, school, outdoor party locations, etc.) but is still mostly interior, and Ferris Bueller features the clearest balance between EXT/INT given that his day sees him in a multitude of various locations (school, home, but also baseball stadiums and parades).
+
+(Fig 4)
+This bar graph charts the frequencies of character mentions (not dialogue) for each of the main characters in "The Breakfast Club." Notably, Bender takes a wide lead, presumably because his character consistenly causes everyone else the most grief and heartache, to the point where he needs to literally be called out the most. However, it's also interesting to see that (besides Bender) the other characters are mostly mentioned in similar distributions.
+
+(Figs 5 - 7)
+These three bar graphs all track the frequencies of different part of speech usage in each film (comparing verbs, adjectives, and prepositions). The most obvious takeaway here is that they all follow very similar disitribution shapes, where verbs take an easy lead, followed by prepositions taking about half of that verb count, and then again adjectives taking about half of that preposition count. These results (and how similarly shaped they are) made us wonder how this general part of speech usage breakdown would apply to screenplays from other writers. If the scope was larger, and more screenplays were being looked at, would those feature a similar shape too, and could we then draw any general conclusions about what types of words are used more than others in screenwriting?
+
+(Fig 8)
+This pie chart represents the number of dialogue instances that each character in "The Breakfast Club" has. Similar to the "character mentions" graph for the movie, Bender takes the lead with 213 lines of dialogue. Allison (the shy, "basket case" character) logically has the least lines out of the main characters (Carl and other miscellaenous characters like parents in the opening only have a couple scenes). Outside of these extremes (and again similar to the character mentions graph), the rest of the characters have similar chunks of screen-time devoted to their words, leading us to the conclusion that there was a clear effort from John Hughes to allow this ensemble cast to feel like an ensemble and for each character to have their own moments to shine.
+
+(Figs 9 - 11)
+These three plots represent the lexical dipsersion of various "emotion" words within each script. All of the movies deal with emotion and some of the struggles of growing up, but Ferris Bueller and Sixteen Candles visibly feature the most variety and widest "spread" of words used. This could be a reflection of the types of movies they are, in that Breakfast Club is more confined and features the least amount of different experiences, whereas something like Ferris Bueller travels all over the place to keep things fresh and exciting on a sneak-away day.
