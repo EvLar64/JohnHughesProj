@@ -163,14 +163,14 @@ plt.legend(charlabels, title="Characters", bbox_to_anchor=(1.2, 0.6))
 # Lexical Dispersion plots for words pertaining to emotion
 text_ferris2.dispersion_plot(emotion_words)
 plt.figure(9)
-plt.title('Lexical Dispersion of 80s Slang Words in Ferris Bueller', fontweight='bold')
+plt.title('Lexical Dispersion of Emotion Words in Ferris Bueller', fontweight='bold')
 
 text_breakfast2.dispersion_plot(emotion_words)
 plt.figure(10)
-plt.title('Lexical Dispersion of 80s Slang Words in Breakfast Club', fontweight='bold')
+plt.title('Lexical Dispersion of Emotion Words in Breakfast Club', fontweight='bold')
 
 text_sixteen2.dispersion_plot(emotion_words)
 plt.figure(11)
-plt.title('Lexical Dispersion of 80s Slang Words in Sixteen Candles', fontweight='bold')
+plt.title('Lexical Dispersion of Emotion Words in Sixteen Candles', fontweight='bold')
 
 plt.show()
