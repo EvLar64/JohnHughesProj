@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000">
     <line x1="50" y1="500" x2="400" y2="500" style="stroke:black;stroke-width:10"/>
     <line x1="50" y1="150" x2="50" y2="505" style="stroke:black;stroke-width:10"/>
     
@@ -17,4 +17,5 @@
     <text x="290" y="520" transform="rotate(30 290,520)" font-size="12" fill="black">
         Sixteen Candles - 93 Minutes
     </text>
+    <text x="50" y="650" font-size="20">A graph displaying the runtime of each of the three movies we analyzed.</text>
 </svg>
