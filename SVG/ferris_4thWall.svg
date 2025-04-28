@@ -1,66 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="200vw" height="110vw">
-   <rect width="50%" height="50%" fill="#c8f8a7"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="150 0 1150 700" >
+      <!-- viewBox="0 0 1500 500" -->
+      <rect x="150" y="0" width="1300" height="700" fill="#c8f8a7"/>
    <g transform="translate(220,250)">
+        
       <line x1="50"
             y1="100"
             x2="950"
             y2="100"
             stroke="black"
             stroke-width="2"/>
-      <text x="500"
+      <text x="515"
             y="30"
-            font-size="16"
+            font-size="18"
             fill="black"
             font-family="Verdana"
             font-weight="bold"
             text-anchor="middle">
                 Timeline of 4th-Wall-Breaking Lines Within "Ferris Bueller's Day Off"
             </text>
-      <text x="20"
-            y="75"
-            font-size="13"
+      <text x="-10"
+            y="90"
+            font-size="18"
             fill="black"
             font-family="Verdana"
             font-weight="bold"
             text-anchor="middle">
                     Start
                 </text>
-      <text x="975"
-            y="75"
-            font-size="13"
+      <text x="990"
+            y="90"
+            font-size="18"
             fill="black"
             font-family="Verdana"
             font-weight="bold"
             text-anchor="middle">
                     End
                 </text>
-      <text x="400"
+      <text x="500"
             y="140"
-            font-size="11"
+            font-size="18"
             fill="black"
             font-family="Verdana"
             font-weight="bold"
             text-anchor="middle">
-                    39 Lines of Dialogue Directed Towards the Camera
+                    39 Lines of Ferris’s Dialogue Directed Towards the Camera.
                 </text>
-      <text x="380"
+      <text x="500"
             y="160"
-            font-size="11"
+            font-size="18"
             fill="black"
             font-family="Verdana"
             font-weight="bold"
             text-anchor="middle">
-                    298 Total Ferris Lines
+                    298 Total Lines Spoken by Ferris.
                 </text>
-      <text x="380"
+      <text x="500"
             y="180"
-            font-size="11"
+            font-size="18"
             fill="black"
             font-family="Verdana"
             font-weight="bold"
             text-anchor="middle">
-                    = 13.09%
+                    13.09% of Ferris’s lines break the 4th wall.
                 </text>
    </g>
    <g transform="translate(220,250)">
