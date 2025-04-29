@@ -145,5 +145,25 @@ li {
         margin: 20px auto;
         width: 50%;
         height: auto;
-        opacity: 0.8;
+        opacity: 1;
     }
+figcaption {
+      font-size: 18px;
+      text-align: left;
+      padding: 50px;
+      padding-top: 10px;
+      padding-bottom: 10px;
+}
+.img:hover{
+    color: #424242;
+  -webkit-transition: all .3s ease-in;
+  -moz-transition: all .3s ease-in;
+  -ms-transition: all .3s ease-in;
+  -o-transition: all .3s ease-in;
+  transition: all .3s ease-in;
+  opacity: 1;
+  transform: scale(1.5);
+  -ms-transform: scale(1.5); /* IE 9 */
+  -webkit-transform: scale(1.5); /* Safari and Chrome */
+
+}

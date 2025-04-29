@@ -1,60 +1,9 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Visuals</title>
-        <link rel="stylesheet" type="text/css" href="johnhughes.css"/>
-        <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
-        <script src="script.js"></script>
-        <link rel="icon" href="pictures/clapper.webp" type="image/x-icon">
-    </head>
-    <body>
-        <div class="content">
-          <nav>
-          <div class="dropdown">
-            <button class="dropbtn" style="margin-left:40%;">Menu</button>
-            <div class="dropdown-content">
-              <a href="index.html">Home</a>
-              <a href="schema.html">Schema</a>
-              <a href="data.html">Data</a>
-              <a href="visuals.html">Visuals</a>
-              <a href="network.html">Network</a>
-              <a href="our-team.html">Team</a>
-              <a href="https://github.com/EvLar64/JohnHughesProj" target="_blank">Github</a>
-            </div>
-          </div>
-          <div class="nav-title" style="font-size: 26px;">John Hughes Project</div>
-          <div class="dropdown">
-            <button class="dropbtn" style="text-align:right; margin-right: 30px; margin-left: 40px;">Scripts</button>
-            <div class="dropdown-content">
-              <a href="Ferris_Output.html">Ferris Bueller's Day Off</a>
-              <a href="Breakfast_Output_V2.html">Breakfast Club</a>
-              <a href="Sixteen_Output.html">Sixteen Candles</a>
-            </div>
-          </div>
-          </nav>
-        <h2 style="text-align:center;">Visualizations page.</h2>
-        <hr/>
-        <figure display="flex">
-          <figcaption>These pie charts all represent the breakdown of Interior vs. Exterior location frequency in each of the movies. If you're familiar with each movie, you can almost guess which graph is which, in that Breakfast Club features very few exterior locations (mostly all in the school), Sixteen Candles has more (home, school, outdoor party locations, etc.) but is still mostly interior, and Ferris Bueller features the clearest balance between EXT/INT given that his day sees him in a multitude of various locations (school, home, but also baseball stadiums and parades).</figcaption>
-          <img src="svgs/hughes_fig1.png" style="width: 70%;" class="img"></img>
-          <img src="svgs/hughes_fig2.png" style="width: 70%;" class="img"></img>
-          <img src="svgs/hughes_fig3.png" style="width: 70%;" class="img"></img>
-        </figure>
-        <hr/>
-        <figure>
-          <figcaption>This bar graph charts the frequencies of character mentions (not dialogue) for each of the main characters in "The Breakfast Club." Notably, Bender takes a wide lead, presumably because his character consistenly causes everyone else the most grief and heartache, to the point where he needs to literally be called out the most. However, it's also interesting to see that (besides Bender) the other characters are mostly mentioned in similar distributions.<figcaption>
-          <img src="svgs/hughes_fig4.png" style="width: 70%;" class="img"></img>
-        </figure>
-        <hr/>
-        <figure>
-          <figcaption>One aspect of "Ferris Bueller's Day Off" in particular that we wanted to track was the number of times that Ferris speaks directly to the audience, whether in giving advice or musing on other characters in the movie. Notably, many of these 4th-wall-breaking lines happen towards the start of the script (introduction to Ferris, going through his "illness" routine, etc.) but become more sporadic as the movie goes on. Also, while the last line of film is spoken towards the audience in both the script and movie, the famous line itself is altered. "Life moves pretty fast. If you don't stop and look around every once in a while, you could miss it" was originally: "Yeah, life is a carousel. A great big crazy ball of pure living, breathing joy and delight. You gotta get one."
-          </figcaption>
-          <?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="150 0 1150 700" class="img">
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="150 0 1150 700" >
       <!-- viewBox="0 0 1500 500" -->
       <rect x="150" y="0" width="1300" height="700" fill="#c8f8a7"/>
    <g transform="translate(220,250)">
-
+        
       <line x1="50"
             y1="100"
             x2="950"
@@ -7929,18 +7878,3 @@
              height="150"/>
    </g>
 </svg>
-        <hr/>
-        <figure>
-          <figcaption>These three bar graphs all track the frequencies of different part of speech usage in each film (comparing verbs, adjectives, and prepositions). The most obvious takeaway here is that they all follow very similar disitribution shapes, where verbs take an easy lead, followed by prepositions taking about half of that verb count, and then again adjectives taking about half of that preposition count. These results (and how similarly shaped they are) made us wonder how this general part of speech usage breakdown would apply to screenplays from other writers. If the scope was larger, and more screenplays were being looked at, would those feature a similar shape too, and could we then draw any general conclusions about what types of words are used more than others in screenwriting?</figcaption>
-          <img src="svgs/hughes_fig5.png" style="width: 70%;" class="img"></img>
-          <img src="svgs/hughes_fig6.png" style="width: 70%;" class="img"></img>
-          <img src="svgs/hughes_fig7.png" style="width: 70%;" class="img"></img>
-        </figure>
-        <hr/>
-        <p style="text-align:center;">Information put together using the following code:</p>
-        <div class="container" style="padding-top:30px; padding-bottom:10px;">
-            <iframe src="otherFiles/hughes_dataPython2.py" style="width: 85%; height: 720px;"></iframe>
-        </div>
-    </body>
-  </div>
-</html>
