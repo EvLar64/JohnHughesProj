@@ -6,15 +6,18 @@
     
     <rect width="40" height="300" x="90" y="200" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
     <rect width="40" height="80" x="190" y="420" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
-    <rect width="40" height="290" x="290" y="210" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
+    <rect width="40" height="310" x="290" y="190" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
     
-    <text x="90" y="520" transform="rotate(30 90,520)" font-size="24" fill="black">
+    <text x="90" y="520" transform="rotate(30 90,520)" font-size="12" fill="black">
         Ferris Bueller's Day Off - 205 Scenes
     </text>
-    <text x="190" y="520" transform="rotate(30 190,520)" font-size="24" fill="black">
+    <text x="190" y="520" transform="rotate(30 190,520)" font-size="12" fill="black">
         The Breakfast Club - 42 Scenes
     </text>
-    <text x="290" y="520" transform="rotate(30 290,520)" font-size="24" fill="black">
-        Sixteen Candles - 200 Scenes
+    <text x="290" y="520" transform="rotate(30 290,520)" font-size="12" fill="black">
+        Sixteen Candles - 231 Scenes
     </text>
+    <text x="50" y="650" font-size="20">A graph displaying the number of scenes found in each of the three screenplays we analyzed.</text>
+    <text x="50" y="675" font-size="20">The order of each is from most recent to least recent.</text>
+    <text x="50" y="700" font-size="20">This information for each of the three films was pulled from IMDb.</text>
 </svg>
