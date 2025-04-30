@@ -955,7 +955,7 @@ var networks = {"hughes_desc.tsv": {
         "selected" : false
       },
       "position" : {
-        "x" : 3294.250844642317,
+        "x" : 3299.4976459427467,
         "y" : -1325.2238285442468
       },
       "selected" : false
@@ -1007,8 +1007,8 @@ var networks = {"hughes_desc.tsv": {
         "selected" : false
       },
       "position" : {
-        "x" : 1829.185507577636,
-        "y" : -1271.6679172388226
+        "x" : 1831.506799532646,
+        "y" : -1235.6878919361657
       },
       "selected" : false
     }, {
@@ -1020,8 +1020,8 @@ var networks = {"hughes_desc.tsv": {
         "selected" : false
       },
       "position" : {
-        "x" : 1798.6277585039918,
-        "y" : -1271.6679172388226
+        "x" : 1788.1819447064463,
+        "y" : -1181.137530993428
       },
       "selected" : false
     }, {
@@ -1605,8 +1605,8 @@ var networks = {"hughes_desc.tsv": {
         "selected" : false
       },
       "position" : {
-        "x" : 1668.0700094303477,
-        "y" : -1271.6679172388226
+        "x" : 1642.5357979252365,
+        "y" : -1217.1175562960848
       },
       "selected" : false
     }, {
@@ -1683,8 +1683,8 @@ var networks = {"hughes_desc.tsv": {
         "selected" : false
       },
       "position" : {
-        "x" : 2726.997050646799,
-        "y" : -1294.586229044056
+        "x" : 2695.6596092541627,
+        "y" : -1291.1042911115408
       },
       "selected" : false
     }, {
@@ -1982,8 +1982,8 @@ var networks = {"hughes_desc.tsv": {
         "selected" : false
       },
       "position" : {
-        "x" : 1929.185507577636,
-        "y" : -1271.6679172388226
+        "x" : 1918.7396937800904,
+        "y" : -1249.6156436662266
       },
       "selected" : false
     }, {
@@ -1995,8 +1995,8 @@ var networks = {"hughes_desc.tsv": {
         "selected" : false
       },
       "position" : {
-        "x" : 1959.74325665128,
-        "y" : -1271.6679172388226
+        "x" : 1966.7071325163104,
+        "y" : -1207.8323884760443
       },
       "selected" : false
     }, {
@@ -2268,8 +2268,8 @@ var networks = {"hughes_desc.tsv": {
         "selected" : false
       },
       "position" : {
-        "x" : 1698.6277585039918,
-        "y" : -1271.6679172388226
+        "x" : 1727.6439079416182,
+        "y" : -1243.8124137787013
       },
       "selected" : false
     }, {
@@ -2372,8 +2372,8 @@ var networks = {"hughes_desc.tsv": {
         "selected" : false
       },
       "position" : {
-        "x" : 2059.74325665128,
-        "y" : -1271.6679172388226
+        "x" : 2038.8516290561888,
+        "y" : -1248.4549976887215
       },
       "selected" : false
     }, {
@@ -2398,8 +2398,8 @@ var networks = {"hughes_desc.tsv": {
         "selected" : false
       },
       "position" : {
-        "x" : 2090.301005724924,
-        "y" : -1271.6679172388226
+        "x" : 2129.762968960096,
+        "y" : -1255.4188735537518
       },
       "selected" : false
     }, {
@@ -4151,10 +4151,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "810",
         "target" : "808",
         "shared_name" : "(as she descends) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(as she descends) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1674,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1674,
         "selected" : false
       },
       "selected" : false
@@ -4164,10 +4165,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "806",
         "target" : "804",
         "shared_name" : "(phoney, pained) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(phoney, pained) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1672,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1672,
         "selected" : false
       },
       "selected" : false
@@ -4177,10 +4179,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "802",
         "target" : "800",
         "shared_name" : "(talks with the toothbrush in his mouth) (sixteen candles) jim",
+        "shared_interaction" : "sixteen candles",
         "name" : "(talks with the toothbrush in his mouth) (sixteen candles) jim",
         "interaction" : "sixteen candles",
         "SUID" : 1670,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1670,
         "selected" : false
       },
       "selected" : false
@@ -4190,10 +4193,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "798",
         "target" : "796",
         "shared_name" : "(to herself) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to herself) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1668,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1668,
         "selected" : false
       },
       "selected" : false
@@ -4203,10 +4207,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "798",
         "target" : "796",
         "shared_name" : "(to herself) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to herself) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1666,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1666,
         "selected" : false
       },
       "selected" : false
@@ -4216,10 +4221,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "798",
         "target" : "782",
         "shared_name" : "(to herself) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to herself) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1664,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1664,
         "selected" : false
       },
       "selected" : false
@@ -4229,10 +4235,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "798",
         "target" : "782",
         "shared_name" : "(to herself) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to herself) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1662,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1662,
         "selected" : false
       },
       "selected" : false
@@ -4242,10 +4249,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "798",
         "target" : "434",
         "shared_name" : "(to herself) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to herself) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1660,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1660,
         "selected" : false
       },
       "selected" : false
@@ -4255,10 +4263,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "798",
         "target" : "292",
         "shared_name" : "(to herself) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to herself) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1658,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1658,
         "selected" : false
       },
       "selected" : false
@@ -4268,10 +4277,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "794",
         "target" : "796",
         "shared_name" : "(to Jim) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Jim) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1656,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1656,
         "selected" : false
       },
       "selected" : false
@@ -4281,10 +4291,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "794",
         "target" : "808",
         "shared_name" : "(to Jim) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Jim) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1654,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1654,
         "selected" : false
       },
       "selected" : false
@@ -4294,10 +4305,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "794",
         "target" : "808",
         "shared_name" : "(to Jim) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Jim) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1652,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1652,
         "selected" : false
       },
       "selected" : false
@@ -4307,10 +4319,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "792",
         "target" : "804",
         "shared_name" : "(with a chuckle) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(with a chuckle) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1650,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1650,
         "selected" : false
       },
       "selected" : false
@@ -4320,10 +4333,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "790",
         "target" : "804",
         "shared_name" : "(raises an eyebrow) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(raises an eyebrow) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1648,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1648,
         "selected" : false
       },
       "selected" : false
@@ -4333,10 +4347,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "790",
         "target" : "718",
         "shared_name" : "(raises an eyebrow) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(raises an eyebrow) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1646,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1646,
         "selected" : false
       },
       "selected" : false
@@ -4346,10 +4361,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "788",
         "target" : "804",
         "shared_name" : "(matter-of- factly) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(matter-of- factly) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1644,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1644,
         "selected" : false
       },
       "selected" : false
@@ -4359,10 +4375,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "788",
         "target" : "738",
         "shared_name" : "(matter-of- factly) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(matter-of- factly) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1642,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1642,
         "selected" : false
       },
       "selected" : false
@@ -4372,10 +4389,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "786",
         "target" : "804",
         "shared_name" : "(shouts) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(shouts) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1640,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1640,
         "selected" : false
       },
       "selected" : false
@@ -4385,10 +4403,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "784",
         "target" : "782",
         "shared_name" : "(drops the hair) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(drops the hair) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1638,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1638,
         "selected" : false
       },
       "selected" : false
@@ -4398,10 +4417,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "780",
         "target" : "782",
         "shared_name" : "(to the phone) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to the phone) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1636,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1636,
         "selected" : false
       },
       "selected" : false
@@ -4411,10 +4431,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "780",
         "target" : "738",
         "shared_name" : "(to the phone) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to the phone) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1634,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1634,
         "selected" : false
       },
       "selected" : false
@@ -4424,10 +4445,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "780",
         "target" : "440",
         "shared_name" : "(to the phone) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to the phone) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1632,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1632,
         "selected" : false
       },
       "selected" : false
@@ -4437,10 +4459,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "778",
         "target" : "782",
         "shared_name" : "(pause, still looking in the mirror) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(pause, still looking in the mirror) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1630,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1630,
         "selected" : false
       },
       "selected" : false
@@ -4450,10 +4473,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "776",
         "target" : "782",
         "shared_name" : "(with a closing sigh) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(with a closing sigh) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1628,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1628,
         "selected" : false
       },
       "selected" : false
@@ -4463,10 +4487,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "774",
         "target" : "782",
         "shared_name" : "(bright, cheerful) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(bright, cheerful) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1626,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1626,
         "selected" : false
       },
       "selected" : false
@@ -4476,10 +4501,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "772",
         "target" : "782",
         "shared_name" : "(to herself, sarcastically) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to herself, sarcastically) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1624,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1624,
         "selected" : false
       },
       "selected" : false
@@ -4489,10 +4515,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "770",
         "target" : "808",
         "shared_name" : "(yells up the stairs) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(yells up the stairs) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1622,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1622,
         "selected" : false
       },
       "selected" : false
@@ -4502,10 +4529,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "768",
         "target" : "804",
         "shared_name" : "(to Brenda) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Brenda) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1620,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1620,
         "selected" : false
       },
       "selected" : false
@@ -4515,10 +4543,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "768",
         "target" : "800",
         "shared_name" : "(to Brenda) (sixteen candles) jim",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Brenda) (sixteen candles) jim",
         "interaction" : "sixteen candles",
         "SUID" : 1618,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1618,
         "selected" : false
       },
       "selected" : false
@@ -4528,10 +4557,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "768",
         "target" : "800",
         "shared_name" : "(to Brenda) (sixteen candles) jim",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Brenda) (sixteen candles) jim",
         "interaction" : "sixteen candles",
         "SUID" : 1616,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1616,
         "selected" : false
       },
       "selected" : false
@@ -4541,10 +4571,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "766",
         "target" : "804",
         "shared_name" : "(yells) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(yells) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1614,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1614,
         "selected" : false
       },
       "selected" : false
@@ -4554,10 +4585,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "766",
         "target" : "268",
         "shared_name" : "(yells) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(yells) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 1612,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1612,
         "selected" : false
       },
       "selected" : false
@@ -4567,10 +4599,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "764",
         "target" : "808",
         "shared_name" : "(to Sam) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Sam) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1610,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1610,
         "selected" : false
       },
       "selected" : false
@@ -4580,10 +4613,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "764",
         "target" : "808",
         "shared_name" : "(to Sam) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Sam) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1608,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1608,
         "selected" : false
       },
       "selected" : false
@@ -4593,10 +4627,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "764",
         "target" : "800",
         "shared_name" : "(to Sam) (sixteen candles) jim",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Sam) (sixteen candles) jim",
         "interaction" : "sixteen candles",
         "SUID" : 1606,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1606,
         "selected" : false
       },
       "selected" : false
@@ -4606,10 +4641,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "764",
         "target" : "808",
         "shared_name" : "(to Sam) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Sam) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1604,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1604,
         "selected" : false
       },
       "selected" : false
@@ -4619,10 +4655,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "764",
         "target" : "680",
         "shared_name" : "(to Sam) (sixteen candles) dorothy",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Sam) (sixteen candles) dorothy",
         "interaction" : "sixteen candles",
         "SUID" : 1602,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1602,
         "selected" : false
       },
       "selected" : false
@@ -4632,10 +4669,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "762",
         "target" : "808",
         "shared_name" : "(corrects him) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(corrects him) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1600,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1600,
         "selected" : false
       },
       "selected" : false
@@ -4645,10 +4683,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "760",
         "target" : "808",
         "shared_name" : "(kisses Sam's cheek) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(kisses Sam's cheek) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1598,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1598,
         "selected" : false
       },
       "selected" : false
@@ -4658,10 +4697,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "758",
         "target" : "804",
         "shared_name" : "(laughs) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(laughs) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1596,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1596,
         "selected" : false
       },
       "selected" : false
@@ -4671,10 +4711,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "758",
         "target" : "718",
         "shared_name" : "(laughs) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(laughs) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1594,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1594,
         "selected" : false
       },
       "selected" : false
@@ -4684,10 +4725,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "758",
         "target" : "292",
         "shared_name" : "(laughs) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(laughs) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1592,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1592,
         "selected" : false
       },
       "selected" : false
@@ -4697,10 +4739,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "756",
         "target" : "808",
         "shared_name" : "(weary) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(weary) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1590,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1590,
         "selected" : false
       },
       "selected" : false
@@ -4710,10 +4753,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "756",
         "target" : "416",
         "shared_name" : "(weary) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(weary) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1588,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1588,
         "selected" : false
       },
       "selected" : false
@@ -4723,10 +4767,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "754",
         "target" : "782",
         "shared_name" : "(to herself, incredulous) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to herself, incredulous) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1586,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1586,
         "selected" : false
       },
       "selected" : false
@@ -4736,10 +4781,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "752",
         "target" : "782",
         "shared_name" : "(devastated) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(devastated) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1584,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1584,
         "selected" : false
       },
       "selected" : false
@@ -4749,10 +4795,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "750",
         "target" : "782",
         "shared_name" : "(hesitant) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(hesitant) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1582,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1582,
         "selected" : false
       },
       "selected" : false
@@ -4762,10 +4809,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "748",
         "target" : "746",
         "shared_name" : "(incredulous) (sixteen candles) randy",
+        "shared_interaction" : "sixteen candles",
         "name" : "(incredulous) (sixteen candles) randy",
         "interaction" : "sixteen candles",
         "SUID" : 1580,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1580,
         "selected" : false
       },
       "selected" : false
@@ -4775,10 +4823,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "748",
         "target" : "738",
         "shared_name" : "(incredulous) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(incredulous) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1578,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1578,
         "selected" : false
       },
       "selected" : false
@@ -4788,10 +4837,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "744",
         "target" : "782",
         "shared_name" : "(hurt) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(hurt) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1576,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1576,
         "selected" : false
       },
       "selected" : false
@@ -4801,10 +4851,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "742",
         "target" : "782",
         "shared_name" : "(agrees) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(agrees) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1574,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1574,
         "selected" : false
       },
       "selected" : false
@@ -4814,10 +4865,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "740",
         "target" : "738",
         "shared_name" : "(cautiously) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(cautiously) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1572,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1572,
         "selected" : false
       },
       "selected" : false
@@ -4827,10 +4879,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "736",
         "target" : "738",
         "shared_name" : "(takes offense) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(takes offense) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1570,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1570,
         "selected" : false
       },
       "selected" : false
@@ -4840,10 +4893,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "734",
         "target" : "732",
         "shared_name" : "(puzzled) (sixteen candles) rock",
+        "shared_interaction" : "sixteen candles",
         "name" : "(puzzled) (sixteen candles) rock",
         "interaction" : "sixteen candles",
         "SUID" : 1568,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1568,
         "selected" : false
       },
       "selected" : false
@@ -4853,10 +4907,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "734",
         "target" : "702",
         "shared_name" : "(puzzled) (sixteen candles) dong",
+        "shared_interaction" : "sixteen candles",
         "name" : "(puzzled) (sixteen candles) dong",
         "interaction" : "sixteen candles",
         "SUID" : 1566,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1566,
         "selected" : false
       },
       "selected" : false
@@ -4866,10 +4921,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "734",
         "target" : "738",
         "shared_name" : "(puzzled) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(puzzled) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1564,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1564,
         "selected" : false
       },
       "selected" : false
@@ -4879,10 +4935,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "730",
         "target" : "738",
         "shared_name" : "(frustrated) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(frustrated) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1562,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1562,
         "selected" : false
       },
       "selected" : false
@@ -4892,10 +4949,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "728",
         "target" : "738",
         "shared_name" : "(sighs) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sighs) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1560,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1560,
         "selected" : false
       },
       "selected" : false
@@ -4905,10 +4963,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "728",
         "target" : "738",
         "shared_name" : "(sighs) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sighs) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1558,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1558,
         "selected" : false
       },
       "selected" : false
@@ -4918,10 +4977,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "726",
         "target" : "732",
         "shared_name" : "(worried) (sixteen candles) rock",
+        "shared_interaction" : "sixteen candles",
         "name" : "(worried) (sixteen candles) rock",
         "interaction" : "sixteen candles",
         "SUID" : 1556,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1556,
         "selected" : false
       },
       "selected" : false
@@ -4931,10 +4991,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "726",
         "target" : "452",
         "shared_name" : "(worried) (ferris bueller) katie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(worried) (ferris bueller) katie",
         "interaction" : "ferris bueller",
         "SUID" : 1554,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1554,
         "selected" : false
       },
       "selected" : false
@@ -4944,10 +5005,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "726",
         "target" : "456",
         "shared_name" : "(worried) (ferris bueller) cut",
+        "shared_interaction" : "ferris bueller",
         "name" : "(worried) (ferris bueller) cut",
         "interaction" : "ferris bueller",
         "SUID" : 1552,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1552,
         "selected" : false
       },
       "selected" : false
@@ -4957,10 +5019,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "726",
         "target" : "292",
         "shared_name" : "(worried) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(worried) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1550,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1550,
         "selected" : false
       },
       "selected" : false
@@ -4970,10 +5033,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "724",
         "target" : "782",
         "shared_name" : "(with an exagerrated sigh) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(with an exagerrated sigh) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1548,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1548,
         "selected" : false
       },
       "selected" : false
@@ -4983,10 +5047,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "722",
         "target" : "796",
         "shared_name" : "(phoney) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(phoney) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1546,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1546,
         "selected" : false
       },
       "selected" : false
@@ -4996,10 +5061,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "722",
         "target" : "796",
         "shared_name" : "(phoney) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(phoney) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1544,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1544,
         "selected" : false
       },
       "selected" : false
@@ -5009,10 +5075,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "720",
         "target" : "782",
         "shared_name" : "(annoyed) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(annoyed) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1542,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1542,
         "selected" : false
       },
       "selected" : false
@@ -5022,10 +5089,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "720",
         "target" : "452",
         "shared_name" : "(annoyed) (ferris bueller) katie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(annoyed) (ferris bueller) katie",
         "interaction" : "ferris bueller",
         "SUID" : 1540,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1540,
         "selected" : false
       },
       "selected" : false
@@ -5035,10 +5103,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "716",
         "target" : "782",
         "shared_name" : "(forces a smile) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(forces a smile) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1538,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1538,
         "selected" : false
       },
       "selected" : false
@@ -5048,10 +5117,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "716",
         "target" : "782",
         "shared_name" : "(forces a smile) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(forces a smile) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1536,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1536,
         "selected" : false
       },
       "selected" : false
@@ -5061,10 +5131,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "714",
         "target" : "782",
         "shared_name" : "(unenthusiastic) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(unenthusiastic) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1534,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1534,
         "selected" : false
       },
       "selected" : false
@@ -5074,10 +5145,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "712",
         "target" : "782",
         "shared_name" : "(weary of the hoary old joke) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(weary of the hoary old joke) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1532,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1532,
         "selected" : false
       },
       "selected" : false
@@ -5087,10 +5159,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "710",
         "target" : "708",
         "shared_name" : "(clicks her tongue) (sixteen candles) helen",
+        "shared_interaction" : "sixteen candles",
         "name" : "(clicks her tongue) (sixteen candles) helen",
         "interaction" : "sixteen candles",
         "SUID" : 1530,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1530,
         "selected" : false
       },
       "selected" : false
@@ -5100,10 +5173,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "706",
         "target" : "708",
         "shared_name" : "(to Fred) (sixteen candles) helen",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Fred) (sixteen candles) helen",
         "interaction" : "sixteen candles",
         "SUID" : 1528,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1528,
         "selected" : false
       },
       "selected" : false
@@ -5113,10 +5187,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "706",
         "target" : "502",
         "shared_name" : "(to Fred) (sixteen candles) howard",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Fred) (sixteen candles) howard",
         "interaction" : "sixteen candles",
         "SUID" : 1526,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1526,
         "selected" : false
       },
       "selected" : false
@@ -5126,10 +5201,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "704",
         "target" : "702",
         "shared_name" : "(thick accent) (sixteen candles) dong",
+        "shared_interaction" : "sixteen candles",
         "name" : "(thick accent) (sixteen candles) dong",
         "interaction" : "sixteen candles",
         "SUID" : 1524,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1524,
         "selected" : false
       },
       "selected" : false
@@ -5139,10 +5215,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "700",
         "target" : "808",
         "shared_name" : "(angry) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(angry) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1522,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1522,
         "selected" : false
       },
       "selected" : false
@@ -5152,10 +5229,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "700",
         "target" : "738",
         "shared_name" : "(angry) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(angry) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1520,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1520,
         "selected" : false
       },
       "selected" : false
@@ -5165,10 +5243,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "700",
         "target" : "416",
         "shared_name" : "(angry) (breakfast club) misc",
+        "shared_interaction" : "breakfast club",
         "name" : "(angry) (breakfast club) misc",
         "interaction" : "breakfast club",
         "SUID" : 1518,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1518,
         "selected" : false
       },
       "selected" : false
@@ -5178,10 +5257,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "700",
         "target" : "292",
         "shared_name" : "(angry) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(angry) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1516,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1516,
         "selected" : false
       },
       "selected" : false
@@ -5191,10 +5271,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "698",
         "target" : "782",
         "shared_name" : "(hinting again) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(hinting again) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1514,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1514,
         "selected" : false
       },
       "selected" : false
@@ -5204,10 +5285,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "696",
         "target" : "782",
         "shared_name" : "(disappointed) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(disappointed) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1512,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1512,
         "selected" : false
       },
       "selected" : false
@@ -5217,10 +5299,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "696",
         "target" : "708",
         "shared_name" : "(disappointed) (sixteen candles) helen",
+        "shared_interaction" : "sixteen candles",
         "name" : "(disappointed) (sixteen candles) helen",
         "interaction" : "sixteen candles",
         "SUID" : 1510,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1510,
         "selected" : false
       },
       "selected" : false
@@ -5230,10 +5313,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "694",
         "target" : "782",
         "shared_name" : "(suspicious) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(suspicious) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1508,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1508,
         "selected" : false
       },
       "selected" : false
@@ -5243,10 +5327,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "694",
         "target" : "782",
         "shared_name" : "(suspicious) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(suspicious) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1506,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1506,
         "selected" : false
       },
       "selected" : false
@@ -5256,10 +5341,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "694",
         "target" : "650",
         "shared_name" : "(suspicious) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(suspicious) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1504,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1504,
         "selected" : false
       },
       "selected" : false
@@ -5269,10 +5355,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "694",
         "target" : "420",
         "shared_name" : "(suspicious) (ferris bueller) cameron",
+        "shared_interaction" : "ferris bueller",
         "name" : "(suspicious) (ferris bueller) cameron",
         "interaction" : "ferris bueller",
         "SUID" : 1502,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1502,
         "selected" : false
       },
       "selected" : false
@@ -5282,10 +5369,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "692",
         "target" : "804",
         "shared_name" : "(with sadistic glee) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(with sadistic glee) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1500,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1500,
         "selected" : false
       },
       "selected" : false
@@ -5295,10 +5383,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "690",
         "target" : "782",
         "shared_name" : "(kidding) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(kidding) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1498,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1498,
         "selected" : false
       },
       "selected" : false
@@ -5308,10 +5397,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "688",
         "target" : "782",
         "shared_name" : "(timidly) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(timidly) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1496,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1496,
         "selected" : false
       },
       "selected" : false
@@ -5321,10 +5411,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "686",
         "target" : "782",
         "shared_name" : "(offended) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(offended) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1494,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1494,
         "selected" : false
       },
       "selected" : false
@@ -5334,10 +5425,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "796",
         "shared_name" : "(pause) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(pause) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1492,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1492,
         "selected" : false
       },
       "selected" : false
@@ -5347,10 +5439,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "800",
         "shared_name" : "(pause) (sixteen candles) jim",
+        "shared_interaction" : "sixteen candles",
         "name" : "(pause) (sixteen candles) jim",
         "interaction" : "sixteen candles",
         "SUID" : 1490,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1490,
         "selected" : false
       },
       "selected" : false
@@ -5360,10 +5453,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "718",
         "shared_name" : "(pause) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(pause) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1488,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1488,
         "selected" : false
       },
       "selected" : false
@@ -5373,10 +5467,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "440",
         "shared_name" : "(pause) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1486,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1486,
         "selected" : false
       },
       "selected" : false
@@ -5386,10 +5481,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "440",
         "shared_name" : "(pause) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1484,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1484,
         "selected" : false
       },
       "selected" : false
@@ -5399,10 +5495,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "416",
         "shared_name" : "(pause) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1482,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1482,
         "selected" : false
       },
       "selected" : false
@@ -5412,10 +5509,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "416",
         "shared_name" : "(pause) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1480,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1480,
         "selected" : false
       },
       "selected" : false
@@ -5425,10 +5523,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "416",
         "shared_name" : "(pause) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1478,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1478,
         "selected" : false
       },
       "selected" : false
@@ -5438,10 +5537,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "416",
         "shared_name" : "(pause) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1476,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1476,
         "selected" : false
       },
       "selected" : false
@@ -5451,10 +5551,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "416",
         "shared_name" : "(pause) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1474,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1474,
         "selected" : false
       },
       "selected" : false
@@ -5464,10 +5565,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "416",
         "shared_name" : "(pause) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1472,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1472,
         "selected" : false
       },
       "selected" : false
@@ -5477,10 +5579,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "434",
         "shared_name" : "(pause) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1470,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1470,
         "selected" : false
       },
       "selected" : false
@@ -5490,10 +5593,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "440",
         "shared_name" : "(pause) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1468,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1468,
         "selected" : false
       },
       "selected" : false
@@ -5503,10 +5607,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "456",
         "shared_name" : "(pause) (ferris bueller) cut",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) cut",
         "interaction" : "ferris bueller",
         "SUID" : 1466,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1466,
         "selected" : false
       },
       "selected" : false
@@ -5516,10 +5621,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "440",
         "shared_name" : "(pause) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1464,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1464,
         "selected" : false
       },
       "selected" : false
@@ -5529,10 +5635,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "684",
         "target" : "434",
         "shared_name" : "(pause) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(pause) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1462,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1462,
         "selected" : false
       },
       "selected" : false
@@ -5542,10 +5649,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "682",
         "target" : "782",
         "shared_name" : "(sheepishly) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sheepishly) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1460,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1460,
         "selected" : false
       },
       "selected" : false
@@ -5555,10 +5663,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "678",
         "target" : "702",
         "shared_name" : "(cloying) (sixteen candles) dong",
+        "shared_interaction" : "sixteen candles",
         "name" : "(cloying) (sixteen candles) dong",
         "interaction" : "sixteen candles",
         "SUID" : 1458,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1458,
         "selected" : false
       },
       "selected" : false
@@ -5568,10 +5677,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "676",
         "target" : "782",
         "shared_name" : "(bullshitting) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(bullshitting) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1456,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1456,
         "selected" : false
       },
       "selected" : false
@@ -5581,10 +5691,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "674",
         "target" : "680",
         "shared_name" : "(to Dong, excited) (sixteen candles) dorothy",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Dong, excited) (sixteen candles) dorothy",
         "interaction" : "sixteen candles",
         "SUID" : 1454,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1454,
         "selected" : false
       },
       "selected" : false
@@ -5594,10 +5705,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "672",
         "target" : "702",
         "shared_name" : "(holds up three fingers) (sixteen candles) dong",
+        "shared_interaction" : "sixteen candles",
         "name" : "(holds up three fingers) (sixteen candles) dong",
         "interaction" : "sixteen candles",
         "SUID" : 1452,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1452,
         "selected" : false
       },
       "selected" : false
@@ -5607,10 +5719,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "670",
         "target" : "702",
         "shared_name" : "(lecherous) (sixteen candles) dong",
+        "shared_interaction" : "sixteen candles",
         "name" : "(lecherous) (sixteen candles) dong",
         "interaction" : "sixteen candles",
         "SUID" : 1450,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1450,
         "selected" : false
       },
       "selected" : false
@@ -5620,10 +5733,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "668",
         "target" : "718",
         "shared_name" : "(proud, cool) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(proud, cool) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1448,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1448,
         "selected" : false
       },
       "selected" : false
@@ -5633,10 +5747,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "666",
         "target" : "664",
         "shared_name" : "(looks at the Geek, incredulous) (sixteen candles) bryce",
+        "shared_interaction" : "sixteen candles",
         "name" : "(looks at the Geek, incredulous) (sixteen candles) bryce",
         "interaction" : "sixteen candles",
         "SUID" : 1446,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1446,
         "selected" : false
       },
       "selected" : false
@@ -5646,10 +5761,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "662",
         "target" : "718",
         "shared_name" : "(cool and confident) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(cool and confident) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1444,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1444,
         "selected" : false
       },
       "selected" : false
@@ -5659,10 +5775,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "660",
         "target" : "718",
         "shared_name" : "(looking over his shoulder to DJ) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(looking over his shoulder to DJ) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1442,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1442,
         "selected" : false
       },
       "selected" : false
@@ -5672,10 +5789,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "658",
         "target" : "656",
         "shared_name" : "(with a laugh) (sixteen candles) cliff",
+        "shared_interaction" : "sixteen candles",
         "name" : "(with a laugh) (sixteen candles) cliff",
         "interaction" : "sixteen candles",
         "SUID" : 1440,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1440,
         "selected" : false
       },
       "selected" : false
@@ -5685,10 +5803,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "654",
         "target" : "738",
         "shared_name" : "(impatient with Geek's jive) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(impatient with Geek's jive) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1438,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1438,
         "selected" : false
       },
       "selected" : false
@@ -5698,10 +5817,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "652",
         "target" : "650",
         "shared_name" : "(mischievously) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(mischievously) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1436,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1436,
         "selected" : false
       },
       "selected" : false
@@ -5711,10 +5831,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "648",
         "target" : "650",
         "shared_name" : "(pleasant) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(pleasant) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1434,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1434,
         "selected" : false
       },
       "selected" : false
@@ -5724,10 +5845,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "646",
         "target" : "782",
         "shared_name" : "(clears her throat) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(clears her throat) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1432,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1432,
         "selected" : false
       },
       "selected" : false
@@ -5737,10 +5859,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "644",
         "target" : "782",
         "shared_name" : "(introduces Randy) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(introduces Randy) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1430,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1430,
         "selected" : false
       },
       "selected" : false
@@ -5750,10 +5873,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "642",
         "target" : "782",
         "shared_name" : "(introduces the Geek) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(introduces the Geek) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1428,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1428,
         "selected" : false
       },
       "selected" : false
@@ -5763,10 +5887,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "640",
         "target" : "718",
         "shared_name" : "(to Sam, with his eye on his buddies across the gym) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Sam, with his eye on his buddies across the gym) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1426,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1426,
         "selected" : false
       },
       "selected" : false
@@ -5776,10 +5901,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "638",
         "target" : "782",
         "shared_name" : "(to Randy and Jimmy) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Randy and Jimmy) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1424,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1424,
         "selected" : false
       },
       "selected" : false
@@ -5789,10 +5915,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "636",
         "target" : "718",
         "shared_name" : "(concerned) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(concerned) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1422,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1422,
         "selected" : false
       },
       "selected" : false
@@ -5802,10 +5929,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "634",
         "target" : "782",
         "shared_name" : "(second thoughts) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(second thoughts) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1420,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1420,
         "selected" : false
       },
       "selected" : false
@@ -5815,10 +5943,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "632",
         "target" : "718",
         "shared_name" : "(nervously) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(nervously) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1418,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1418,
         "selected" : false
       },
       "selected" : false
@@ -5828,10 +5957,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "630",
         "target" : "718",
         "shared_name" : "(dead serious) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(dead serious) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1416,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1416,
         "selected" : false
       },
       "selected" : false
@@ -5841,10 +5971,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "628",
         "target" : "718",
         "shared_name" : "(crosses his heart) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(crosses his heart) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1414,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1414,
         "selected" : false
       },
       "selected" : false
@@ -5854,10 +5985,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "626",
         "target" : "782",
         "shared_name" : "(repulsed) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(repulsed) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1412,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1412,
         "selected" : false
       },
       "selected" : false
@@ -5867,10 +5999,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "624",
         "target" : "718",
         "shared_name" : "(misunderstands her) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(misunderstands her) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1410,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1410,
         "selected" : false
       },
       "selected" : false
@@ -5880,10 +6013,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "622",
         "target" : "718",
         "shared_name" : "(hopeful) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(hopeful) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1408,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1408,
         "selected" : false
       },
       "selected" : false
@@ -5893,10 +6027,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "620",
         "target" : "782",
         "shared_name" : "(laughs at herself) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(laughs at herself) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1406,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1406,
         "selected" : false
       },
       "selected" : false
@@ -5906,10 +6041,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "618",
         "target" : "718",
         "shared_name" : "(surprised) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(surprised) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1404,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1404,
         "selected" : false
       },
       "selected" : false
@@ -5919,10 +6055,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "618",
         "target" : "702",
         "shared_name" : "(surprised) (sixteen candles) dong",
+        "shared_interaction" : "sixteen candles",
         "name" : "(surprised) (sixteen candles) dong",
         "interaction" : "sixteen candles",
         "SUID" : 1402,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1402,
         "selected" : false
       },
       "selected" : false
@@ -5932,10 +6069,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "616",
         "target" : "782",
         "shared_name" : "(to the Geek) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to the Geek) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1400,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1400,
         "selected" : false
       },
       "selected" : false
@@ -5945,10 +6083,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "616",
         "target" : "650",
         "shared_name" : "(to the Geek) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to the Geek) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1398,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1398,
         "selected" : false
       },
       "selected" : false
@@ -5958,10 +6097,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "614",
         "target" : "782",
         "shared_name" : "(impatient) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(impatient) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1396,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1396,
         "selected" : false
       },
       "selected" : false
@@ -5971,10 +6111,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "614",
         "target" : "738",
         "shared_name" : "(impatient) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(impatient) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1394,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1394,
         "selected" : false
       },
       "selected" : false
@@ -5984,10 +6125,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "612",
         "target" : "718",
         "shared_name" : "(scared) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(scared) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1392,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1392,
         "selected" : false
       },
       "selected" : false
@@ -5997,10 +6139,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "610",
         "target" : "782",
         "shared_name" : "(suspicous) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(suspicous) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1390,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1390,
         "selected" : false
       },
       "selected" : false
@@ -6010,10 +6153,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "608",
         "target" : "718",
         "shared_name" : "(choked, cracking voice) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(choked, cracking voice) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1388,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1388,
         "selected" : false
       },
       "selected" : false
@@ -6023,10 +6167,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "606",
         "target" : "738",
         "shared_name" : "(not paying attention) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(not paying attention) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1386,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1386,
         "selected" : false
       },
       "selected" : false
@@ -6036,10 +6181,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "604",
         "target" : "650",
         "shared_name" : "(snuggles him) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(snuggles him) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1384,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1384,
         "selected" : false
       },
       "selected" : false
@@ -6049,10 +6195,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "602",
         "target" : "650",
         "shared_name" : "(kisses his neck) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(kisses his neck) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1382,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1382,
         "selected" : false
       },
       "selected" : false
@@ -6062,10 +6209,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "600",
         "target" : "738",
         "shared_name" : "(voice cracks) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(voice cracks) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1380,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1380,
         "selected" : false
       },
       "selected" : false
@@ -6075,10 +6223,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "598",
         "target" : "738",
         "shared_name" : "(nervous chuckles) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(nervous chuckles) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1378,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1378,
         "selected" : false
       },
       "selected" : false
@@ -6088,10 +6237,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "596",
         "target" : "650",
         "shared_name" : "(cold and serious) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(cold and serious) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1376,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1376,
         "selected" : false
       },
       "selected" : false
@@ -6101,10 +6251,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "594",
         "target" : "650",
         "shared_name" : "(sweet and conciliatory) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sweet and conciliatory) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1374,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1374,
         "selected" : false
       },
       "selected" : false
@@ -6114,10 +6265,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "592",
         "target" : "782",
         "shared_name" : "(chirpy, cheerful) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(chirpy, cheerful) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1372,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1372,
         "selected" : false
       },
       "selected" : false
@@ -6127,10 +6279,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "590",
         "target" : "782",
         "shared_name" : "(sultry) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sultry) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1370,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1370,
         "selected" : false
       },
       "selected" : false
@@ -6140,10 +6293,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "588",
         "target" : "782",
         "shared_name" : "(straight- forward) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(straight- forward) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1368,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1368,
         "selected" : false
       },
       "selected" : false
@@ -6153,10 +6307,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "586",
         "target" : "782",
         "shared_name" : "(another try) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(another try) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1366,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1366,
         "selected" : false
       },
       "selected" : false
@@ -6166,10 +6321,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "584",
         "target" : "782",
         "shared_name" : "(a final ploy) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(a final ploy) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1364,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1364,
         "selected" : false
       },
       "selected" : false
@@ -6179,10 +6335,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "582",
         "target" : "580",
         "shared_name" : "(embarrassed) (sixteen candles) lumberjack",
+        "shared_interaction" : "sixteen candles",
         "name" : "(embarrassed) (sixteen candles) lumberjack",
         "interaction" : "sixteen candles",
         "SUID" : 1362,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1362,
         "selected" : false
       },
       "selected" : false
@@ -6192,10 +6349,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "582",
         "target" : "718",
         "shared_name" : "(embarrassed) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(embarrassed) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1360,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1360,
         "selected" : false
       },
       "selected" : false
@@ -6205,10 +6363,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "582",
         "target" : "808",
         "shared_name" : "(embarrassed) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(embarrassed) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1358,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1358,
         "selected" : false
       },
       "selected" : false
@@ -6218,10 +6377,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "582",
         "target" : "650",
         "shared_name" : "(embarrassed) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(embarrassed) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1356,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1356,
         "selected" : false
       },
       "selected" : false
@@ -6231,10 +6391,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "578",
         "target" : "782",
         "shared_name" : "(stunned monotone) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(stunned monotone) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1354,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1354,
         "selected" : false
       },
       "selected" : false
@@ -6244,10 +6405,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "576",
         "target" : "782",
         "shared_name" : "(sniffles) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sniffles) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1352,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1352,
         "selected" : false
       },
       "selected" : false
@@ -6257,10 +6419,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "574",
         "target" : "800",
         "shared_name" : "(changing the subject) (sixteen candles) jim",
+        "shared_interaction" : "sixteen candles",
         "name" : "(changing the subject) (sixteen candles) jim",
         "interaction" : "sixteen candles",
         "SUID" : 1350,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1350,
         "selected" : false
       },
       "selected" : false
@@ -6270,10 +6433,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "572",
         "target" : "570",
         "shared_name" : "(jerks her thumb to Ginny) (sixteen candles) irene",
+        "shared_interaction" : "sixteen candles",
         "name" : "(jerks her thumb to Ginny) (sixteen candles) irene",
         "interaction" : "sixteen candles",
         "SUID" : 1348,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1348,
         "selected" : false
       },
       "selected" : false
@@ -6283,10 +6447,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "568",
         "target" : "566",
         "shared_name" : "(to Ginny) (sixteen candles) rudy",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Ginny) (sixteen candles) rudy",
         "interaction" : "sixteen candles",
         "SUID" : 1346,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1346,
         "selected" : false
       },
       "selected" : false
@@ -6296,10 +6461,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "564",
         "target" : "650",
         "shared_name" : "(drunk) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(drunk) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1344,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1344,
         "selected" : false
       },
       "selected" : false
@@ -6309,10 +6475,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "562",
         "target" : "650",
         "shared_name" : "(sees the bubbles) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sees the bubbles) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1342,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1342,
         "selected" : false
       },
       "selected" : false
@@ -6322,10 +6489,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "560",
         "target" : "738",
         "shared_name" : "(repeats after the operator) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(repeats after the operator) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1340,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1340,
         "selected" : false
       },
       "selected" : false
@@ -6335,10 +6503,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "558",
         "target" : "680",
         "shared_name" : "(looks at Howard) (sixteen candles) dorothy",
+        "shared_interaction" : "sixteen candles",
         "name" : "(looks at Howard) (sixteen candles) dorothy",
         "interaction" : "sixteen candles",
         "SUID" : 1338,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1338,
         "selected" : false
       },
       "selected" : false
@@ -6348,10 +6517,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "556",
         "target" : "782",
         "shared_name" : "(sadly) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sadly) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1336,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1336,
         "selected" : false
       },
       "selected" : false
@@ -6361,10 +6531,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "554",
         "target" : "552",
         "shared_name" : "(fast) (sixteen candles) megan",
+        "shared_interaction" : "sixteen candles",
         "name" : "(fast) (sixteen candles) megan",
         "interaction" : "sixteen candles",
         "SUID" : 1334,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1334,
         "selected" : false
       },
       "selected" : false
@@ -6374,10 +6545,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "554",
         "target" : "552",
         "shared_name" : "(fast) (sixteen candles) megan",
+        "shared_interaction" : "sixteen candles",
         "name" : "(fast) (sixteen candles) megan",
         "interaction" : "sixteen candles",
         "SUID" : 1332,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1332,
         "selected" : false
       },
       "selected" : false
@@ -6387,10 +6559,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "550",
         "target" : "718",
         "shared_name" : "(flattered) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(flattered) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1330,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1330,
         "selected" : false
       },
       "selected" : false
@@ -6400,10 +6573,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "548",
         "target" : "732",
         "shared_name" : "(hands him a beer) (sixteen candles) rock",
+        "shared_interaction" : "sixteen candles",
         "name" : "(hands him a beer) (sixteen candles) rock",
         "interaction" : "sixteen candles",
         "SUID" : 1328,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1328,
         "selected" : false
       },
       "selected" : false
@@ -6413,10 +6587,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "546",
         "target" : "702",
         "shared_name" : "(stoned; drunk) (sixteen candles) dong",
+        "shared_interaction" : "sixteen candles",
         "name" : "(stoned; drunk) (sixteen candles) dong",
         "interaction" : "sixteen candles",
         "SUID" : 1326,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1326,
         "selected" : false
       },
       "selected" : false
@@ -6426,10 +6601,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "544",
         "target" : "800",
         "shared_name" : "(whispers) (sixteen candles) jim",
+        "shared_interaction" : "sixteen candles",
         "name" : "(whispers) (sixteen candles) jim",
         "interaction" : "sixteen candles",
         "SUID" : 1324,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1324,
         "selected" : false
       },
       "selected" : false
@@ -6439,10 +6615,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "544",
         "target" : "796",
         "shared_name" : "(whispers) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(whispers) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1322,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1322,
         "selected" : false
       },
       "selected" : false
@@ -6452,10 +6629,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "544",
         "target" : "452",
         "shared_name" : "(whispers) (ferris bueller) katie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(whispers) (ferris bueller) katie",
         "interaction" : "ferris bueller",
         "SUID" : 1320,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1320,
         "selected" : false
       },
       "selected" : false
@@ -6465,10 +6643,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "544",
         "target" : "388",
         "shared_name" : "(whispers) (ferris bueller) sloane",
+        "shared_interaction" : "ferris bueller",
         "name" : "(whispers) (ferris bueller) sloane",
         "interaction" : "ferris bueller",
         "SUID" : 1318,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1318,
         "selected" : false
       },
       "selected" : false
@@ -6478,10 +6657,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "544",
         "target" : "384",
         "shared_name" : "(whispers) (ferris bueller) rooney",
+        "shared_interaction" : "ferris bueller",
         "name" : "(whispers) (ferris bueller) rooney",
         "interaction" : "ferris bueller",
         "SUID" : 1316,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1316,
         "selected" : false
       },
       "selected" : false
@@ -6491,10 +6671,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "544",
         "target" : "456",
         "shared_name" : "(whispers) (ferris bueller) cut",
+        "shared_interaction" : "ferris bueller",
         "name" : "(whispers) (ferris bueller) cut",
         "interaction" : "ferris bueller",
         "SUID" : 1314,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1314,
         "selected" : false
       },
       "selected" : false
@@ -6504,10 +6685,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "542",
         "target" : "800",
         "shared_name" : "(shakes his head) (sixteen candles) jim",
+        "shared_interaction" : "sixteen candles",
         "name" : "(shakes his head) (sixteen candles) jim",
         "interaction" : "sixteen candles",
         "SUID" : 1312,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1312,
         "selected" : false
       },
       "selected" : false
@@ -6517,10 +6699,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "540",
         "target" : "718",
         "shared_name" : "(serious) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(serious) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1310,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1310,
         "selected" : false
       },
       "selected" : false
@@ -6530,10 +6713,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "540",
         "target" : "440",
         "shared_name" : "(serious) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(serious) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1308,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1308,
         "selected" : false
       },
       "selected" : false
@@ -6543,10 +6727,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "538",
         "target" : "718",
         "shared_name" : "(sexy; macho) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sexy; macho) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1306,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1306,
         "selected" : false
       },
       "selected" : false
@@ -6556,10 +6741,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "536",
         "target" : "738",
         "shared_name" : "(refers to the panties) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(refers to the panties) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1304,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1304,
         "selected" : false
       },
       "selected" : false
@@ -6569,10 +6755,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "534",
         "target" : "738",
         "shared_name" : "(referring to the skirt) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(referring to the skirt) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1302,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1302,
         "selected" : false
       },
       "selected" : false
@@ -6582,10 +6769,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "532",
         "target" : "650",
         "shared_name" : "(referring to the Geek) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(referring to the Geek) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1300,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1300,
         "selected" : false
       },
       "selected" : false
@@ -6595,10 +6783,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "530",
         "target" : "738",
         "shared_name" : "(points to the Geek) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(points to the Geek) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1298,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1298,
         "selected" : false
       },
       "selected" : false
@@ -6608,10 +6797,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "528",
         "target" : "650",
         "shared_name" : "(confused but convinced) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(confused but convinced) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1296,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1296,
         "selected" : false
       },
       "selected" : false
@@ -6621,10 +6811,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "526",
         "target" : "702",
         "shared_name" : "(sexy coo) (sixteen candles) dong",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sexy coo) (sixteen candles) dong",
         "interaction" : "sixteen candles",
         "SUID" : 1294,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1294,
         "selected" : false
       },
       "selected" : false
@@ -6634,10 +6825,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "524",
         "target" : "718",
         "shared_name" : "(into the phone) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(into the phone) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1292,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1292,
         "selected" : false
       },
       "selected" : false
@@ -6647,10 +6839,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "522",
         "target" : "718",
         "shared_name" : "(firmly, manly) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(firmly, manly) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1290,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1290,
         "selected" : false
       },
       "selected" : false
@@ -6660,10 +6853,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "520",
         "target" : "656",
         "shared_name" : "(amazed) (sixteen candles) cliff",
+        "shared_interaction" : "sixteen candles",
         "name" : "(amazed) (sixteen candles) cliff",
         "interaction" : "sixteen candles",
         "SUID" : 1288,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1288,
         "selected" : false
       },
       "selected" : false
@@ -6673,10 +6867,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "518",
         "target" : "808",
         "shared_name" : "(fondly) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(fondly) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1286,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1286,
         "selected" : false
       },
       "selected" : false
@@ -6686,10 +6881,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "516",
         "target" : "796",
         "shared_name" : "(looks at her like she's nuts) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(looks at her like she's nuts) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1284,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1284,
         "selected" : false
       },
       "selected" : false
@@ -6699,10 +6895,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "514",
         "target" : "808",
         "shared_name" : "(on the verge of tears) (sixteen candles) brenda",
+        "shared_interaction" : "sixteen candles",
         "name" : "(on the verge of tears) (sixteen candles) brenda",
         "interaction" : "sixteen candles",
         "SUID" : 1282,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1282,
         "selected" : false
       },
       "selected" : false
@@ -6712,10 +6909,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "512",
         "target" : "804",
         "shared_name" : "(shrugs in agreement) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(shrugs in agreement) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1280,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1280,
         "selected" : false
       },
       "selected" : false
@@ -6725,10 +6923,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "510",
         "target" : "508",
         "shared_name" : "(to Howard and Jim) (sixteen candles) fred",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Howard and Jim) (sixteen candles) fred",
         "interaction" : "sixteen candles",
         "SUID" : 1278,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1278,
         "selected" : false
       },
       "selected" : false
@@ -6738,10 +6937,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "506",
         "target" : "508",
         "shared_name" : "(makes a face) (sixteen candles) fred",
+        "shared_interaction" : "sixteen candles",
         "name" : "(makes a face) (sixteen candles) fred",
         "interaction" : "sixteen candles",
         "SUID" : 1276,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1276,
         "selected" : false
       },
       "selected" : false
@@ -6751,10 +6951,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "504",
         "target" : "502",
         "shared_name" : "(sigh of relief, to the others) (sixteen candles) howard",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sigh of relief, to the others) (sixteen candles) howard",
         "interaction" : "sixteen candles",
         "SUID" : 1274,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1274,
         "selected" : false
       },
       "selected" : false
@@ -6764,10 +6965,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "500",
         "target" : "502",
         "shared_name" : "(to Dong, firm) (sixteen candles) howard",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Dong, firm) (sixteen candles) howard",
         "interaction" : "sixteen candles",
         "SUID" : 1272,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1272,
         "selected" : false
       },
       "selected" : false
@@ -6777,10 +6979,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "498",
         "target" : "702",
         "shared_name" : "(acts out driving the car into a lake) (sixteen candles) dong",
+        "shared_interaction" : "sixteen candles",
         "name" : "(acts out driving the car into a lake) (sixteen candles) dong",
         "interaction" : "sixteen candles",
         "SUID" : 1270,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1270,
         "selected" : false
       },
       "selected" : false
@@ -6790,10 +6993,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "496",
         "target" : "650",
         "shared_name" : "(baffled) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(baffled) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1268,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1268,
         "selected" : false
       },
       "selected" : false
@@ -6803,10 +7007,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "494",
         "target" : "796",
         "shared_name" : "(giggles) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(giggles) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1266,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1266,
         "selected" : false
       },
       "selected" : false
@@ -6816,10 +7021,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "492",
         "target" : "718",
         "shared_name" : "(answers his own questions) (sixteen candles) geek",
+        "shared_interaction" : "sixteen candles",
         "name" : "(answers his own questions) (sixteen candles) geek",
         "interaction" : "sixteen candles",
         "SUID" : 1264,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1264,
         "selected" : false
       },
       "selected" : false
@@ -6829,10 +7035,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "490",
         "target" : "702",
         "shared_name" : "(apologetic) (sixteen candles) dong",
+        "shared_interaction" : "sixteen candles",
         "name" : "(apologetic) (sixteen candles) dong",
         "interaction" : "sixteen candles",
         "SUID" : 1262,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1262,
         "selected" : false
       },
       "selected" : false
@@ -6842,10 +7049,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "488",
         "target" : "782",
         "shared_name" : "(sincere and warm) (sixteen candles) sam",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sincere and warm) (sixteen candles) sam",
         "interaction" : "sixteen candles",
         "SUID" : 1260,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1260,
         "selected" : false
       },
       "selected" : false
@@ -6855,10 +7063,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "486",
         "target" : "796",
         "shared_name" : "(slurry and high) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(slurry and high) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1258,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1258,
         "selected" : false
       },
       "selected" : false
@@ -6868,10 +7077,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "484",
         "target" : "738",
         "shared_name" : "(to the Driver) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to the Driver) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1256,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1256,
         "selected" : false
       },
       "selected" : false
@@ -6881,10 +7091,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "482",
         "target" : "738",
         "shared_name" : "(sighs with relief) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(sighs with relief) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1254,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1254,
         "selected" : false
       },
       "selected" : false
@@ -6894,10 +7105,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "480",
         "target" : "650",
         "shared_name" : "(voice distorted by the kiss) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(voice distorted by the kiss) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1252,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1252,
         "selected" : false
       },
       "selected" : false
@@ -6907,10 +7119,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "478",
         "target" : "650",
         "shared_name" : "(timid) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(timid) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1250,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1250,
         "selected" : false
       },
       "selected" : false
@@ -6920,10 +7133,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "476",
         "target" : "650",
         "shared_name" : "(nervous, to Jake) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(nervous, to Jake) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1248,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1248,
         "selected" : false
       },
       "selected" : false
@@ -6933,10 +7147,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "474",
         "target" : "650",
         "shared_name" : "(nervous chuckle) (sixteen candles) caroline",
+        "shared_interaction" : "sixteen candles",
         "name" : "(nervous chuckle) (sixteen candles) caroline",
         "interaction" : "sixteen candles",
         "SUID" : 1246,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1246,
         "selected" : false
       },
       "selected" : false
@@ -6946,10 +7161,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "472",
         "target" : "738",
         "shared_name" : "(recovers his pride) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(recovers his pride) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1244,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1244,
         "selected" : false
       },
       "selected" : false
@@ -6959,10 +7175,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "470",
         "target" : "738",
         "shared_name" : "(corrects her) (sixteen candles) jake",
+        "shared_interaction" : "sixteen candles",
         "name" : "(corrects her) (sixteen candles) jake",
         "interaction" : "sixteen candles",
         "SUID" : 1242,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1242,
         "selected" : false
       },
       "selected" : false
@@ -6972,10 +7189,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "468",
         "target" : "796",
         "shared_name" : "(looking at Rudy) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(looking at Rudy) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1240,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1240,
         "selected" : false
       },
       "selected" : false
@@ -6985,10 +7203,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "466",
         "target" : "796",
         "shared_name" : "(to Rudy) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(to Rudy) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1238,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1238,
         "selected" : false
       },
       "selected" : false
@@ -6998,10 +7217,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "464",
         "target" : "566",
         "shared_name" : "(ignores her) (sixteen candles) rudy",
+        "shared_interaction" : "sixteen candles",
         "name" : "(ignores her) (sixteen candles) rudy",
         "interaction" : "sixteen candles",
         "SUID" : 1236,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1236,
         "selected" : false
       },
       "selected" : false
@@ -7011,10 +7231,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "462",
         "target" : "796",
         "shared_name" : "(looks at her dress, whispers) (sixteen candles) ginny",
+        "shared_interaction" : "sixteen candles",
         "name" : "(looks at her dress, whispers) (sixteen candles) ginny",
         "interaction" : "sixteen candles",
         "SUID" : 1234,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1234,
         "selected" : false
       },
       "selected" : false
@@ -7024,10 +7245,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "460",
         "target" : "804",
         "shared_name" : "(wipes his nose on his sleeve) (sixteen candles) mike",
+        "shared_interaction" : "sixteen candles",
         "name" : "(wipes his nose on his sleeve) (sixteen candles) mike",
         "interaction" : "sixteen candles",
         "SUID" : 1232,
-        "shared_interaction" : "sixteen candles",
+        "BEND_MAP_ID" : 1232,
         "selected" : false
       },
       "selected" : false
@@ -7037,10 +7259,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "458",
         "target" : "456",
         "shared_name" : "(whispers, sadistic) (ferris bueller) cut",
+        "shared_interaction" : "ferris bueller",
         "name" : "(whispers, sadistic) (ferris bueller) cut",
         "interaction" : "ferris bueller",
         "SUID" : 1230,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1230,
         "selected" : false
       },
       "selected" : false
@@ -7050,10 +7273,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "454",
         "target" : "452",
         "shared_name" : "(screams) (ferris bueller) katie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(screams) (ferris bueller) katie",
         "interaction" : "ferris bueller",
         "SUID" : 1228,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1228,
         "selected" : false
       },
       "selected" : false
@@ -7063,10 +7287,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "454",
         "target" : "292",
         "shared_name" : "(screams) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(screams) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1226,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1226,
         "selected" : false
       },
       "selected" : false
@@ -7076,10 +7301,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "454",
         "target" : "284",
         "shared_name" : "(screams) (breakfast club) andrew",
+        "shared_interaction" : "breakfast club",
         "name" : "(screams) (breakfast club) andrew",
         "interaction" : "breakfast club",
         "SUID" : 1224,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1224,
         "selected" : false
       },
       "selected" : false
@@ -7089,10 +7315,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "454",
         "target" : "276",
         "shared_name" : "(screams) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(screams) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 1222,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1222,
         "selected" : false
       },
       "selected" : false
@@ -7102,10 +7329,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "454",
         "target" : "276",
         "shared_name" : "(screams) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(screams) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 1220,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1220,
         "selected" : false
       },
       "selected" : false
@@ -7115,10 +7343,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "450",
         "target" : "448",
         "shared_name" : "(breathless) (ferris bueller) tom",
+        "shared_interaction" : "ferris bueller",
         "name" : "(breathless) (ferris bueller) tom",
         "interaction" : "ferris bueller",
         "SUID" : 1218,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1218,
         "selected" : false
       },
       "selected" : false
@@ -7128,10 +7357,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "446",
         "target" : "452",
         "shared_name" : "(snaps) (ferris bueller) katie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(snaps) (ferris bueller) katie",
         "interaction" : "ferris bueller",
         "SUID" : 1216,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1216,
         "selected" : false
       },
       "selected" : false
@@ -7141,10 +7371,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "444",
         "target" : "448",
         "shared_name" : "(discreetly) (ferris bueller) tom",
+        "shared_interaction" : "ferris bueller",
         "name" : "(discreetly) (ferris bueller) tom",
         "interaction" : "ferris bueller",
         "SUID" : 1214,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1214,
         "selected" : false
       },
       "selected" : false
@@ -7154,10 +7385,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "442",
         "target" : "440",
         "shared_name" : "(raspy) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(raspy) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1212,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1212,
         "selected" : false
       },
       "selected" : false
@@ -7167,10 +7399,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "438",
         "target" : "452",
         "shared_name" : "(to Tom) (ferris bueller) katie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Tom) (ferris bueller) katie",
         "interaction" : "ferris bueller",
         "SUID" : 1210,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1210,
         "selected" : false
       },
       "selected" : false
@@ -7180,10 +7413,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "436",
         "target" : "434",
         "shared_name" : "(angry, defeated) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(angry, defeated) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1208,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1208,
         "selected" : false
       },
       "selected" : false
@@ -7193,10 +7427,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "432",
         "target" : "456",
         "shared_name" : "(yells out the room) (ferris bueller) cut",
+        "shared_interaction" : "ferris bueller",
         "name" : "(yells out the room) (ferris bueller) cut",
         "interaction" : "ferris bueller",
         "SUID" : 1206,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1206,
         "selected" : false
       },
       "selected" : false
@@ -7206,10 +7441,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "430",
         "target" : "452",
         "shared_name" : "(to Ferris) (ferris bueller) katie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Ferris) (ferris bueller) katie",
         "interaction" : "ferris bueller",
         "SUID" : 1204,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1204,
         "selected" : false
       },
       "selected" : false
@@ -7219,10 +7455,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "430",
         "target" : "420",
         "shared_name" : "(to Ferris) (ferris bueller) cameron",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Ferris) (ferris bueller) cameron",
         "interaction" : "ferris bueller",
         "SUID" : 1202,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1202,
         "selected" : false
       },
       "selected" : false
@@ -7232,10 +7469,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "430",
         "target" : "420",
         "shared_name" : "(to Ferris) (ferris bueller) cameron",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Ferris) (ferris bueller) cameron",
         "interaction" : "ferris bueller",
         "SUID" : 1200,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1200,
         "selected" : false
       },
       "selected" : false
@@ -7245,10 +7483,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "430",
         "target" : "416",
         "shared_name" : "(to Ferris) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Ferris) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1198,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1198,
         "selected" : false
       },
       "selected" : false
@@ -7258,10 +7497,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "430",
         "target" : "434",
         "shared_name" : "(to Ferris) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Ferris) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1196,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1196,
         "selected" : false
       },
       "selected" : false
@@ -7271,10 +7511,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "428",
         "target" : "440",
         "shared_name" : "(looks out the window) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(looks out the window) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1194,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1194,
         "selected" : false
       },
       "selected" : false
@@ -7284,10 +7525,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "426",
         "target" : "440",
         "shared_name" : "(sings) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(sings) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1192,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1192,
         "selected" : false
       },
       "selected" : false
@@ -7297,10 +7539,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "426",
         "target" : "440",
         "shared_name" : "(sings) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(sings) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1190,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1190,
         "selected" : false
       },
       "selected" : false
@@ -7310,10 +7553,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "426",
         "target" : "416",
         "shared_name" : "(sings) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(sings) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1188,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1188,
         "selected" : false
       },
       "selected" : false
@@ -7323,10 +7567,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "424",
         "target" : "440",
         "shared_name" : "(snaps his fingers) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(snaps his fingers) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1186,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1186,
         "selected" : false
       },
       "selected" : false
@@ -7336,10 +7581,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "422",
         "target" : "420",
         "shared_name" : "(weak) (ferris bueller) cameron",
+        "shared_interaction" : "ferris bueller",
         "name" : "(weak) (ferris bueller) cameron",
         "interaction" : "ferris bueller",
         "SUID" : 1184,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1184,
         "selected" : false
       },
       "selected" : false
@@ -7349,10 +7595,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "418",
         "target" : "440",
         "shared_name" : "(after-thought) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(after-thought) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1182,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1182,
         "selected" : false
       },
       "selected" : false
@@ -7362,10 +7609,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "414",
         "target" : "416",
         "shared_name" : "(cheery) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(cheery) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1180,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1180,
         "selected" : false
       },
       "selected" : false
@@ -7375,10 +7623,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "412",
         "target" : "440",
         "shared_name" : "(point to the phone) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(point to the phone) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1178,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1178,
         "selected" : false
       },
       "selected" : false
@@ -7388,10 +7637,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "410",
         "target" : "416",
         "shared_name" : "(to the Second Boy) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to the Second Boy) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1176,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1176,
         "selected" : false
       },
       "selected" : false
@@ -7401,10 +7651,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "408",
         "target" : "416",
         "shared_name" : "(excited) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(excited) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1174,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1174,
         "selected" : false
       },
       "selected" : false
@@ -7414,10 +7665,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "406",
         "target" : "416",
         "shared_name" : "(to Third Boy) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Third Boy) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1172,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1172,
         "selected" : false
       },
       "selected" : false
@@ -7427,10 +7679,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "404",
         "target" : "416",
         "shared_name" : "(jaw drops) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(jaw drops) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1170,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1170,
         "selected" : false
       },
       "selected" : false
@@ -7440,10 +7693,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "402",
         "target" : "416",
         "shared_name" : "(impressed) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(impressed) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1168,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1168,
         "selected" : false
       },
       "selected" : false
@@ -7453,10 +7707,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "400",
         "target" : "440",
         "shared_name" : "(looks at CAMERA and smiles) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(looks at CAMERA and smiles) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1166,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1166,
         "selected" : false
       },
       "selected" : false
@@ -7466,10 +7721,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "398",
         "target" : "440",
         "shared_name" : "(to CAMERA, normal voice) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to CAMERA, normal voice) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1164,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1164,
         "selected" : false
       },
       "selected" : false
@@ -7479,10 +7735,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "396",
         "target" : "440",
         "shared_name" : "(thinks) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(thinks) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1162,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1162,
         "selected" : false
       },
       "selected" : false
@@ -7492,10 +7749,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "394",
         "target" : "440",
         "shared_name" : "(to the phone, sick voice) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to the phone, sick voice) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1160,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1160,
         "selected" : false
       },
       "selected" : false
@@ -7505,10 +7763,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "392",
         "target" : "440",
         "shared_name" : "(waves the magazine) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(waves the magazine) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1158,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1158,
         "selected" : false
       },
       "selected" : false
@@ -7518,10 +7777,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "390",
         "target" : "416",
         "shared_name" : "(sneezes) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(sneezes) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1156,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1156,
         "selected" : false
       },
       "selected" : false
@@ -7531,10 +7791,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "386",
         "target" : "416",
         "shared_name" : "(nods solemnly) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(nods solemnly) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1154,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1154,
         "selected" : false
       },
       "selected" : false
@@ -7544,10 +7805,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "382",
         "target" : "384",
         "shared_name" : "(to phone) (ferris bueller) rooney",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to phone) (ferris bueller) rooney",
         "interaction" : "ferris bueller",
         "SUID" : 1152,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1152,
         "selected" : false
       },
       "selected" : false
@@ -7557,10 +7819,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "380",
         "target" : "420",
         "shared_name" : "(clears his throat) (ferris bueller) cameron",
+        "shared_interaction" : "ferris bueller",
         "name" : "(clears his throat) (ferris bueller) cameron",
         "interaction" : "ferris bueller",
         "SUID" : 1150,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1150,
         "selected" : false
       },
       "selected" : false
@@ -7570,10 +7833,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "378",
         "target" : "440",
         "shared_name" : "(mouths) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(mouths) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1148,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1148,
         "selected" : false
       },
       "selected" : false
@@ -7583,10 +7847,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "376",
         "target" : "440",
         "shared_name" : "(aside) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(aside) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1146,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1146,
         "selected" : false
       },
       "selected" : false
@@ -7596,10 +7861,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "374",
         "target" : "420",
         "shared_name" : "(suspiciously) (ferris bueller) cameron",
+        "shared_interaction" : "ferris bueller",
         "name" : "(suspiciously) (ferris bueller) cameron",
         "interaction" : "ferris bueller",
         "SUID" : 1144,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1144,
         "selected" : false
       },
       "selected" : false
@@ -7609,10 +7875,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "372",
         "target" : "420",
         "shared_name" : "(grim monotone) (ferris bueller) cameron",
+        "shared_interaction" : "ferris bueller",
         "name" : "(grim monotone) (ferris bueller) cameron",
         "interaction" : "ferris bueller",
         "SUID" : 1142,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1142,
         "selected" : false
       },
       "selected" : false
@@ -7622,10 +7889,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "370",
         "target" : "440",
         "shared_name" : "(big, proud smile) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(big, proud smile) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1140,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1140,
         "selected" : false
       },
       "selected" : false
@@ -7635,10 +7903,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "368",
         "target" : "440",
         "shared_name" : "(look around at Cameron) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(look around at Cameron) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1138,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1138,
         "selected" : false
       },
       "selected" : false
@@ -7648,10 +7917,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "366",
         "target" : "440",
         "shared_name" : "(to CAMERA) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to CAMERA) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1136,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1136,
         "selected" : false
       },
       "selected" : false
@@ -7661,10 +7931,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "366",
         "target" : "440",
         "shared_name" : "(to CAMERA) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to CAMERA) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1134,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1134,
         "selected" : false
       },
       "selected" : false
@@ -7674,10 +7945,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "366",
         "target" : "440",
         "shared_name" : "(to CAMERA) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to CAMERA) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1132,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1132,
         "selected" : false
       },
       "selected" : false
@@ -7687,10 +7959,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "366",
         "target" : "440",
         "shared_name" : "(to CAMERA) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to CAMERA) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1130,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1130,
         "selected" : false
       },
       "selected" : false
@@ -7700,10 +7973,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "366",
         "target" : "440",
         "shared_name" : "(to CAMERA) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to CAMERA) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1128,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1128,
         "selected" : false
       },
       "selected" : false
@@ -7713,10 +7987,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "364",
         "target" : "456",
         "shared_name" : "(something occurs to her) (ferris bueller) cut",
+        "shared_interaction" : "ferris bueller",
         "name" : "(something occurs to her) (ferris bueller) cut",
         "interaction" : "ferris bueller",
         "SUID" : 1126,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1126,
         "selected" : false
       },
       "selected" : false
@@ -7726,10 +8001,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "362",
         "target" : "440",
         "shared_name" : "(polite laugh) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(polite laugh) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1124,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1124,
         "selected" : false
       },
       "selected" : false
@@ -7739,10 +8015,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "360",
         "target" : "456",
         "shared_name" : "(to Cameron) (ferris bueller) cut",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Cameron) (ferris bueller) cut",
         "interaction" : "ferris bueller",
         "SUID" : 1122,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1122,
         "selected" : false
       },
       "selected" : false
@@ -7752,10 +8029,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "360",
         "target" : "388",
         "shared_name" : "(to Cameron) (ferris bueller) sloane",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Cameron) (ferris bueller) sloane",
         "interaction" : "ferris bueller",
         "SUID" : 1120,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1120,
         "selected" : false
       },
       "selected" : false
@@ -7765,10 +8043,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "358",
         "target" : "456",
         "shared_name" : "(to Sloane) (ferris bueller) cut",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Sloane) (ferris bueller) cut",
         "interaction" : "ferris bueller",
         "SUID" : 1118,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1118,
         "selected" : false
       },
       "selected" : false
@@ -7778,10 +8057,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "358",
         "target" : "440",
         "shared_name" : "(to Sloane) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Sloane) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1116,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1116,
         "selected" : false
       },
       "selected" : false
@@ -7791,10 +8071,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "356",
         "target" : "456",
         "shared_name" : "(shifts gears, to Joyce) (ferris bueller) cut",
+        "shared_interaction" : "ferris bueller",
         "name" : "(shifts gears, to Joyce) (ferris bueller) cut",
         "interaction" : "ferris bueller",
         "SUID" : 1114,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1114,
         "selected" : false
       },
       "selected" : false
@@ -7804,10 +8085,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "354",
         "target" : "440",
         "shared_name" : "(points to Sloane) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(points to Sloane) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1112,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1112,
         "selected" : false
       },
       "selected" : false
@@ -7817,10 +8099,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "352",
         "target" : "416",
         "shared_name" : "(chuckles) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(chuckles) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1110,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1110,
         "selected" : false
       },
       "selected" : false
@@ -7830,10 +8113,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "350",
         "target" : "440",
         "shared_name" : "(to the Maitre'd) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to the Maitre'd) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1108,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1108,
         "selected" : false
       },
       "selected" : false
@@ -7843,10 +8127,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "348",
         "target" : "440",
         "shared_name" : "(grabs the phone) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(grabs the phone) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1106,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1106,
         "selected" : false
       },
       "selected" : false
@@ -7856,10 +8141,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "346",
         "target" : "434",
         "shared_name" : "(mean, vicious) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(mean, vicious) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1104,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1104,
         "selected" : false
       },
       "selected" : false
@@ -7869,10 +8155,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "344",
         "target" : "434",
         "shared_name" : "(wicked pause) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(wicked pause) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1102,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1102,
         "selected" : false
       },
       "selected" : false
@@ -7882,10 +8169,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "342",
         "target" : "434",
         "shared_name" : "(yells after her) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(yells after her) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1100,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1100,
         "selected" : false
       },
       "selected" : false
@@ -7895,10 +8183,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "340",
         "target" : "440",
         "shared_name" : "(continues) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(continues) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1098,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1098,
         "selected" : false
       },
       "selected" : false
@@ -7908,10 +8197,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "340",
         "target" : "416",
         "shared_name" : "(continues) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(continues) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1096,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1096,
         "selected" : false
       },
       "selected" : false
@@ -7921,10 +8211,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "338",
         "target" : "388",
         "shared_name" : "(remorsefully) (ferris bueller) sloane",
+        "shared_interaction" : "ferris bueller",
         "name" : "(remorsefully) (ferris bueller) sloane",
         "interaction" : "ferris bueller",
         "SUID" : 1094,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1094,
         "selected" : false
       },
       "selected" : false
@@ -7934,10 +8225,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "336",
         "target" : "440",
         "shared_name" : "(blank) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(blank) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1092,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1092,
         "selected" : false
       },
       "selected" : false
@@ -7947,10 +8239,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "334",
         "target" : "420",
         "shared_name" : "(dramatic, deadly serious) (ferris bueller) cameron",
+        "shared_interaction" : "ferris bueller",
         "name" : "(dramatic, deadly serious) (ferris bueller) cameron",
         "interaction" : "ferris bueller",
         "SUID" : 1090,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1090,
         "selected" : false
       },
       "selected" : false
@@ -7960,10 +8253,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "332",
         "target" : "434",
         "shared_name" : "(condescending) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(condescending) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1088,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1088,
         "selected" : false
       },
       "selected" : false
@@ -7973,10 +8267,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "330",
         "target" : "440",
         "shared_name" : "(quizical look) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(quizical look) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1086,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1086,
         "selected" : false
       },
       "selected" : false
@@ -7986,10 +8281,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "328",
         "target" : "388",
         "shared_name" : "(revolted) (ferris bueller) sloane",
+        "shared_interaction" : "ferris bueller",
         "name" : "(revolted) (ferris bueller) sloane",
         "interaction" : "ferris bueller",
         "SUID" : 1084,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1084,
         "selected" : false
       },
       "selected" : false
@@ -7999,10 +8295,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "326",
         "target" : "416",
         "shared_name" : "(to the intercom) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to the intercom) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1082,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1082,
         "selected" : false
       },
       "selected" : false
@@ -8012,10 +8309,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "324",
         "target" : "416",
         "shared_name" : "(happy sigh) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(happy sigh) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1080,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1080,
         "selected" : false
       },
       "selected" : false
@@ -8025,10 +8323,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "324",
         "target" : "440",
         "shared_name" : "(happy sigh) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(happy sigh) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1078,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1078,
         "selected" : false
       },
       "selected" : false
@@ -8038,10 +8337,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "322",
         "target" : "384",
         "shared_name" : "(defeated) (ferris bueller) rooney",
+        "shared_interaction" : "ferris bueller",
         "name" : "(defeated) (ferris bueller) rooney",
         "interaction" : "ferris bueller",
         "SUID" : 1076,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1076,
         "selected" : false
       },
       "selected" : false
@@ -8051,10 +8351,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "320",
         "target" : "440",
         "shared_name" : "(clears his voice, speaks into the mike, affects a \"radio\" voice) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(clears his voice, speaks into the mike, affects a \"radio\" voice) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1074,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1074,
         "selected" : false
       },
       "selected" : false
@@ -8064,10 +8365,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "318",
         "target" : "452",
         "shared_name" : "(to the kid) (ferris bueller) katie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to the kid) (ferris bueller) katie",
         "interaction" : "ferris bueller",
         "SUID" : 1072,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1072,
         "selected" : false
       },
       "selected" : false
@@ -8077,10 +8379,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "316",
         "target" : "416",
         "shared_name" : "(matter-of-fact) (ferris bueller) misc",
+        "shared_interaction" : "ferris bueller",
         "name" : "(matter-of-fact) (ferris bueller) misc",
         "interaction" : "ferris bueller",
         "SUID" : 1070,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1070,
         "selected" : false
       },
       "selected" : false
@@ -8090,10 +8393,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "314",
         "target" : "440",
         "shared_name" : "(Cameron) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(Cameron) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1068,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1068,
         "selected" : false
       },
       "selected" : false
@@ -8103,10 +8407,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "312",
         "target" : "434",
         "shared_name" : "(to the boy) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to the boy) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1066,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1066,
         "selected" : false
       },
       "selected" : false
@@ -8116,10 +8421,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "310",
         "target" : "434",
         "shared_name" : "(to Rooney) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Rooney) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1064,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1064,
         "selected" : false
       },
       "selected" : false
@@ -8129,10 +8435,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "308",
         "target" : "434",
         "shared_name" : "(shakes her head) (ferris bueller) jeanie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(shakes her head) (ferris bueller) jeanie",
         "interaction" : "ferris bueller",
         "SUID" : 1062,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1062,
         "selected" : false
       },
       "selected" : false
@@ -8142,10 +8449,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "306",
         "target" : "456",
         "shared_name" : "(to Todd) (ferris bueller) cut",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Todd) (ferris bueller) cut",
         "interaction" : "ferris bueller",
         "SUID" : 1060,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1060,
         "selected" : false
       },
       "selected" : false
@@ -8155,10 +8463,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "304",
         "target" : "452",
         "shared_name" : "(to Todd and Kimberly) (ferris bueller) katie",
+        "shared_interaction" : "ferris bueller",
         "name" : "(to Todd and Kimberly) (ferris bueller) katie",
         "interaction" : "ferris bueller",
         "SUID" : 1058,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1058,
         "selected" : false
       },
       "selected" : false
@@ -8168,10 +8477,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "302",
         "target" : "440",
         "shared_name" : "(deathly gasp) (ferris bueller) ferris",
+        "shared_interaction" : "ferris bueller",
         "name" : "(deathly gasp) (ferris bueller) ferris",
         "interaction" : "ferris bueller",
         "SUID" : 1056,
-        "shared_interaction" : "ferris bueller",
+        "BEND_MAP_ID" : 1056,
         "selected" : false
       },
       "selected" : false
@@ -8181,10 +8491,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "300",
         "target" : "298",
         "shared_name" : "(upset) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(upset) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 1054,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1054,
         "selected" : false
       },
       "selected" : false
@@ -8194,10 +8505,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "296",
         "target" : "416",
         "shared_name" : "(annoyingly) (breakfast club) misc",
+        "shared_interaction" : "breakfast club",
         "name" : "(annoyingly) (breakfast club) misc",
         "interaction" : "breakfast club",
         "SUID" : 1052,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1052,
         "selected" : false
       },
       "selected" : false
@@ -8207,10 +8519,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "294",
         "target" : "298",
         "shared_name" : "(quietly to himself) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(quietly to himself) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 1050,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1050,
         "selected" : false
       },
       "selected" : false
@@ -8220,10 +8533,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "290",
         "target" : "292",
         "shared_name" : "(disgusted) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(disgusted) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1048,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1048,
         "selected" : false
       },
       "selected" : false
@@ -8233,10 +8547,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "290",
         "target" : "292",
         "shared_name" : "(disgusted) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(disgusted) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1046,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1046,
         "selected" : false
       },
       "selected" : false
@@ -8246,10 +8561,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "292",
         "shared_name" : "(to Bender) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1044,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1044,
         "selected" : false
       },
       "selected" : false
@@ -8259,10 +8575,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "284",
         "shared_name" : "(to Bender) (breakfast club) andrew",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) andrew",
         "interaction" : "breakfast club",
         "SUID" : 1042,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1042,
         "selected" : false
       },
       "selected" : false
@@ -8272,10 +8589,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "292",
         "shared_name" : "(to Bender) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1040,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1040,
         "selected" : false
       },
       "selected" : false
@@ -8285,10 +8603,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "292",
         "shared_name" : "(to Bender) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1038,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1038,
         "selected" : false
       },
       "selected" : false
@@ -8298,10 +8617,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "268",
         "shared_name" : "(to Bender) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 1036,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1036,
         "selected" : false
       },
       "selected" : false
@@ -8311,10 +8631,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "268",
         "shared_name" : "(to Bender) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 1034,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1034,
         "selected" : false
       },
       "selected" : false
@@ -8324,10 +8645,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "268",
         "shared_name" : "(to Bender) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 1032,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1032,
         "selected" : false
       },
       "selected" : false
@@ -8337,10 +8659,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "268",
         "shared_name" : "(to Bender) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 1030,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1030,
         "selected" : false
       },
       "selected" : false
@@ -8350,10 +8673,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "292",
         "shared_name" : "(to Bender) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1028,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1028,
         "selected" : false
       },
       "selected" : false
@@ -8363,10 +8687,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "298",
         "shared_name" : "(to Bender) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 1026,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1026,
         "selected" : false
       },
       "selected" : false
@@ -8376,10 +8701,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "292",
         "shared_name" : "(to Bender) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1024,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1024,
         "selected" : false
       },
       "selected" : false
@@ -8389,10 +8715,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "288",
         "target" : "268",
         "shared_name" : "(to Bender) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Bender) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 1022,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1022,
         "selected" : false
       },
       "selected" : false
@@ -8402,10 +8729,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "286",
         "target" : "284",
         "shared_name" : "(to Claire about Bender) (breakfast club) andrew",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Claire about Bender) (breakfast club) andrew",
         "interaction" : "breakfast club",
         "SUID" : 1020,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1020,
         "selected" : false
       },
       "selected" : false
@@ -8415,10 +8743,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "282",
         "target" : "298",
         "shared_name" : "(nervous) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(nervous) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 1018,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1018,
         "selected" : false
       },
       "selected" : false
@@ -8428,10 +8757,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "292",
         "shared_name" : "(to Andrew) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1016,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1016,
         "selected" : false
       },
       "selected" : false
@@ -8441,10 +8771,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "276",
         "shared_name" : "(to Andrew) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 1014,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1014,
         "selected" : false
       },
       "selected" : false
@@ -8454,10 +8785,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "268",
         "shared_name" : "(to Andrew) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 1012,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1012,
         "selected" : false
       },
       "selected" : false
@@ -8467,10 +8799,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "268",
         "shared_name" : "(to Andrew) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 1010,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1010,
         "selected" : false
       },
       "selected" : false
@@ -8480,10 +8813,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "292",
         "shared_name" : "(to Andrew) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1008,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1008,
         "selected" : false
       },
       "selected" : false
@@ -8493,10 +8827,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "298",
         "shared_name" : "(to Andrew) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 1006,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1006,
         "selected" : false
       },
       "selected" : false
@@ -8506,10 +8841,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "292",
         "shared_name" : "(to Andrew) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 1004,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1004,
         "selected" : false
       },
       "selected" : false
@@ -8519,10 +8855,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "268",
         "shared_name" : "(to Andrew) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 1002,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1002,
         "selected" : false
       },
       "selected" : false
@@ -8532,10 +8869,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "276",
         "shared_name" : "(to Andrew) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 1000,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 1000,
         "selected" : false
       },
       "selected" : false
@@ -8545,10 +8883,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "292",
         "shared_name" : "(to Andrew) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 998,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 998,
         "selected" : false
       },
       "selected" : false
@@ -8558,10 +8897,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "298",
         "shared_name" : "(to Andrew) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 996,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 996,
         "selected" : false
       },
       "selected" : false
@@ -8571,10 +8911,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "280",
         "target" : "292",
         "shared_name" : "(to Andrew) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 994,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 994,
         "selected" : false
       },
       "selected" : false
@@ -8584,10 +8925,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "278",
         "target" : "276",
         "shared_name" : "(to Claire) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Claire) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 992,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 992,
         "selected" : false
       },
       "selected" : false
@@ -8597,10 +8939,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "278",
         "target" : "276",
         "shared_name" : "(to Claire) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Claire) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 990,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 990,
         "selected" : false
       },
       "selected" : false
@@ -8610,10 +8953,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "278",
         "target" : "276",
         "shared_name" : "(to Claire) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Claire) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 988,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 988,
         "selected" : false
       },
       "selected" : false
@@ -8623,10 +8967,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "278",
         "target" : "268",
         "shared_name" : "(to Claire) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Claire) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 986,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 986,
         "selected" : false
       },
       "selected" : false
@@ -8636,10 +8981,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "278",
         "target" : "298",
         "shared_name" : "(to Claire) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Claire) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 984,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 984,
         "selected" : false
       },
       "selected" : false
@@ -8649,10 +8995,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "278",
         "target" : "298",
         "shared_name" : "(to Claire) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Claire) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 982,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 982,
         "selected" : false
       },
       "selected" : false
@@ -8662,10 +9009,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "278",
         "target" : "268",
         "shared_name" : "(to Claire) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Claire) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 980,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 980,
         "selected" : false
       },
       "selected" : false
@@ -8675,10 +9023,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "278",
         "target" : "240",
         "shared_name" : "(to Claire) (breakfast club) allison",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Claire) (breakfast club) allison",
         "interaction" : "breakfast club",
         "SUID" : 978,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 978,
         "selected" : false
       },
       "selected" : false
@@ -8688,10 +9037,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "274",
         "target" : "276",
         "shared_name" : "(to Andrew and Claire) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Andrew and Claire) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 976,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 976,
         "selected" : false
       },
       "selected" : false
@@ -8701,10 +9051,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "272",
         "target" : "276",
         "shared_name" : "(a beat) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(a beat) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 974,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 974,
         "selected" : false
       },
       "selected" : false
@@ -8714,10 +9065,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "272",
         "target" : "276",
         "shared_name" : "(a beat) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(a beat) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 972,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 972,
         "selected" : false
       },
       "selected" : false
@@ -8727,10 +9079,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "272",
         "target" : "276",
         "shared_name" : "(a beat) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(a beat) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 970,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 970,
         "selected" : false
       },
       "selected" : false
@@ -8740,10 +9093,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "272",
         "target" : "268",
         "shared_name" : "(a beat) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(a beat) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 968,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 968,
         "selected" : false
       },
       "selected" : false
@@ -8753,10 +9107,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "272",
         "target" : "240",
         "shared_name" : "(a beat) (breakfast club) allison",
+        "shared_interaction" : "breakfast club",
         "name" : "(a beat) (breakfast club) allison",
         "interaction" : "breakfast club",
         "SUID" : 966,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 966,
         "selected" : false
       },
       "selected" : false
@@ -8766,10 +9121,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "270",
         "target" : "276",
         "shared_name" : "(another beat) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(another beat) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 964,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 964,
         "selected" : false
       },
       "selected" : false
@@ -8779,10 +9135,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "270",
         "target" : "276",
         "shared_name" : "(another beat) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(another beat) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 962,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 962,
         "selected" : false
       },
       "selected" : false
@@ -8792,10 +9149,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "270",
         "target" : "276",
         "shared_name" : "(another beat) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(another beat) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 960,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 960,
         "selected" : false
       },
       "selected" : false
@@ -8805,10 +9163,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "266",
         "target" : "268",
         "shared_name" : "(to himself) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to himself) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 958,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 958,
         "selected" : false
       },
       "selected" : false
@@ -8818,10 +9177,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "266",
         "target" : "284",
         "shared_name" : "(to himself) (breakfast club) andrew",
+        "shared_interaction" : "breakfast club",
         "name" : "(to himself) (breakfast club) andrew",
         "interaction" : "breakfast club",
         "SUID" : 956,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 956,
         "selected" : false
       },
       "selected" : false
@@ -8831,10 +9191,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "266",
         "target" : "276",
         "shared_name" : "(to himself) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to himself) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 954,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 954,
         "selected" : false
       },
       "selected" : false
@@ -8844,10 +9205,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "266",
         "target" : "276",
         "shared_name" : "(to himself) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to himself) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 952,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 952,
         "selected" : false
       },
       "selected" : false
@@ -8857,10 +9219,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "266",
         "target" : "268",
         "shared_name" : "(to himself) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to himself) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 950,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 950,
         "selected" : false
       },
       "selected" : false
@@ -8870,10 +9233,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "264",
         "target" : "276",
         "shared_name" : "(with mock enthusiasm) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(with mock enthusiasm) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 948,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 948,
         "selected" : false
       },
       "selected" : false
@@ -8883,10 +9247,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "262",
         "target" : "298",
         "shared_name" : "(to no one imparticular) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(to no one imparticular) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 946,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 946,
         "selected" : false
       },
       "selected" : false
@@ -8896,10 +9261,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "276",
         "shared_name" : "(to Brian) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 944,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 944,
         "selected" : false
       },
       "selected" : false
@@ -8909,10 +9275,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "276",
         "shared_name" : "(to Brian) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 942,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 942,
         "selected" : false
       },
       "selected" : false
@@ -8922,10 +9289,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "284",
         "shared_name" : "(to Brian) (breakfast club) andrew",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) andrew",
         "interaction" : "breakfast club",
         "SUID" : 940,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 940,
         "selected" : false
       },
       "selected" : false
@@ -8935,10 +9303,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "276",
         "shared_name" : "(to Brian) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 938,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 938,
         "selected" : false
       },
       "selected" : false
@@ -8948,10 +9317,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "268",
         "shared_name" : "(to Brian) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 936,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 936,
         "selected" : false
       },
       "selected" : false
@@ -8961,10 +9331,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "284",
         "shared_name" : "(to Brian) (breakfast club) andrew",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) andrew",
         "interaction" : "breakfast club",
         "SUID" : 934,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 934,
         "selected" : false
       },
       "selected" : false
@@ -8974,10 +9345,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "276",
         "shared_name" : "(to Brian) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 932,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 932,
         "selected" : false
       },
       "selected" : false
@@ -8987,10 +9359,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "276",
         "shared_name" : "(to Brian) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 930,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 930,
         "selected" : false
       },
       "selected" : false
@@ -9000,10 +9373,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "292",
         "shared_name" : "(to Brian) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 928,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 928,
         "selected" : false
       },
       "selected" : false
@@ -9013,10 +9387,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "276",
         "shared_name" : "(to Brian) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 926,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 926,
         "selected" : false
       },
       "selected" : false
@@ -9026,10 +9401,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "260",
         "target" : "284",
         "shared_name" : "(to Brian) (breakfast club) andrew",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Brian) (breakfast club) andrew",
         "interaction" : "breakfast club",
         "SUID" : 924,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 924,
         "selected" : false
       },
       "selected" : false
@@ -9039,10 +9415,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "258",
         "target" : "276",
         "shared_name" : "(with mock hurt) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(with mock hurt) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 922,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 922,
         "selected" : false
       },
       "selected" : false
@@ -9052,10 +9429,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "256",
         "target" : "284",
         "shared_name" : "(defensive) (breakfast club) andrew",
+        "shared_interaction" : "breakfast club",
         "name" : "(defensive) (breakfast club) andrew",
         "interaction" : "breakfast club",
         "SUID" : 920,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 920,
         "selected" : false
       },
       "selected" : false
@@ -9065,10 +9443,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "254",
         "target" : "276",
         "shared_name" : "(in a stern voice) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(in a stern voice) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 918,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 918,
         "selected" : false
       },
       "selected" : false
@@ -9078,10 +9457,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "252",
         "target" : "268",
         "shared_name" : "(pointing) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(pointing) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 916,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 916,
         "selected" : false
       },
       "selected" : false
@@ -9091,10 +9471,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "250",
         "target" : "276",
         "shared_name" : "(under his breath) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(under his breath) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 914,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 914,
         "selected" : false
       },
       "selected" : false
@@ -9104,10 +9485,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "248",
         "target" : "276",
         "shared_name" : "(loudly) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(loudly) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 912,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 912,
         "selected" : false
       },
       "selected" : false
@@ -9117,10 +9499,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "248",
         "target" : "240",
         "shared_name" : "(loudly) (breakfast club) allison",
+        "shared_interaction" : "breakfast club",
         "name" : "(loudly) (breakfast club) allison",
         "interaction" : "breakfast club",
         "SUID" : 910,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 910,
         "selected" : false
       },
       "selected" : false
@@ -9130,10 +9513,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "246",
         "target" : "268",
         "shared_name" : "(to everyone) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to everyone) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 908,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 908,
         "selected" : false
       },
       "selected" : false
@@ -9143,10 +9527,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "246",
         "target" : "268",
         "shared_name" : "(to everyone) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to everyone) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 906,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 906,
         "selected" : false
       },
       "selected" : false
@@ -9156,10 +9541,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "244",
         "target" : "268",
         "shared_name" : "(Bender mouths \"I'm cracking skulls\") (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(Bender mouths \"I'm cracking skulls\") (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 904,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 904,
         "selected" : false
       },
       "selected" : false
@@ -9169,10 +9555,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "242",
         "target" : "292",
         "shared_name" : "(pronouncing it correctly) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(pronouncing it correctly) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 902,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 902,
         "selected" : false
       },
       "selected" : false
@@ -9182,10 +9569,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "238",
         "target" : "292",
         "shared_name" : "(resentfully) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(resentfully) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 900,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 900,
         "selected" : false
       },
       "selected" : false
@@ -9195,10 +9583,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "236",
         "target" : "268",
         "shared_name" : "(to Allison) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Allison) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 898,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 898,
         "selected" : false
       },
       "selected" : false
@@ -9208,10 +9597,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "236",
         "target" : "298",
         "shared_name" : "(to Allison) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Allison) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 896,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 896,
         "selected" : false
       },
       "selected" : false
@@ -9221,10 +9611,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "236",
         "target" : "292",
         "shared_name" : "(to Allison) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Allison) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 894,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 894,
         "selected" : false
       },
       "selected" : false
@@ -9234,10 +9625,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "234",
         "target" : "276",
         "shared_name" : "(in a loud and friendly voice) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(in a loud and friendly voice) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 892,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 892,
         "selected" : false
       },
       "selected" : false
@@ -9247,10 +9639,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "232",
         "target" : "276",
         "shared_name" : "(in a kiddie voice) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(in a kiddie voice) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 890,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 890,
         "selected" : false
       },
       "selected" : false
@@ -9260,10 +9653,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "230",
         "target" : "276",
         "shared_name" : "(loud) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(loud) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 888,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 888,
         "selected" : false
       },
       "selected" : false
@@ -9273,10 +9667,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "230",
         "target" : "276",
         "shared_name" : "(loud) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(loud) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 886,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 886,
         "selected" : false
       },
       "selected" : false
@@ -9286,10 +9681,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "230",
         "target" : "276",
         "shared_name" : "(loud) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(loud) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 884,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 884,
         "selected" : false
       },
       "selected" : false
@@ -9299,10 +9695,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "230",
         "target" : "276",
         "shared_name" : "(loud) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(loud) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 882,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 882,
         "selected" : false
       },
       "selected" : false
@@ -9312,10 +9709,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "228",
         "target" : "276",
         "shared_name" : "(kiddie) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(kiddie) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 880,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 880,
         "selected" : false
       },
       "selected" : false
@@ -9325,10 +9723,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "228",
         "target" : "276",
         "shared_name" : "(kiddie) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(kiddie) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 878,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 878,
         "selected" : false
       },
       "selected" : false
@@ -9338,10 +9737,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "228",
         "target" : "276",
         "shared_name" : "(kiddie) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(kiddie) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 876,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 876,
         "selected" : false
       },
       "selected" : false
@@ -9351,10 +9751,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "226",
         "target" : "276",
         "shared_name" : "(quiet and motherly) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(quiet and motherly) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 874,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 874,
         "selected" : false
       },
       "selected" : false
@@ -9364,10 +9765,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "224",
         "target" : "276",
         "shared_name" : "(as his father) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(as his father) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 872,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 872,
         "selected" : false
       },
       "selected" : false
@@ -9377,10 +9779,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "224",
         "target" : "276",
         "shared_name" : "(as his father) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(as his father) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 870,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 870,
         "selected" : false
       },
       "selected" : false
@@ -9390,10 +9793,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "224",
         "target" : "276",
         "shared_name" : "(as his father) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(as his father) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 868,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 868,
         "selected" : false
       },
       "selected" : false
@@ -9403,10 +9807,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "224",
         "target" : "276",
         "shared_name" : "(as his father) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(as his father) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 866,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 866,
         "selected" : false
       },
       "selected" : false
@@ -9416,10 +9821,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "222",
         "target" : "276",
         "shared_name" : "(as his mother) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(as his mother) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 864,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 864,
         "selected" : false
       },
       "selected" : false
@@ -9429,10 +9835,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "220",
         "target" : "276",
         "shared_name" : "(as himself) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(as himself) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 862,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 862,
         "selected" : false
       },
       "selected" : false
@@ -9442,10 +9849,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "220",
         "target" : "276",
         "shared_name" : "(as himself) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(as himself) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 860,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 860,
         "selected" : false
       },
       "selected" : false
@@ -9455,10 +9863,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "218",
         "target" : "276",
         "shared_name" : "(as himself--yelling) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(as himself--yelling) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 858,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 858,
         "selected" : false
       },
       "selected" : false
@@ -9468,10 +9877,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "216",
         "target" : "276",
         "shared_name" : "(as his father--yelling) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(as his father--yelling) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 856,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 856,
         "selected" : false
       },
       "selected" : false
@@ -9481,10 +9891,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "214",
         "target" : "276",
         "shared_name" : "(to Vernon) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Vernon) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 854,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 854,
         "selected" : false
       },
       "selected" : false
@@ -9494,10 +9905,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "212",
         "target" : "268",
         "shared_name" : "(to everybody) (breakfast club) vernon",
+        "shared_interaction" : "breakfast club",
         "name" : "(to everybody) (breakfast club) vernon",
         "interaction" : "breakfast club",
         "SUID" : 852,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 852,
         "selected" : false
       },
       "selected" : false
@@ -9507,10 +9919,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "210",
         "target" : "276",
         "shared_name" : "(screaming) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(screaming) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 850,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 850,
         "selected" : false
       },
       "selected" : false
@@ -9520,10 +9933,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "210",
         "target" : "292",
         "shared_name" : "(screaming) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(screaming) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 848,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 848,
         "selected" : false
       },
       "selected" : false
@@ -9533,10 +9947,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "208",
         "target" : "292",
         "shared_name" : "(flustered) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(flustered) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 846,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 846,
         "selected" : false
       },
       "selected" : false
@@ -9546,10 +9961,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "206",
         "target" : "292",
         "shared_name" : "(shrugs) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(shrugs) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 844,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 844,
         "selected" : false
       },
       "selected" : false
@@ -9559,10 +9975,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "204",
         "target" : "298",
         "shared_name" : "(like it's obvious) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(like it's obvious) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 842,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 842,
         "selected" : false
       },
       "selected" : false
@@ -9572,10 +9989,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "202",
         "target" : "240",
         "shared_name" : "(with feeling) (breakfast club) allison",
+        "shared_interaction" : "breakfast club",
         "name" : "(with feeling) (breakfast club) allison",
         "interaction" : "breakfast club",
         "SUID" : 840,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 840,
         "selected" : false
       },
       "selected" : false
@@ -9585,10 +10003,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "200",
         "target" : "284",
         "shared_name" : "(he's crying) (breakfast club) andrew",
+        "shared_interaction" : "breakfast club",
         "name" : "(he's crying) (breakfast club) andrew",
         "interaction" : "breakfast club",
         "SUID" : 838,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 838,
         "selected" : false
       },
       "selected" : false
@@ -9598,10 +10017,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "198",
         "target" : "276",
         "shared_name" : "(he turns to Claire) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(he turns to Claire) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 836,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 836,
         "selected" : false
       },
       "selected" : false
@@ -9611,10 +10031,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "196",
         "target" : "276",
         "shared_name" : "(furious) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(furious) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 834,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 834,
         "selected" : false
       },
       "selected" : false
@@ -9624,10 +10045,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "196",
         "target" : "292",
         "shared_name" : "(furious) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(furious) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 832,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 832,
         "selected" : false
       },
       "selected" : false
@@ -9637,10 +10059,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "194",
         "target" : "292",
         "shared_name" : "(quietly) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(quietly) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 830,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 830,
         "selected" : false
       },
       "selected" : false
@@ -9650,10 +10073,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "192",
         "target" : "276",
         "shared_name" : "(furious and screaming at Claire) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(furious and screaming at Claire) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 828,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 828,
         "selected" : false
       },
       "selected" : false
@@ -9663,10 +10087,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "190",
         "target" : "276",
         "shared_name" : "(furious once again) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(furious once again) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 826,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 826,
         "selected" : false
       },
       "selected" : false
@@ -9676,10 +10101,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "188",
         "target" : "292",
         "shared_name" : "(furious and sobbing) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(furious and sobbing) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 824,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 824,
         "selected" : false
       },
       "selected" : false
@@ -9689,10 +10115,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "186",
         "target" : "292",
         "shared_name" : "(crying again) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(crying again) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 822,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 822,
         "selected" : false
       },
       "selected" : false
@@ -9702,10 +10129,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "184",
         "target" : "292",
         "shared_name" : "(with pity) (breakfast club) claire",
+        "shared_interaction" : "breakfast club",
         "name" : "(with pity) (breakfast club) claire",
         "interaction" : "breakfast club",
         "SUID" : 820,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 820,
         "selected" : false
       },
       "selected" : false
@@ -9715,10 +10143,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "182",
         "target" : "298",
         "shared_name" : "(with pride) (breakfast club) brian",
+        "shared_interaction" : "breakfast club",
         "name" : "(with pride) (breakfast club) brian",
         "interaction" : "breakfast club",
         "SUID" : 818,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 818,
         "selected" : false
       },
       "selected" : false
@@ -9728,10 +10157,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "180",
         "target" : "240",
         "shared_name" : "(smiling) (breakfast club) allison",
+        "shared_interaction" : "breakfast club",
         "name" : "(smiling) (breakfast club) allison",
         "interaction" : "breakfast club",
         "SUID" : 816,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 816,
         "selected" : false
       },
       "selected" : false
@@ -9741,10 +10171,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "178",
         "target" : "284",
         "shared_name" : "(laughing) (breakfast club) andrew",
+        "shared_interaction" : "breakfast club",
         "name" : "(laughing) (breakfast club) andrew",
         "interaction" : "breakfast club",
         "SUID" : 814,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 814,
         "selected" : false
       },
       "selected" : false
@@ -9754,10 +10185,11 @@ var networks = {"hughes_desc.tsv": {
         "source" : "176",
         "target" : "276",
         "shared_name" : "(to Carl) (breakfast club) bender",
+        "shared_interaction" : "breakfast club",
         "name" : "(to Carl) (breakfast club) bender",
         "interaction" : "breakfast club",
         "SUID" : 812,
-        "shared_interaction" : "breakfast club",
+        "BEND_MAP_ID" : 812,
         "selected" : false
       },
       "selected" : false
