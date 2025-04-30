@@ -6,7 +6,7 @@
     
     <rect width="40" height="300" x="90" y="200" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
     <rect width="40" height="80" x="190" y="420" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
-    <rect width="40" height="310" x="290" y="210" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
+    <rect width="40" height="310" x="290" y="200" style="fill:rgb(0,0,255);stroke-width:2;stroke:black"/>
     
     <text x="90" y="520" transform="rotate(30 90,520)" font-size="12" fill="black">
         Ferris Bueller's Day Off - 205 Scenes
