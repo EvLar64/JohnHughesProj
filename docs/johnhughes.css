@@ -33,6 +33,12 @@ hr {
     margin-right: auto;
     background-color: #d9d7d7;
 }
+.sources {
+  text-align:center;
+}
+.license {
+  color:black;
+}
 /*navbar*/
 nav {
         display: flex;
