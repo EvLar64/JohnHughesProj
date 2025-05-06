@@ -183,7 +183,7 @@ figcaption {
 
 .dialogue{
     font-weight: bold;
+    margin-left: 0em;
+    margin-right: 2em;
     white-space: pre-wrap;
-    margin-left: 2em;
-    margin-right: 5em;
 }
