@@ -39,6 +39,9 @@ hr {
 .license {
   color:black;
 }
+.script a:link {
+    color:blue;
+}
 /*navbar*/
 nav {
         display: flex;
