@@ -183,5 +183,5 @@ figcaption {
 
 .dialogue{
     font-weight: bold;
-    white-space: pre-wrap;
+    display: inherit;
 }
