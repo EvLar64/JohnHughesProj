@@ -41,21 +41,21 @@
         </nav>
           <h2>Overview</h2>
           <hr/>
-        <h3>Methods</h3>
+        <h3><u>Methods</u></h3>
           <p>For this project, we began by gathering different .txt files of the scripts for <i>The Breakfast Club</i>, <i>Sixteen Candles</i>, and <i>Ferris Bueller's Day Off</i>. 
           Each team member then took a screenplay and marked it up (mostly with Regular Expressions) into a clean XML structure (dictated by the group and notated in a project document). Additionally, these marked-up documents all abided by our Schema (visible on its own page), which established/enforced the general mark-up rules (given that we had source documents coming from different places); and was constructed and laid out together. 
           Next, on the website side of things, those XML files were each run through an XSLT file that converted them to formatted, readable HTML views that we then adapted (to account for our style selections) and output onto the site. Our data collection/visualization then consisted of a few different processes, including Python word information coding (using things like NLTK and MatPlotLib), SVG/graph creation (using XSLT and otherwise), TSV tables, and Cytoscape networks based on our marked-up documents.
           The data (charting various things from dialogue frequencies to shot descriptions) and the code that found it are all visible on this site. </p>
-          <h3>Issues</h3>
+          <h3><u>Issues</u></h3>
         <p>While we ran into some issues when working on this project, most of them were resolved with relative ease. All three screenplays were accessed from the internet;
-         however, some of the Sixteen Candles screenplay had to be remarked by hand early on (even before XML), as unlike the other two sripts, it was initially sourced from a PDF scan that did not easily become a workable .txt. The screenplays also had different camera directions, scene headings, and formatting, which was difficult to track for markup consistency purposes.
+         however, some of the <i>Sixteen Candles</i> screenplay had to be remarked by hand early on (even before XML), as unlike the other two sripts, it was initially sourced from a PDF scan that did not easily become a workable .txt. The screenplays also had different camera directions, scene headings, and formatting, which was difficult to track for markup consistency purposes.
          On our Github repo, we had a continuous issue with getting the .DS_Store file to stay permanently gone (despite multiple .gitignore reinstallations). Some of the SVG files were redone early on as well in order to make them more comprehensible (or comprehensive).
-         We had to redo our .tsv file for the Cytoscape network a few times until it was able to be read and understood. We also had difficulty getting the Cytoscape network up on the site, though that was later fixed. From a coding angle, the main struggle was the sheer act of chipping away at the various Python functions (many of which were new to us) and getting them to work with our documents. One specific task that probably proved mosty tricky was the XSLT used to make the Ferris Bueller 4th Wall timeline visual. Besides that, the coding mostly went smoothly (oustide of crashes and finicky frustrations like not having proper libraries installed, etc.)</p>
-          <p style="text-align:center;">Example of Project XLST (Used for Ferris Bueller Timeline) :</p>
+         We had to redo our .tsv file for the Cytoscape networks a few times until it was able to be read and understood. We also had difficulty getting the Cytoscape networks up on the site, though that was later fixed. From a coding angle, the main struggle was the sheer act of chipping away at the various Python functions (many of which were new to us) and getting them to work with our documents. One specific task that probably proved most tricky was the XSLT used to make the Ferris Bueller 4th Wall timeline visual. Besides that, the coding mostly went smoothly (oustide of crashes and finicky frustrations like not having proper libraries installed, etc.).</p>
+          <p style="text-align:center;">Example of Project XSLT (Used for Ferris Bueller Timeline) :</p>
         <div class="container" style="padding-top:30px; padding-bottom:10px;">
             <iframe src="otherFiles/ferris_4thWall.txt" style="width: 85%; height: 720px;"></iframe>
         </div>
-          <h3>Conclusion</h3>
+          <h3><u>Conclusion</u></h3>
           <p></p>
           </div>
     </body>
